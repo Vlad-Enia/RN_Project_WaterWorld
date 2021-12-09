@@ -1,20 +1,12 @@
 import numpy as np
 from ple import PLE
 from ple.games.waterworld import WaterWorld
-import time
+from tensorflow import keras
 from pprint import pprint
-class NaiveAgent():
-    """
-            This is our naive agent. It picks actions at random!
-    """
+import random
+from collections import deque
 
-    def __init__(self, actions):
-        self.actions = actions
 
-    def pickAction(self):
-        return self.actions[np.random.randint(0, len(self.actions))]
-
-###################################
 game = WaterWorld(
     height=640, width=480
 )  # create our game
@@ -25,19 +17,15 @@ num_steps = 1
 force_fps = False  # slower speed
 display_screen = True
 
-reward = 0.0
-max_noops = 20
-nb_frames = 15000
 
 # make a PLE instance.
-p = PLE(game, fps=fps, frame_skip=frame_skip, num_steps=num_steps,
-        force_fps=force_fps, display_screen=display_screen)
-
-# our Naive agent!
-agent = NaiveAgent(p.getActionSet())
-
-# init agent and game.
+p = PLE(game, fps=fps, frame_skip=frame_skip, num_steps=num_steps, force_fps=force_fps, display_screen=display_screen)
 p.init()
+
+
+def agent(model_file):
+    return keras.models.load_model(model_file)
+
 
 def preprocess_state(state):
     processed_state = []
@@ -67,4 +55,30 @@ def preprocess_state(state):
     #     processed_state.extend([element * (-1) for element in list_])
     return np.array(processed_state)
 
-print (p.getActionSet())
+
+state_shape = len(preprocess_state(p.getGameState()))
+action_shape = len(p.getActionSet())
+
+model = agent('model.h5')
+
+test_episodes = 10
+
+state = preprocess_state(p.getGameState())
+
+for episode in range(test_episodes):
+    print('Episode {}'.format(episode))
+    score = 0
+    p.reset_game()
+    while not p.game_over():
+        processed_input = state.reshape([1, state_shape])
+        predicted_qs = model.predict(processed_input).flatten()
+        action = p.getActionSet()[np.argmax(predicted_qs)]
+        reward = p.act(action)
+        next_state = preprocess_state(p.getGameState())
+        done = p.game_over()
+        state = next_state
+        score += reward
+        if done:
+            print("Episode {} score: {}".format(episode, score))
+            break
+
