@@ -38,7 +38,7 @@ def agent(state_shape, action_shape):
 learning_rate = 0.003
 discount_factor = 0.8
 min_replay_size = 500
-batch_size = 10
+batch_size = 50
 
 
 def train(replay_memory, model, target_model):
@@ -94,7 +94,7 @@ frames_per_episode = 1001
 epsilon = 1  # Epsilon-greedy algorithm in initialized at 1 meaning every step is random at the start
 max_epsilon = 1  # You can't explore more than 100% of the time
 min_epsilon = 0.01  # At a minimum, we'll always explore 1% of the time
-decay = 0.01
+decay = 0.0009
 
 state_shape = len(preprocess_state(p.getGameState()))
 action_shape = len(p.getActionSet())
@@ -149,9 +149,13 @@ for episode in range(train_episodes):
             break
 
     if done:
-        print("\nEpisode {} DONE\n\t- score: {}\n\t- duration: {}".format(episode, score, time.time()-start_time))
+        print("\nEpisode {} DONE\n\t- score: {}\n\t- duration: {}\n\t- epsilon: {}".format(episode, score,
+                                                                                           time.time() - start_time,
+                                                                                           epsilon))
     else:
-        print("\nEpisode {} \n\t- score: {}\n\t- duration: {}".format(episode, score, time.time() - start_time))
+        print("\nEpisode {} \n\t- score: {}\n\t- duration: {}\n\t- epsilon: {}".format(episode, score,
+                                                                                       time.time() - start_time,
+                                                                                       epsilon))
 
     epsilon = min_epsilon + (max_epsilon - min_epsilon) * np.exp(-decay * episode)
 
