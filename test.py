@@ -59,28 +59,34 @@ def preprocess_state(state):
 state_shape = len(preprocess_state(p.getGameState()))
 action_shape = len(p.getActionSet())
 
-model = agent('model.h5')
+# model = agent('model.h5')
+#
+# test_episodes = 10
+#
+# state = preprocess_state(p.getGameState())
+#
+# for episode in range(test_episodes):
+#     print('Episode {}'.format(episode))
+#     score = 0
+#     p.reset_game()
+#     while not p.game_over():
+#         # print('\nplayer x', state[0])
+#         # print('player y', state[1])
+#         processed_input = state.reshape([1, state_shape])
+#         predicted_qs = model.predict(processed_input).flatten()
+#         action = p.getActionSet()[np.argmax(predicted_qs)]
+#         reward = p.act(action)
+#         next_state = preprocess_state(p.getGameState())
+#         done = p.game_over()
+#         state = next_state
+#         score += reward
+#         if done:
+#             print("Episode {} score: {}".format(episode, score))
+#             break
 
-test_episodes = 10
-
-state = preprocess_state(p.getGameState())
-
-for episode in range(test_episodes):
-    print('Episode {}'.format(episode))
-    score = 0
-    p.reset_game()
-    while not p.game_over():
-        # print('\nplayer x', state[0])
-        # print('player y', state[1])
-        processed_input = state.reshape([1, state_shape])
-        predicted_qs = model.predict(processed_input).flatten()
-        action = p.getActionSet()[np.argmax(predicted_qs)]
-        reward = p.act(action)
-        next_state = preprocess_state(p.getGameState())
-        done = p.game_over()
-        state = next_state
-        score += reward
-        if done:
-            print("Episode {} score: {}".format(episode, score))
-            break
-
+print(p.getActionSet())
+print
+for i in range(50):
+    action = p.getActionSet()[np.random.randint(0, action_shape)]
+    index_of_action = p.getActionSet().index(action)
+    print(index_of_action,'-',action)
