@@ -8,13 +8,13 @@ from collections import deque
 
 
 game = WaterWorld(
-    height=640, width=480
+    height=320, width=320, num_creeps=5
 )  # create our game
 
 fps = 30  # fps we want to run at
 frame_skip = 2
 num_steps = 1
-force_fps = False  # slower speed
+force_fps = False
 display_screen = True
 
 
@@ -70,6 +70,8 @@ for episode in range(test_episodes):
     score = 0
     p.reset_game()
     while not p.game_over():
+        # print('\nplayer x', state[0])
+        # print('player y', state[1])
         processed_input = state.reshape([1, state_shape])
         predicted_qs = model.predict(processed_input).flatten()
         action = p.getActionSet()[np.argmax(predicted_qs)]
