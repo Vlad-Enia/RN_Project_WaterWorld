@@ -101,7 +101,7 @@ action_shape = len(p.getActionSet())
 
 model = agent(state_shape, action_shape)
 target_model = agent(state_shape, action_shape)
-replay_memory = deque(maxlen=50_000)
+replay_memory = deque(maxlen=500_000)
 
 
 for episode in range(train_episodes):
