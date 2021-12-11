@@ -23,20 +23,20 @@ p.init()
 
 
 def agent(state_shape, action_shape):
-    learning_rate = 0.003
-    init = keras.initializers.HeUniform()
+    learning_rate = 0.001
+
     model = keras.Sequential()
     model.add(keras.layers.Input(shape=state_shape))
-    model.add(keras.layers.Dense(100, activation='relu', kernel_regularizer='l2', kernel_initializer=init))
-    model.add(keras.layers.Dense(100, activation='relu', kernel_regularizer='l2', kernel_initializer=init))
-    model.add(keras.layers.Dense(10, activation='relu', kernel_regularizer='l2', kernel_initializer=init))
-    model.add(keras.layers.Dense(action_shape, activation='linear', kernel_initializer=init))
-    model.compile(loss=keras.losses.Huber(), optimizer=keras.optimizers.SGD(learning_rate=learning_rate), metrics=['accuracy'])
+    model.add(keras.layers.Dense(100, activation='relu', kernel_regularizer='l2'))
+    model.add(keras.layers.Dense(100, activation='relu', kernel_regularizer='l2'))
+    model.add(keras.layers.Dense(10, activation='relu', kernel_regularizer='l2'))
+    model.add(keras.layers.Dense(action_shape, activation='linear'))
+    model.compile(loss=keras.losses.Huber(), optimizer=keras.optimizers.Adam(learning_rate=learning_rate, clipnorm=1.0), metrics=['accuracy'])
     return model
 
 
-learning_rate = 0.003
-discount_factor = 0.8
+learning_rate = 0.001
+discount_factor = 0.6
 min_replay_size = 500
 batch_size = 50
 
@@ -94,15 +94,15 @@ frames_per_episode = 1001
 epsilon = 1  # Epsilon-greedy algorithm in initialized at 1 meaning every step is random at the start
 max_epsilon = 1  # You can't explore more than 100% of the time
 min_epsilon = 0.01  # At a minimum, we'll always explore 1% of the time
-decay = 0.0009
+decay = 0.0006
 
 state_shape = len(preprocess_state(p.getGameState()))
 action_shape = len(p.getActionSet())
 
 model = agent(state_shape, action_shape)
 target_model = agent(state_shape, action_shape)
-replay_memory = deque(maxlen=500_000)
-steps_to_update_target_model = 0
+replay_memory = deque(maxlen=50_000)
+
 
 for episode in range(train_episodes):
     start_time = time.time()
@@ -110,8 +110,6 @@ for episode in range(train_episodes):
     p.reset_game()
     state = preprocess_state(p.getGameState())
     for frame in range(frames_per_episode):
-        steps_to_update_target_model += 1
-
         rand_nb = np.random.rand()
         if rand_nb <= epsilon:  # explore
             action = p.getActionSet()[np.random.randint(0, action_shape)]
@@ -140,13 +138,10 @@ for episode in range(train_episodes):
 
         state = next_state
 
-        #after each episode that ended by consuming all good creeps, we update our target model if 400 steps have passed
         if done:
-            if steps_to_update_target_model >= 400:
-                print('Copying weights from main model to target model...')
-                target_model.set_weights(model.get_weights())
-                steps_to_update_target_model = 0
             break
+
+
 
     if done:
         print("\nEpisode {} DONE\n\t- score: {}\n\t- duration: {}\n\t- epsilon: {}".format(episode, score,
@@ -155,7 +150,11 @@ for episode in range(train_episodes):
     else:
         print("\nEpisode {} \n\t- score: {}\n\t- duration: {}\n\t- epsilon: {}".format(episode, score,
                                                                                        time.time() - start_time,
-                                                                                       epsilon))
+                                                                                 epsilon))
+
+    print('Copying weights from main model to target model...')
+    target_model.set_weights(model.get_weights())
+    steps_to_update_target_model = 0
 
     epsilon = min_epsilon + (max_epsilon - min_epsilon) * np.exp(-decay * episode)
 
