@@ -21,9 +21,9 @@ display_screen = True
 p = PLE(game, fps=fps, frame_skip=frame_skip, num_steps=num_steps, force_fps=force_fps, display_screen=display_screen)
 p.init()
 
-
+learning_rate = 0.001
 def agent(state_shape, action_shape):
-    learning_rate = 0.001
+
 
     model = keras.Sequential()
     model.add(keras.layers.Input(shape=state_shape))
@@ -35,33 +35,32 @@ def agent(state_shape, action_shape):
     return model
 
 
-learning_rate = 0.001
+
 discount_factor = 0.6
 min_replay_size = 500
 batch_size = 50
-
 
 def train(replay_memory, model, target_model):
 
     if len(replay_memory) < min_replay_size:
         return
 
-    mini_batch = random.sample(replay_memory, batch_size)
-    current_state_list = np.array([e[0] for e in mini_batch])
+    batch = random.sample(replay_memory, batch_size)
+    current_state_list = np.array([e[0] for e in batch])
     current_q_list = model.predict(current_state_list)
-    future_state_list = np.array([e[3] for e in mini_batch])
+    future_state_list = np.array([e[3] for e in batch])
     future_q_list = target_model.predict(future_state_list)
 
     x = []
     y = []
-    for index, (state, action, reward, future_state, done) in enumerate(mini_batch):
+    for index, (state, action, reward, future_state, done) in enumerate(batch):
         if not done:
             max_future_q = reward + discount_factor * np.max(future_q_list[index])
         else:
             max_future_q = reward
 
         current_q = current_q_list[index]
-        current_q[action] = (1 - learning_rate) * current_q[action] + learning_rate * max_future_q
+        current_q[action] = max_future_q
 
         x.append(state)
         y.append(current_q)
@@ -91,10 +90,11 @@ def preprocess_state(state):
 
 train_episodes = 5000
 frames_per_episode = 1001
-epsilon = 1  # Epsilon-greedy algorithm in initialized at 1 meaning every step is random at the start
-max_epsilon = 1  # You can't explore more than 100% of the time
-min_epsilon = 0.01  # At a minimum, we'll always explore 1% of the time
-decay = 0.0006
+
+epsilon = 1         # we've designed an epsilon policy such that the first 200 episodes, epsilon goes from 1 to 0, then, every 400 episodes, we start a mini-exploration phase of 50 episodes
+max_epsilon = 1
+min_epsilon = 0
+decay = 0.005
 
 state_shape = len(preprocess_state(p.getGameState()))
 action_shape = len(p.getActionSet())
@@ -103,12 +103,14 @@ model = agent(state_shape, action_shape)
 target_model = agent(state_shape, action_shape)
 replay_memory = deque(maxlen=500_000)
 
+steps = 0
 
 for episode in range(train_episodes):
     start_time = time.time()
     score = 0
     p.reset_game()
     state = preprocess_state(p.getGameState())
+
     for frame in range(frames_per_episode):
         rand_nb = np.random.rand()
         if rand_nb <= epsilon:  # explore
@@ -137,6 +139,13 @@ for episode in range(train_episodes):
             train(replay_memory, model, target_model)
 
         state = next_state
+        steps += 1
+
+        #every 500 steps we update the target model
+        if steps >= 500:
+            print('Copying weights from main model to target model...')
+            target_model.set_weights(model.get_weights())
+            steps = 0
 
         if done:
             break
@@ -152,11 +161,13 @@ for episode in range(train_episodes):
                                                                                        time.time() - start_time,
                                                                                  epsilon))
 
-    print('Copying weights from main model to target model...')
-    target_model.set_weights(model.get_weights())
-    steps_to_update_target_model = 0
+    if epsilon > min_epsilon:
+        epsilon = epsilon - decay
 
-    epsilon = min_epsilon + (max_epsilon - min_epsilon) * np.exp(-decay * episode)
+    if episode > 0 and episode % 350 == 0:
+        print("Started mini-exploration")
+        epsilon = max_epsilon
+        decay = 0.02
 
     model.save("model.h5")
     print("Model saved to disk")
