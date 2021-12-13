@@ -1,17 +1,22 @@
 import numpy as np
 from ple import PLE
 from ple.games.waterworld import WaterWorld
+import tensorflow as tf
 from tensorflow import keras
 import time
 import random
 from collections import deque
+from keras.layers import Dense
+from keras.regularizers import l2
+from keras.losses import Huber
+
 
 game = WaterWorld(
     height=320, width=320, num_creeps=5
 )  # create our game
 
 fps = 120  # fps we want to run at
-frame_skip = 2
+frame_skip = 1
 num_steps = 1
 force_fps = True
 display_screen = True
@@ -22,50 +27,75 @@ p.init()
 
 learning_rate = 0.01
 momentum = 0.9
+kernel_reg = l2(1e-5)
+kernel_init = 'he_normal'
+loss_function = Huber()
+optimizer = keras.optimizers.Adam(learning_rate=0.001, clipnorm=1.0)
 
 def agent(state_shape, action_shape):
     model = keras.Sequential()
-    model.add(keras.layers.Input(shape=state_shape))
-    model.add(keras.layers.Dense(100, activation='relu', kernel_regularizer='l2'))
-    model.add(keras.layers.Dense(10, activation='relu', kernel_regularizer='l2'))
-    model.add(keras.layers.Dense(action_shape, activation='linear'))
-    model.compile(loss=keras.losses.Huber(), optimizer=keras.optimizers.SGD(learning_rate=learning_rate, momentum=0.1),
-                  metrics=['accuracy'])
+    model.add(Dense(16, activation='relu', input_shape=(state_shape,), kernel_initializer=kernel_init))
+    model.add(Dense(32, activation='relu', kernel_initializer=kernel_init))
+    model.add(Dense(16, activation='relu', kernel_initializer=kernel_init))
+    model.add(Dense(action_shape, activation='linear', kernel_initializer=keras.initializers.Zeros()))
+    # model.compile(loss='mean_squared_error', optimizer=keras.optimizers.SGD(learning_rate=learning_rate, momentum=momentum),
+    #               metrics=['accuracy'])
     return model
 
 
-discount_factor = 0.4
-min_replay_size = 500
-batch_size = 50
 
 
-def train(replay_memory, model, target_model):
-    if len(replay_memory) < min_replay_size:
-        return
+# def train(replay_memory, model, target_model):
+#     if len(replay_memory) < batch_size:
+#         return
+#
+#     batch = random.sample(replay_memory, batch_size)
+#
+#     current_state_list = np.array([e[0] for e in batch])
+#     current_q_list = model.predict(current_state_list)
+#
+#     future_state_list = np.array([e[3] for e in batch])
+#     future_q_list = target_model.predict(future_state_list)
+#
+#     for index, (state, action, reward, future_state, done) in enumerate(batch):
+#         if not done:
+#             max_future_q = reward + discount_factor * np.max(future_q_list[index])
+#         else:
+#             max_future_q = reward
+#
+#         current_q_list[index][action] = max_future_q
+#
+#     model.fit(current_state_list, current_q_list, batch_size=batch_size, verbose=0)
 
-    batch = random.sample(replay_memory, batch_size)
-
-    current_state_list = np.array([e[0] for e in batch])
-    current_q_list = model.predict(current_state_list)
-
-    future_state_list = np.array([e[3] for e in batch])
-    future_q_list = target_model.predict(future_state_list)
-
-    for index, (state, action, reward, future_state, done) in enumerate(batch):
-        if not done:
-            max_future_q = reward + discount_factor * np.max(future_q_list[index])
-        else:
-            max_future_q = reward
-
-        current_q_list[index][action] = max_future_q
-
-    model.fit(current_state_list, current_q_list, batch_size=batch_size, verbose=0, shuffle=True)
-
+# def train(replay_memory, model, target_model):
+#     if len(replay_memory) < batch_size:
+#         return
+#
+#     # now
+#     #  - we only predict if future state is not final
+#     #  - we predict both current_q and future_q using the target model
+#     #  - we fit on model for each element in batch, not fot the whole batch
+#
+#     batch = random.sample(replay_memory, batch_size)
+#
+#     for sample in batch:
+#         state, action, reward, future_state, done = sample
+#         current_q_list = model.predict(state.reshape([1, state_shape]))
+#         if not done:
+#             future_q_max = max(target_model.predict(future_state)[0])
+#             current_q_list[0][action] = reward + discount_factor * future_q_max
+#         else:
+#             current_q_list[0][action] = reward
+#
+#
+#         model.fit(state, current_q_list, epochs=1, verbose=0)
 
 def preprocess_state(state):
     processed_state = []
     processed_state.append(state['player_x'])
     processed_state.append(state['player_y'])
+    processed_state.append(state['player_velocity_x'])
+    processed_state.append(state['player_velocity_y'])
     if len(state['creep_dist']['GOOD']) != 0:
         index_closest_good = np.argmin(np.array(state['creep_dist']['GOOD']))
         processed_state.extend(state['creep_pos']['GOOD'][index_closest_good])
@@ -79,22 +109,70 @@ def preprocess_state(state):
         processed_state.extend([0, 0])
     return np.array(processed_state)
 
+discount_factor = 0.8
+# min_replay_size = 500
+batch_size = 32
+state_shape = len(preprocess_state(p.getGameState()))
+action_shape = len(p.getActionSet())
+
+def train(replay_memory, model, model_target):
+
+    if len(replay_memory) < batch_size:
+        return
+
+    batch = random.sample(replay_memory, batch_size)
+
+    state_sample = np.array([e[0] for e in batch])
+    action_sample = [e[1] for e in batch]
+    rewards_sample = [e[2] for e in batch]
+    state_next_sample = np.array([e[3] for e in batch])
+    done_sample = tf.convert_to_tensor([float(e[4]) for e in batch])
+
+    # Build the updated Q-values for the sampled future states
+    # Use the target model for stability
+    future_rewards = model_target.predict(np.array(state_next_sample))
+    # Q value = reward + discount factor * expected future reward
+    updated_q_values = rewards_sample + discount_factor * tf.reduce_max(
+        future_rewards, axis=1
+    )
+
+    # If final frame set the last value to -1
+    updated_q_values = updated_q_values * (1 - done_sample) - done_sample
+
+    # Create a mask so we only calculate loss on the updated Q-values
+    masks = tf.one_hot(action_sample, action_shape)
+
+    with tf.GradientTape() as tape:
+        # Train the model on the states and updated Q-values
+
+        q_values = model(state_sample)
+
+        # Apply the masks to the Q-values to get the Q-value for action taken
+        q_action = tf.reduce_sum(tf.multiply(q_values, masks), axis=1)
+        # Calculate loss between new Q-value and old Q-value
+        loss = loss_function(updated_q_values, q_action)
+
+    # Backpropagation
+    grads = tape.gradient(loss, model.trainable_variables)
+    optimizer.apply_gradients(zip(grads, model.trainable_variables))
+
+
+
 
 train_episodes = 5000
 frames_per_episode = 1001
 
-epsilon = 1  # we've designed an epsilon policy such that the first 200 episodes, epsilon goes from 1 to 0, then, every 400 episodes, we start a mini-exploration phase of 50 episodes
+epsilon = 1  # we've designed an epsilon policy such that in the first 400 episodes, epsilon goes from max_epsilon to min_epsilon, then, every 300 episodes, we start a mini-exploration phase of 50 episodes
 max_epsilon = 1
-min_epsilon = 0
-decay = 0.005
+min_epsilon = 0.01
+decay = 0.0025      # epsilon goes from max_epsilon to min_epsilon in 400 episodes
 
-state_shape = len(preprocess_state(p.getGameState()))
-action_shape = len(p.getActionSet())
 action_set = p.getActionSet()
 
 model = agent(state_shape, action_shape)
 target_model = agent(state_shape, action_shape)
-replay_memory = deque(maxlen=500_000)
+target_model.set_weights(model.get_weights())
+replay_memory = deque(maxlen=10000)
 
 steps = 0
 
@@ -154,11 +232,13 @@ for episode in range(train_episodes):
 
     if epsilon > min_epsilon:
         epsilon = epsilon - decay
+    else:
+        epsilon = min_epsilon
 
-    if episode > 0 and episode % 350 == 0:
+    if episode > 400 and episode % 300 == 0:
         print("Started mini-exploration")
         epsilon = max_epsilon
-        decay = 0.02
+        decay = 0.02 # so that epsilon goes from max_epsilon to min_epsilon over the span of 50 episodes
 
     model.save("model.h5")
     print("Model saved to disk")
