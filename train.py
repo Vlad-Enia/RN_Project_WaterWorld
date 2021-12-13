@@ -34,9 +34,8 @@ optimizer = keras.optimizers.Adam(learning_rate=0.001, clipnorm=1.0)
 
 def agent(state_shape, action_shape):
     model = keras.Sequential()
-    model.add(Dense(16, activation='relu', input_shape=(state_shape,), kernel_initializer=kernel_init))
+    model.add(Dense(64, activation='relu', input_shape=(state_shape,), kernel_initializer=kernel_init))
     model.add(Dense(32, activation='relu', kernel_initializer=kernel_init))
-    model.add(Dense(16, activation='relu', kernel_initializer=kernel_init))
     model.add(Dense(action_shape, activation='linear', kernel_initializer=keras.initializers.Zeros()))
     # model.compile(loss='mean_squared_error', optimizer=keras.optimizers.SGD(learning_rate=learning_rate, momentum=momentum),
     #               metrics=['accuracy'])
