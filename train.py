@@ -25,12 +25,12 @@ display_screen = True
 p = PLE(game, fps=fps, frame_skip=frame_skip, num_steps=num_steps, force_fps=force_fps, display_screen=display_screen)
 p.init()
 
-learning_rate = 0.01
+learning_rate = 0.001
 momentum = 0.9
 kernel_reg = l2(1e-5)
 kernel_init = 'he_normal'
 loss_function = Huber()
-optimizer = keras.optimizers.Adam(learning_rate=0.001, clipnorm=1.0)
+optimizer = keras.optimizers.Adam(learning_rate=learning_rate, clipnorm=1.0)
 
 def agent(state_shape, action_shape):
     model = keras.Sequential()
