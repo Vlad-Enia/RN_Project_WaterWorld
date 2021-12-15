@@ -1,0 +1,4233 @@
+C:\Users\eniav\anaconda3\envs\RNENV\python.exe "D:/Facultate/Anul III/Sem I/RN/Lab/RN_Project_WaterWorld/train.py"
+pygame 2.1.0 (SDL 2.0.16, Python 3.7.11)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+couldn't import doomish
+Couldn't import doom
+2021-12-09 09:59:48.529219: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN)to use the following CPU instructions in performance-critical operations:  AVX AVX2
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+
+Episode 0 
+	- score: 2.0
+	- duration: 78.8215856552124
+Model saved to disk
+Target model saved to disk
+
+Episode 1 DONE
+	- score: 20.0
+	- duration: 81.11853289604187
+Model saved to disk
+Target model saved to disk
+
+Episode 2 DONE
+	- score: 9.0
+	- duration: 42.189711809158325
+Model saved to disk
+Target model saved to disk
+
+Episode 3 
+	- score: 11.0
+	- duration: 91.39498019218445
+Model saved to disk
+Target model saved to disk
+
+Episode 4 DONE
+	- score: 4.0
+	- duration: 4.0317676067352295
+Model saved to disk
+Target model saved to disk
+
+Episode 5 DONE
+	- score: 7.0
+	- duration: 5.892191410064697
+Model saved to disk
+Target model saved to disk
+
+Episode 6 DONE
+	- score: 23.0
+	- duration: 82.3005428314209
+Model saved to disk
+Target model saved to disk
+
+Episode 7 
+	- score: -6.0
+	- duration: 91.3224778175354
+Model saved to disk
+Target model saved to disk
+
+Episode 8 
+	- score: 4.0
+	- duration: 91.14401054382324
+Model saved to disk
+Target model saved to disk
+
+Episode 9 DONE
+	- score: 6.0
+	- duration: 41.64350652694702
+Model saved to disk
+Target model saved to disk
+
+Episode 10 
+	- score: -1.0
+	- duration: 91.21047687530518
+Model saved to disk
+Target model saved to disk
+
+Episode 11 DONE
+	- score: 5.0
+	- duration: 23.247095346450806
+Model saved to disk
+Target model saved to disk
+
+Episode 12 DONE
+	- score: 4.0
+	- duration: 7.431545257568359
+Model saved to disk
+Target model saved to disk
+
+Episode 13 DONE
+	- score: 13.0
+	- duration: 85.33143901824951
+Model saved to disk
+Target model saved to disk
+
+Episode 14 
+	- score: 27.0
+	- duration: 89.82743453979492
+Model saved to disk
+Target model saved to disk
+
+Episode 15 DONE
+	- score: 4.0
+	- duration: 47.63178610801697
+Model saved to disk
+Target model saved to disk
+
+Episode 16 DONE
+	- score: 14.0
+	- duration: 38.69930934906006
+Model saved to disk
+Target model saved to disk
+
+Episode 17 DONE
+	- score: 7.0
+	- duration: 8.757755994796753
+Model saved to disk
+Target model saved to disk
+
+Episode 18 
+	- score: 11.0
+	- duration: 90.75970530509949
+Model saved to disk
+Target model saved to disk
+
+Episode 19 
+	- score: 0.0
+	- duration: 90.49009275436401
+Model saved to disk
+Target model saved to disk
+
+Episode 20 
+	- score: 12.0
+	- duration: 90.89489984512329
+Model saved to disk
+Target model saved to disk
+
+Episode 21 
+	- score: -2.0
+	- duration: 90.58361673355103
+Model saved to disk
+Target model saved to disk
+
+Episode 22 
+	- score: -1.0
+	- duration: 94.38481450080872
+Model saved to disk
+Target model saved to disk
+
+Episode 23 DONE
+	- score: -6.0
+	- duration: 81.4845917224884
+Model saved to disk
+Target model saved to disk
+
+Episode 24 DONE
+	- score: 28.0
+	- duration: 37.42463421821594
+Model saved to disk
+Target model saved to disk
+
+Episode 25 DONE
+	- score: 14.0
+	- duration: 53.981900215148926
+Model saved to disk
+Target model saved to disk
+
+Episode 26 DONE
+	- score: 3.0
+	- duration: 37.405064821243286
+Model saved to disk
+Target model saved to disk
+
+Episode 27 DONE
+	- score: 5.0
+	- duration: 1.540698766708374
+Model saved to disk
+Target model saved to disk
+
+Episode 28 
+	- score: -7.0
+	- duration: 89.0833101272583
+Model saved to disk
+Target model saved to disk
+
+Episode 29 DONE
+	- score: 2.0
+	- duration: 58.77792716026306
+Model saved to disk
+Target model saved to disk
+
+Episode 30 DONE
+	- score: 20.0
+	- duration: 42.08764982223511
+Model saved to disk
+Target model saved to disk
+
+Episode 31 DONE
+	- score: 9.0
+	- duration: 13.613791227340698
+Model saved to disk
+Target model saved to disk
+
+Episode 32 DONE
+	- score: 3.0
+	- duration: 55.62447237968445
+Model saved to disk
+Target model saved to disk
+
+Episode 33 
+	- score: 6.0
+	- duration: 86.59159803390503
+Model saved to disk
+Target model saved to disk
+
+Episode 34 
+	- score: 7.0
+	- duration: 86.8491621017456
+Model saved to disk
+Target model saved to disk
+
+Episode 35 
+	- score: 2.0
+	- duration: 86.70542025566101
+Model saved to disk
+Target model saved to disk
+
+Episode 36 DONE
+	- score: 18.0
+	- duration: 62.92146301269531
+Model saved to disk
+Target model saved to disk
+
+Episode 37 
+	- score: 4.0
+	- duration: 86.59525108337402
+Model saved to disk
+Target model saved to disk
+
+Episode 38 
+	- score: 12.0
+	- duration: 86.7441680431366
+Model saved to disk
+Target model saved to disk
+
+Episode 39 DONE
+	- score: 7.0
+	- duration: 13.021724700927734
+Model saved to disk
+Target model saved to disk
+
+Episode 40 DONE
+	- score: 8.0
+	- duration: 28.682907581329346
+Model saved to disk
+Target model saved to disk
+
+Episode 41 DONE
+	- score: -1.0
+	- duration: 78.66321897506714
+Model saved to disk
+Target model saved to disk
+
+Episode 42 DONE
+	- score: 6.0
+	- duration: 54.1877543926239
+Model saved to disk
+Target model saved to disk
+
+Episode 43 
+	- score: 1.0
+	- duration: 86.60884809494019
+Model saved to disk
+Target model saved to disk
+
+Episode 44 
+	- score: -1.0
+	- duration: 87.00224041938782
+Model saved to disk
+Target model saved to disk
+
+Episode 45 
+	- score: 11.0
+	- duration: 86.81271052360535
+Model saved to disk
+Target model saved to disk
+
+Episode 46 DONE
+	- score: 0.0
+	- duration: 79.96426200866699
+Model saved to disk
+Target model saved to disk
+
+Episode 47 DONE
+	- score: 6.0
+	- duration: 0.4150235652923584
+Model saved to disk
+Target model saved to disk
+
+Episode 48 
+	- score: -10.0
+	- duration: 87.06736373901367
+Model saved to disk
+Target model saved to disk
+
+Episode 49 DONE
+	- score: 8.0
+	- duration: 73.33697891235352
+Model saved to disk
+Target model saved to disk
+
+Episode 50 
+	- score: 6.0
+	- duration: 86.99622678756714
+Model saved to disk
+Target model saved to disk
+
+Episode 51 
+	- score: -1.0
+	- duration: 86.95593643188477
+Model saved to disk
+Target model saved to disk
+
+Episode 52 DONE
+	- score: 3.0
+	- duration: 63.89153742790222
+Model saved to disk
+Target model saved to disk
+
+Episode 53 DONE
+	- score: 6.0
+	- duration: 81.00305652618408
+Model saved to disk
+Target model saved to disk
+
+Episode 54 
+	- score: 5.0
+	- duration: 87.16656422615051
+Model saved to disk
+Target model saved to disk
+
+Episode 55 
+	- score: 6.0
+	- duration: 87.1097719669342
+Model saved to disk
+Target model saved to disk
+
+Episode 56 
+	- score: 7.0
+	- duration: 86.83052062988281
+Model saved to disk
+Target model saved to disk
+
+Episode 57 DONE
+	- score: 8.0
+	- duration: 1.4059345722198486
+Model saved to disk
+Target model saved to disk
+
+Episode 58 
+	- score: 12.0
+	- duration: 86.7896876335144
+Model saved to disk
+Target model saved to disk
+
+Episode 59 DONE
+	- score: 11.0
+	- duration: 60.40461564064026
+Model saved to disk
+Target model saved to disk
+
+Episode 60 DONE
+	- score: 2.0
+	- duration: 71.86219954490662
+Model saved to disk
+Target model saved to disk
+
+Episode 61 
+	- score: 11.0
+	- duration: 86.65940475463867
+Model saved to disk
+Target model saved to disk
+
+Episode 62 
+	- score: 10.0
+	- duration: 87.03763175010681
+Model saved to disk
+Target model saved to disk
+
+Episode 63 DONE
+	- score: 0.0
+	- duration: 0.12300491333007812
+Model saved to disk
+Target model saved to disk
+
+Episode 64 
+	- score: -5.0
+	- duration: 87.21763968467712
+Model saved to disk
+Target model saved to disk
+
+Episode 65 
+	- score: 10.0
+	- duration: 87.35260272026062
+Model saved to disk
+Target model saved to disk
+
+Episode 66 DONE
+	- score: 3.0
+	- duration: 22.650127410888672
+Model saved to disk
+Target model saved to disk
+
+Episode 67 
+	- score: 6.0
+	- duration: 87.3129985332489
+Model saved to disk
+Target model saved to disk
+
+Episode 68 
+	- score: 11.0
+	- duration: 87.61948537826538
+Model saved to disk
+Target model saved to disk
+
+Episode 69 
+	- score: 0.0
+	- duration: 87.04343819618225
+Model saved to disk
+Target model saved to disk
+
+Episode 70 
+	- score: -1.0
+	- duration: 87.15368485450745
+Model saved to disk
+Target model saved to disk
+
+Episode 71 
+	- score: 7.0
+	- duration: 87.29116606712341
+Model saved to disk
+Target model saved to disk
+
+Episode 72 DONE
+	- score: 9.0
+	- duration: 41.0709764957428
+Model saved to disk
+Target model saved to disk
+
+Episode 73 DONE
+	- score: 6.0
+	- duration: 2.696540594100952
+Model saved to disk
+Target model saved to disk
+
+Episode 74 
+	- score: 8.0
+	- duration: 87.27782082557678
+Model saved to disk
+Target model saved to disk
+
+Episode 75 
+	- score: 4.0
+	- duration: 87.57963442802429
+Model saved to disk
+Target model saved to disk
+
+Episode 76 
+	- score: 11.0
+	- duration: 87.46119832992554
+Model saved to disk
+Target model saved to disk
+
+Episode 77 DONE
+	- score: 7.0
+	- duration: 49.60107445716858
+Model saved to disk
+Target model saved to disk
+
+Episode 78 DONE
+	- score: 0.0
+	- duration: 0.12599635124206543
+Model saved to disk
+Target model saved to disk
+
+Episode 79 
+	- score: 5.0
+	- duration: 86.90287017822266
+Model saved to disk
+Target model saved to disk
+
+Episode 80 
+	- score: 7.0
+	- duration: 87.72563695907593
+Model saved to disk
+Target model saved to disk
+
+Episode 81 DONE
+	- score: 5.0
+	- duration: 1.1300265789031982
+Model saved to disk
+Target model saved to disk
+
+Episode 82 
+	- score: 6.0
+	- duration: 87.6698911190033
+Model saved to disk
+Target model saved to disk
+
+Episode 83 DONE
+	- score: 6.0
+	- duration: 27.631567239761353
+Model saved to disk
+Target model saved to disk
+
+Episode 84 DONE
+	- score: 3.0
+	- duration: 71.35431051254272
+Model saved to disk
+Target model saved to disk
+
+Episode 85 DONE
+	- score: 3.0
+	- duration: 86.74087238311768
+Model saved to disk
+Target model saved to disk
+
+Episode 86 
+	- score: 5.0
+	- duration: 87.58147072792053
+Model saved to disk
+Target model saved to disk
+
+Episode 87 
+	- score: 6.0
+	- duration: 87.74902367591858
+Model saved to disk
+Target model saved to disk
+
+Episode 88 
+	- score: -12.0
+	- duration: 87.23214387893677
+Model saved to disk
+Target model saved to disk
+
+Episode 89 
+	- score: 5.0
+	- duration: 87.39119291305542
+Model saved to disk
+Target model saved to disk
+
+Episode 90 
+	- score: 4.0
+	- duration: 88.63450217247009
+Model saved to disk
+Target model saved to disk
+
+Episode 91 
+	- score: 2.0
+	- duration: 87.67593288421631
+Model saved to disk
+Target model saved to disk
+
+Episode 92 DONE
+	- score: 8.0
+	- duration: 42.19326972961426
+Model saved to disk
+Target model saved to disk
+
+Episode 93 DONE
+	- score: 4.0
+	- duration: 20.14899778366089
+Model saved to disk
+Target model saved to disk
+
+Episode 94 
+	- score: 14.0
+	- duration: 87.64897894859314
+Model saved to disk
+Target model saved to disk
+
+Episode 95 
+	- score: 6.0
+	- duration: 87.58294868469238
+Model saved to disk
+Target model saved to disk
+
+Episode 96 
+	- score: -2.0
+	- duration: 87.55366277694702
+Model saved to disk
+Target model saved to disk
+
+Episode 97 DONE
+	- score: 6.0
+	- duration: 34.55019807815552
+Model saved to disk
+Target model saved to disk
+
+Episode 98 DONE
+	- score: 6.0
+	- duration: 61.736836671829224
+Model saved to disk
+Target model saved to disk
+
+Episode 99 
+	- score: -2.0
+	- duration: 87.70357871055603
+Model saved to disk
+Target model saved to disk
+
+Episode 100 DONE
+	- score: 0.0
+	- duration: 42.79436159133911
+Model saved to disk
+Target model saved to disk
+
+Episode 101 
+	- score: -4.0
+	- duration: 87.64099264144897
+Model saved to disk
+Target model saved to disk
+
+Episode 102 
+	- score: 2.0
+	- duration: 89.23774814605713
+Model saved to disk
+Target model saved to disk
+
+Episode 103 DONE
+	- score: 0.0
+	- duration: 0.16700100898742676
+Model saved to disk
+Target model saved to disk
+
+Episode 104 
+	- score: 6.0
+	- duration: 87.82265067100525
+Model saved to disk
+Target model saved to disk
+
+Episode 105 DONE
+	- score: 8.0
+	- duration: 39.25336241722107
+Model saved to disk
+Target model saved to disk
+
+Episode 106 DONE
+	- score: 0.0
+	- duration: 0.12900066375732422
+Model saved to disk
+Target model saved to disk
+
+Episode 107 DONE
+	- score: 16.0
+	- duration: 86.88959264755249
+Model saved to disk
+Target model saved to disk
+
+Episode 108 
+	- score: 11.0
+	- duration: 87.42303133010864
+Model saved to disk
+Target model saved to disk
+
+Episode 109 DONE
+	- score: 3.0
+	- duration: 79.96196675300598
+Model saved to disk
+Target model saved to disk
+
+Episode 110 
+	- score: -5.0
+	- duration: 87.58413910865784
+Model saved to disk
+Target model saved to disk
+
+Episode 111 DONE
+	- score: 0.0
+	- duration: 0.12399816513061523
+Model saved to disk
+Target model saved to disk
+
+Episode 112 DONE
+	- score: 4.0
+	- duration: 8.444640636444092
+Model saved to disk
+Target model saved to disk
+
+Episode 113 
+	- score: 4.0
+	- duration: 87.88385677337646
+Model saved to disk
+Target model saved to disk
+
+Episode 114 DONE
+	- score: 5.0
+	- duration: 38.38303732872009
+Model saved to disk
+Target model saved to disk
+
+Episode 115 DONE
+	- score: 8.0
+	- duration: 32.27334141731262
+Model saved to disk
+Target model saved to disk
+
+Episode 116 DONE
+	- score: 16.0
+	- duration: 70.0768449306488
+Model saved to disk
+Target model saved to disk
+
+Episode 117 DONE
+	- score: 7.0
+	- duration: 86.85264873504639
+Model saved to disk
+Target model saved to disk
+
+Episode 118 DONE
+	- score: 4.0
+	- duration: 20.291263818740845
+Model saved to disk
+Target model saved to disk
+
+Episode 119 
+	- score: -6.0
+	- duration: 88.01095461845398
+Model saved to disk
+Target model saved to disk
+
+Episode 120 
+	- score: -5.0
+	- duration: 87.65736842155457
+Model saved to disk
+Target model saved to disk
+
+Episode 121 
+	- score: 7.0
+	- duration: 87.95152473449707
+Model saved to disk
+Target model saved to disk
+
+Episode 122 
+	- score: 3.0
+	- duration: 87.2750039100647
+Model saved to disk
+Target model saved to disk
+
+Episode 123 DONE
+	- score: 8.0
+	- duration: 71.5046706199646
+Model saved to disk
+Target model saved to disk
+
+Episode 124 DONE
+	- score: 6.0
+	- duration: 25.475228786468506
+Model saved to disk
+Target model saved to disk
+
+Episode 125 DONE
+	- score: 6.0
+	- duration: 0.13161492347717285
+Model saved to disk
+Target model saved to disk
+
+Episode 126 DONE
+	- score: 6.0
+	- duration: 0.8629789352416992
+Model saved to disk
+Target model saved to disk
+
+Episode 127 
+	- score: 3.0
+	- duration: 88.0619204044342
+Model saved to disk
+Target model saved to disk
+
+Episode 128 DONE
+	- score: 9.0
+	- duration: 82.91400218009949
+Model saved to disk
+Target model saved to disk
+
+Episode 129 DONE
+	- score: 4.0
+	- duration: 26.025126695632935
+Model saved to disk
+Target model saved to disk
+
+Episode 130 DONE
+	- score: 8.0
+	- duration: 8.190902471542358
+Model saved to disk
+Target model saved to disk
+
+Episode 131 
+	- score: -6.0
+	- duration: 93.37164974212646
+Model saved to disk
+Target model saved to disk
+
+Episode 132 DONE
+	- score: 0.0
+	- duration: 0.14617633819580078
+Model saved to disk
+Target model saved to disk
+
+Episode 133 DONE
+	- score: 6.0
+	- duration: 1.6224544048309326
+Model saved to disk
+Target model saved to disk
+
+Episode 134 
+	- score: -6.0
+	- duration: 97.9674174785614
+Model saved to disk
+Target model saved to disk
+
+Episode 135 DONE
+	- score: 8.0
+	- duration: 45.77330541610718
+Model saved to disk
+Target model saved to disk
+
+Episode 136 DONE
+	- score: 8.0
+	- duration: 7.727357864379883
+Model saved to disk
+Target model saved to disk
+
+Episode 137 
+	- score: 1.0
+	- duration: 99.53400015830994
+Model saved to disk
+Target model saved to disk
+
+Episode 138 
+	- score: -6.0
+	- duration: 98.98133373260498
+Model saved to disk
+Target model saved to disk
+
+Episode 139 
+	- score: 1.0
+	- duration: 93.93253469467163
+Model saved to disk
+Target model saved to disk
+
+Episode 140 
+	- score: 17.0
+	- duration: 88.176598072052
+Model saved to disk
+Target model saved to disk
+
+Episode 141 DONE
+	- score: 9.0
+	- duration: 11.936320781707764
+Model saved to disk
+Target model saved to disk
+
+Episode 142 DONE
+	- score: 16.0
+	- duration: 51.921290159225464
+Model saved to disk
+Target model saved to disk
+
+Episode 143 
+	- score: 5.0
+	- duration: 87.5188958644867
+Model saved to disk
+Target model saved to disk
+
+Episode 144 
+	- score: 8.0
+	- duration: 87.6010491847992
+Model saved to disk
+Target model saved to disk
+
+Episode 145 
+	- score: -1.0
+	- duration: 87.15132856369019
+Model saved to disk
+Target model saved to disk
+
+Episode 146 DONE
+	- score: 6.0
+	- duration: 1.437530279159546
+Model saved to disk
+Target model saved to disk
+
+Episode 147 
+	- score: -4.0
+	- duration: 87.41433811187744
+Model saved to disk
+Target model saved to disk
+
+Episode 148 DONE
+	- score: 17.0
+	- duration: 50.00547528266907
+Model saved to disk
+Target model saved to disk
+
+Episode 149 DONE
+	- score: 11.0
+	- duration: 56.7904953956604
+Model saved to disk
+Target model saved to disk
+
+Episode 150 DONE
+	- score: 0.0
+	- duration: 0.12351775169372559
+Model saved to disk
+Target model saved to disk
+
+Episode 151 DONE
+	- score: 13.0
+	- duration: 28.481226205825806
+Model saved to disk
+Target model saved to disk
+
+Episode 152 
+	- score: -1.0
+	- duration: 90.50882887840271
+Model saved to disk
+Target model saved to disk
+
+Episode 153 DONE
+	- score: 10.0
+	- duration: 70.1416711807251
+Model saved to disk
+Target model saved to disk
+
+Episode 154 DONE
+	- score: 6.0
+	- duration: 14.122628927230835
+Model saved to disk
+Target model saved to disk
+
+Episode 155 
+	- score: 4.0
+	- duration: 86.97485637664795
+Model saved to disk
+Target model saved to disk
+
+Episode 156 
+	- score: 0.0
+	- duration: 87.40429401397705
+Model saved to disk
+Target model saved to disk
+
+Episode 157 
+	- score: 7.0
+	- duration: 87.6329984664917
+Model saved to disk
+Target model saved to disk
+
+Episode 158 
+	- score: 2.0
+	- duration: 87.89560556411743
+Model saved to disk
+Target model saved to disk
+
+Episode 159 
+	- score: -3.0
+	- duration: 87.67118668556213
+Model saved to disk
+Target model saved to disk
+
+Episode 160 DONE
+	- score: 12.0
+	- duration: 23.117923974990845
+Model saved to disk
+Target model saved to disk
+
+Episode 161 DONE
+	- score: 9.0
+	- duration: 74.7938334941864
+Model saved to disk
+Target model saved to disk
+
+Episode 162 
+	- score: 19.0
+	- duration: 91.68165159225464
+Model saved to disk
+Target model saved to disk
+
+Episode 163 
+	- score: 6.0
+	- duration: 92.44502425193787
+Model saved to disk
+Target model saved to disk
+
+Episode 164 
+	- score: 3.0
+	- duration: 90.56021809577942
+Model saved to disk
+Target model saved to disk
+
+Episode 165 DONE
+	- score: 5.0
+	- duration: 12.4818856716156
+Model saved to disk
+Target model saved to disk
+
+Episode 166 
+	- score: -11.0
+	- duration: 90.41226005554199
+Model saved to disk
+Target model saved to disk
+
+Episode 167 
+	- score: 1.0
+	- duration: 90.28709697723389
+Model saved to disk
+Target model saved to disk
+
+Episode 168 DONE
+	- score: 1.0
+	- duration: 28.998193502426147
+Model saved to disk
+Target model saved to disk
+
+Episode 169 
+	- score: -1.0
+	- duration: 92.63044047355652
+Model saved to disk
+Target model saved to disk
+
+Episode 170 DONE
+	- score: 7.0
+	- duration: 7.11489200592041
+Model saved to disk
+Target model saved to disk
+
+Episode 171 
+	- score: -9.0
+	- duration: 91.29276847839355
+Model saved to disk
+Target model saved to disk
+
+Episode 172 DONE
+	- score: 3.0
+	- duration: 73.0951988697052
+Model saved to disk
+Target model saved to disk
+
+Episode 173 
+	- score: 6.0
+	- duration: 91.77507972717285
+Model saved to disk
+Target model saved to disk
+
+Episode 174 
+	- score: 7.0
+	- duration: 92.72796058654785
+Model saved to disk
+Target model saved to disk
+
+Episode 175 
+	- score: -4.0
+	- duration: 92.21665811538696
+Model saved to disk
+Target model saved to disk
+
+Episode 176 DONE
+	- score: 6.0
+	- duration: 26.409827709197998
+Model saved to disk
+Target model saved to disk
+
+Episode 177 DONE
+	- score: 15.0
+	- duration: 84.41818857192993
+Model saved to disk
+Target model saved to disk
+
+Episode 178 
+	- score: -2.0
+	- duration: 90.27497005462646
+Model saved to disk
+Target model saved to disk
+
+Episode 179 DONE
+	- score: 6.0
+	- duration: 73.97942447662354
+Model saved to disk
+Target model saved to disk
+
+Episode 180 DONE
+	- score: 8.0
+	- duration: 43.18479919433594
+Model saved to disk
+Target model saved to disk
+
+Episode 181 DONE
+	- score: 6.0
+	- duration: 52.964064836502075
+Model saved to disk
+Target model saved to disk
+
+Episode 182 DONE
+	- score: 5.0
+	- duration: 36.84389042854309
+Model saved to disk
+Target model saved to disk
+
+Episode 183 DONE
+	- score: 9.0
+	- duration: 39.91386342048645
+Model saved to disk
+Target model saved to disk
+
+Episode 184 DONE
+	- score: 1.0
+	- duration: 58.93230867385864
+Model saved to disk
+Target model saved to disk
+
+Episode 185 DONE
+	- score: 11.0
+	- duration: 62.67957544326782
+Model saved to disk
+Target model saved to disk
+
+Episode 186 DONE
+	- score: 7.0
+	- duration: 34.23227262496948
+Model saved to disk
+Target model saved to disk
+
+Episode 187 DONE
+	- score: 9.0
+	- duration: 60.25729751586914
+Model saved to disk
+Target model saved to disk
+
+Episode 188 DONE
+	- score: 11.0
+	- duration: 19.01516580581665
+Model saved to disk
+Target model saved to disk
+
+Episode 189 DONE
+	- score: 7.0
+	- duration: 26.213245153427124
+Model saved to disk
+Target model saved to disk
+
+Episode 190 
+	- score: 5.0
+	- duration: 89.1039502620697
+Model saved to disk
+Target model saved to disk
+
+Episode 191 
+	- score: 1.0
+	- duration: 128.4842405319214
+Model saved to disk
+Target model saved to disk
+
+Episode 192 
+	- score: 6.0
+	- duration: 88.0534565448761
+Model saved to disk
+Target model saved to disk
+
+Episode 193 
+	- score: 9.0
+	- duration: 87.5254020690918
+Model saved to disk
+Target model saved to disk
+
+Episode 194 DONE
+	- score: 4.0
+	- duration: 11.52959680557251
+Model saved to disk
+Target model saved to disk
+
+Episode 195 
+	- score: 9.0
+	- duration: 87.36634993553162
+Model saved to disk
+Target model saved to disk
+
+Episode 196 DONE
+	- score: 1.0
+	- duration: 29.491408824920654
+Model saved to disk
+Target model saved to disk
+
+Episode 197 DONE
+	- score: 8.0
+	- duration: 75.22641897201538
+Model saved to disk
+Target model saved to disk
+
+Episode 198 DONE
+	- score: 7.0
+	- duration: 86.6047956943512
+Model saved to disk
+Target model saved to disk
+
+Episode 199 DONE
+	- score: 12.0
+	- duration: 85.11591958999634
+Model saved to disk
+Target model saved to disk
+
+Episode 200 
+	- score: 7.0
+	- duration: 86.93017745018005
+Model saved to disk
+Target model saved to disk
+
+Episode 201 
+	- score: -1.0
+	- duration: 87.83337783813477
+Model saved to disk
+Target model saved to disk
+
+Episode 202 DONE
+	- score: 5.0
+	- duration: 6.360611200332642
+Model saved to disk
+Target model saved to disk
+
+Episode 203 DONE
+	- score: 7.0
+	- duration: 7.185982942581177
+Model saved to disk
+Target model saved to disk
+
+Episode 204 DONE
+	- score: 7.0
+	- duration: 20.265645265579224
+Model saved to disk
+Target model saved to disk
+
+Episode 205 
+	- score: -12.0
+	- duration: 87.62404751777649
+Model saved to disk
+Target model saved to disk
+
+Episode 206 
+	- score: 3.0
+	- duration: 86.96134209632874
+Model saved to disk
+Target model saved to disk
+
+Episode 207 
+	- score: 1.0
+	- duration: 87.4775972366333
+Model saved to disk
+Target model saved to disk
+
+Episode 208 DONE
+	- score: 22.0
+	- duration: 78.36293697357178
+Model saved to disk
+Target model saved to disk
+
+Episode 209 DONE
+	- score: 1.0
+	- duration: 49.00861978530884
+Model saved to disk
+Target model saved to disk
+
+Episode 210 DONE
+	- score: 13.0
+	- duration: 37.677483797073364
+Model saved to disk
+Target model saved to disk
+
+Episode 211 DONE
+	- score: 15.0
+	- duration: 70.39686298370361
+Model saved to disk
+Target model saved to disk
+
+Episode 212 
+	- score: 16.0
+	- duration: 87.44051241874695
+Model saved to disk
+Target model saved to disk
+
+Episode 213 DONE
+	- score: 3.0
+	- duration: 58.49347710609436
+Model saved to disk
+Target model saved to disk
+
+Episode 214 
+	- score: -14.0
+	- duration: 87.74387383460999
+Model saved to disk
+Target model saved to disk
+
+Episode 215 
+	- score: 5.0
+	- duration: 87.61116671562195
+Model saved to disk
+Target model saved to disk
+
+Episode 216 DONE
+	- score: 4.0
+	- duration: 27.24598264694214
+Model saved to disk
+Target model saved to disk
+
+Episode 217 DONE
+	- score: 6.0
+	- duration: 0.3640015125274658
+Model saved to disk
+Target model saved to disk
+
+Episode 218 
+	- score: 3.0
+	- duration: 87.90294003486633
+Model saved to disk
+Target model saved to disk
+
+Episode 219 
+	- score: 5.0
+	- duration: 88.40604066848755
+Model saved to disk
+Target model saved to disk
+
+Episode 220 
+	- score: 3.0
+	- duration: 89.16991925239563
+Model saved to disk
+Target model saved to disk
+
+Episode 221 
+	- score: 6.0
+	- duration: 88.92724394798279
+Model saved to disk
+Target model saved to disk
+
+Episode 222 DONE
+	- score: 4.0
+	- duration: 19.69269561767578
+Model saved to disk
+Target model saved to disk
+
+Episode 223 DONE
+	- score: 8.0
+	- duration: 14.497518062591553
+Model saved to disk
+Target model saved to disk
+
+Episode 224 DONE
+	- score: 4.0
+	- duration: 7.97927451133728
+Model saved to disk
+Target model saved to disk
+
+Episode 225 DONE
+	- score: 14.0
+	- duration: 55.18587827682495
+Model saved to disk
+Target model saved to disk
+
+Episode 226 DONE
+	- score: 0.0
+	- duration: 0.12201786041259766
+Model saved to disk
+Target model saved to disk
+
+Episode 227 DONE
+	- score: 8.0
+	- duration: 54.26207971572876
+Model saved to disk
+Target model saved to disk
+
+Episode 228 
+	- score: 2.0
+	- duration: 88.10454988479614
+Model saved to disk
+Target model saved to disk
+
+Episode 229 DONE
+	- score: 9.0
+	- duration: 59.08866810798645
+Model saved to disk
+Target model saved to disk
+
+Episode 230 
+	- score: 4.0
+	- duration: 88.19315218925476
+Model saved to disk
+Target model saved to disk
+
+Episode 231 
+	- score: -4.0
+	- duration: 87.9968192577362
+Model saved to disk
+Target model saved to disk
+
+Episode 232 DONE
+	- score: 5.0
+	- duration: 11.177762508392334
+Model saved to disk
+Target model saved to disk
+
+Episode 233 DONE
+	- score: 12.0
+	- duration: 18.491008520126343
+Model saved to disk
+Target model saved to disk
+
+Episode 234 DONE
+	- score: 6.0
+	- duration: 25.498273134231567
+Model saved to disk
+Target model saved to disk
+
+Episode 235 
+	- score: -2.0
+	- duration: 87.20970249176025
+Model saved to disk
+Target model saved to disk
+
+Episode 236 DONE
+	- score: 9.0
+	- duration: 78.51303052902222
+Model saved to disk
+Target model saved to disk
+
+Episode 237 DONE
+	- score: 11.0
+	- duration: 19.607001781463623
+Model saved to disk
+Target model saved to disk
+
+Episode 238 
+	- score: -10.0
+	- duration: 87.46046948432922
+Model saved to disk
+Target model saved to disk
+
+Episode 239 
+	- score: 0.0
+	- duration: 88.06266736984253
+Model saved to disk
+Target model saved to disk
+
+Episode 240 
+	- score: 8.0
+	- duration: 86.84487533569336
+Model saved to disk
+Target model saved to disk
+
+Episode 241 
+	- score: 12.0
+	- duration: 87.49173045158386
+Model saved to disk
+Target model saved to disk
+
+Episode 242 DONE
+	- score: 5.0
+	- duration: 1.0487661361694336
+Model saved to disk
+Target model saved to disk
+
+Episode 243 DONE
+	- score: 12.0
+	- duration: 13.491743087768555
+Model saved to disk
+Target model saved to disk
+
+Episode 244 DONE
+	- score: 8.0
+	- duration: 27.91730809211731
+Model saved to disk
+Target model saved to disk
+
+Episode 245 
+	- score: -2.0
+	- duration: 87.73463749885559
+Model saved to disk
+Target model saved to disk
+
+Episode 246 DONE
+	- score: 3.0
+	- duration: 82.01927542686462
+Model saved to disk
+Target model saved to disk
+
+Episode 247 DONE
+	- score: 8.0
+	- duration: 69.37535691261292
+Model saved to disk
+Target model saved to disk
+
+Episode 248 
+	- score: 2.0
+	- duration: 87.2216649055481
+Model saved to disk
+Target model saved to disk
+
+Episode 249 DONE
+	- score: 4.0
+	- duration: 24.477392435073853
+Model saved to disk
+Target model saved to disk
+
+Episode 250 DONE
+	- score: 4.0
+	- duration: 6.328780651092529
+Model saved to disk
+Target model saved to disk
+
+Episode 251 
+	- score: 8.0
+	- duration: 88.98649597167969
+Model saved to disk
+Target model saved to disk
+
+Episode 252 DONE
+	- score: 17.0
+	- duration: 32.6707329750061
+Model saved to disk
+Target model saved to disk
+
+Episode 253 
+	- score: 3.0
+	- duration: 88.75212931632996
+Model saved to disk
+Target model saved to disk
+
+Episode 254 
+	- score: -2.0
+	- duration: 88.16787600517273
+Model saved to disk
+Target model saved to disk
+
+Episode 255 
+	- score: 11.0
+	- duration: 87.6812424659729
+Model saved to disk
+Target model saved to disk
+
+Episode 256 
+	- score: -1.0
+	- duration: 88.00945949554443
+Model saved to disk
+Target model saved to disk
+
+Episode 257 DONE
+	- score: 7.0
+	- duration: 6.613345623016357
+Model saved to disk
+Target model saved to disk
+
+Episode 258 DONE
+	- score: 3.0
+	- duration: 73.72237539291382
+Model saved to disk
+Target model saved to disk
+
+Episode 259 
+	- score: 8.0
+	- duration: 87.71687746047974
+Model saved to disk
+Target model saved to disk
+
+Episode 260 
+	- score: 11.0
+	- duration: 87.74937963485718
+Model saved to disk
+Target model saved to disk
+
+Episode 261 DONE
+	- score: 6.0
+	- duration: 22.948429346084595
+Model saved to disk
+Target model saved to disk
+
+Episode 262 
+	- score: 8.0
+	- duration: 88.2735288143158
+Model saved to disk
+Target model saved to disk
+
+Episode 263 
+	- score: 2.0
+	- duration: 87.60268950462341
+Model saved to disk
+Target model saved to disk
+
+Episode 264 
+	- score: 4.0
+	- duration: 88.35181140899658
+Model saved to disk
+Target model saved to disk
+
+Episode 265 
+	- score: 9.0
+	- duration: 89.09117031097412
+Model saved to disk
+Target model saved to disk
+
+Episode 266 DONE
+	- score: 8.0
+	- duration: 69.08214139938354
+Model saved to disk
+Target model saved to disk
+
+Episode 267 DONE
+	- score: 0.0
+	- duration: 0.12400150299072266
+Model saved to disk
+Target model saved to disk
+
+Episode 268 DONE
+	- score: 8.0
+	- duration: 77.21819186210632
+Model saved to disk
+Target model saved to disk
+
+Episode 269 DONE
+	- score: 5.0
+	- duration: 8.035341262817383
+Model saved to disk
+Target model saved to disk
+
+Episode 270 DONE
+	- score: 8.0
+	- duration: 34.70943880081177
+Model saved to disk
+Target model saved to disk
+
+Episode 271 DONE
+	- score: 0.0
+	- duration: 0.12299561500549316
+Model saved to disk
+Target model saved to disk
+
+Episode 272 
+	- score: 6.0
+	- duration: 87.92890977859497
+Model saved to disk
+Target model saved to disk
+
+Episode 273 DONE
+	- score: 5.0
+	- duration: 28.877320766448975
+Model saved to disk
+Target model saved to disk
+
+Episode 274 
+	- score: 0.0
+	- duration: 87.76731944084167
+Model saved to disk
+Target model saved to disk
+
+Episode 275 DONE
+	- score: -2.0
+	- duration: 22.120105743408203
+Model saved to disk
+Target model saved to disk
+
+Episode 276 
+	- score: 2.0
+	- duration: 88.11898255348206
+Model saved to disk
+Target model saved to disk
+
+Episode 277 DONE
+	- score: 6.0
+	- duration: 26.459071397781372
+Model saved to disk
+Target model saved to disk
+
+Episode 278 
+	- score: -1.0
+	- duration: 87.43419647216797
+Model saved to disk
+Target model saved to disk
+
+Episode 279 
+	- score: -4.0
+	- duration: 87.69759821891785
+Model saved to disk
+Target model saved to disk
+
+Episode 280 DONE
+	- score: 0.0
+	- duration: 0.12100338935852051
+Model saved to disk
+Target model saved to disk
+
+Episode 281 DONE
+	- score: 0.0
+	- duration: 0.17000460624694824
+Model saved to disk
+Target model saved to disk
+
+Episode 282 DONE
+	- score: 12.0
+	- duration: 38.237263202667236
+Model saved to disk
+Target model saved to disk
+
+Episode 283 
+	- score: 5.0
+	- duration: 87.53373384475708
+Model saved to disk
+Target model saved to disk
+
+Episode 284 DONE
+	- score: 10.0
+	- duration: 32.619574546813965
+Model saved to disk
+Target model saved to disk
+
+Episode 285 DONE
+	- score: 6.0
+	- duration: 0.12400078773498535
+Model saved to disk
+Target model saved to disk
+
+Episode 286 DONE
+	- score: 1.0
+	- duration: 20.362481594085693
+Model saved to disk
+Target model saved to disk
+
+Episode 287 DONE
+	- score: 0.0
+	- duration: 0.15599989891052246
+Model saved to disk
+Target model saved to disk
+
+Episode 288 
+	- score: -10.0
+	- duration: 88.11171698570251
+Model saved to disk
+Target model saved to disk
+
+Episode 289 
+	- score: -8.0
+	- duration: 87.86182737350464
+Model saved to disk
+Target model saved to disk
+
+Episode 290 DONE
+	- score: 9.0
+	- duration: 58.85538697242737
+Model saved to disk
+Target model saved to disk
+
+Episode 291 
+	- score: -9.0
+	- duration: 87.99241638183594
+Model saved to disk
+Target model saved to disk
+
+Episode 292 DONE
+	- score: 7.0
+	- duration: 1.4552855491638184
+Model saved to disk
+Target model saved to disk
+
+Episode 293 
+	- score: 1.0
+	- duration: 87.95518374443054
+Model saved to disk
+Target model saved to disk
+
+Episode 294 DONE
+	- score: 9.0
+	- duration: 14.095562219619751
+Model saved to disk
+Target model saved to disk
+
+Episode 295 
+	- score: 14.0
+	- duration: 87.74954414367676
+Model saved to disk
+Target model saved to disk
+
+Episode 296 DONE
+	- score: 4.0
+	- duration: 24.287459135055542
+Model saved to disk
+Target model saved to disk
+
+Episode 297 DONE
+	- score: 5.0
+	- duration: 20.347806692123413
+Model saved to disk
+Target model saved to disk
+
+Episode 298 DONE
+	- score: 12.0
+	- duration: 44.19893264770508
+Model saved to disk
+Target model saved to disk
+
+Episode 299 DONE
+	- score: 6.0
+	- duration: 11.961816310882568
+Model saved to disk
+Target model saved to disk
+
+Episode 300 
+	- score: 2.0
+	- duration: 90.8524854183197
+Model saved to disk
+Target model saved to disk
+
+Episode 301 DONE
+	- score: 7.0
+	- duration: 35.66896677017212
+Model saved to disk
+Target model saved to disk
+
+Episode 302 DONE
+	- score: 8.0
+	- duration: 13.30281376838684
+Model saved to disk
+Target model saved to disk
+
+Episode 303 
+	- score: 6.0
+	- duration: 87.91168475151062
+Model saved to disk
+Target model saved to disk
+
+Episode 304 DONE
+	- score: 16.0
+	- duration: 64.8986747264862
+Model saved to disk
+Target model saved to disk
+
+Episode 305 
+	- score: -10.0
+	- duration: 88.90166592597961
+Model saved to disk
+Target model saved to disk
+
+Episode 306 DONE
+	- score: 1.0
+	- duration: 44.56282615661621
+Model saved to disk
+Target model saved to disk
+
+Episode 307 
+	- score: 4.0
+	- duration: 88.24884676933289
+Model saved to disk
+Target model saved to disk
+
+Episode 308 DONE
+	- score: 12.0
+	- duration: 6.092987298965454
+Model saved to disk
+Target model saved to disk
+
+Episode 309 DONE
+	- score: 6.0
+	- duration: 0.5148217678070068
+Model saved to disk
+Target model saved to disk
+
+Episode 310 DONE
+	- score: 3.0
+	- duration: 58.25448513031006
+Model saved to disk
+Target model saved to disk
+
+Episode 311 
+	- score: 19.0
+	- duration: 88.03573679924011
+Model saved to disk
+Target model saved to disk
+
+Episode 312 
+	- score: 9.0
+	- duration: 88.24809408187866
+Model saved to disk
+Target model saved to disk
+
+Episode 313 DONE
+	- score: 13.0
+	- duration: 43.17692852020264
+Model saved to disk
+Target model saved to disk
+
+Episode 314 
+	- score: 4.0
+	- duration: 87.6169102191925
+Model saved to disk
+Target model saved to disk
+
+Episode 315 DONE
+	- score: 7.0
+	- duration: 3.475451946258545
+Model saved to disk
+Target model saved to disk
+
+Episode 316 DONE
+	- score: 8.0
+	- duration: 14.462201595306396
+Model saved to disk
+Target model saved to disk
+
+Episode 317 
+	- score: 0.0
+	- duration: 88.2388744354248
+Model saved to disk
+Target model saved to disk
+
+Episode 318 
+	- score: -4.0
+	- duration: 88.1069004535675
+Model saved to disk
+Target model saved to disk
+
+Episode 319 
+	- score: 2.0
+	- duration: 87.68315005302429
+Model saved to disk
+Target model saved to disk
+
+Episode 320 
+	- score: -6.0
+	- duration: 88.59838557243347
+Model saved to disk
+Target model saved to disk
+
+Episode 321 
+	- score: 8.0
+	- duration: 87.90102243423462
+Model saved to disk
+Target model saved to disk
+
+Episode 322 
+	- score: 0.0
+	- duration: 88.24116563796997
+Model saved to disk
+Target model saved to disk
+
+Episode 323 DONE
+	- score: 6.0
+	- duration: 5.631554841995239
+Model saved to disk
+Target model saved to disk
+
+Episode 324 
+	- score: 6.0
+	- duration: 88.80477261543274
+Model saved to disk
+Target model saved to disk
+
+Episode 325 DONE
+	- score: 6.0
+	- duration: 2.39115834236145
+Model saved to disk
+Target model saved to disk
+
+Episode 326 
+	- score: -1.0
+	- duration: 88.10542798042297
+Model saved to disk
+Target model saved to disk
+
+Episode 327 DONE
+	- score: 7.0
+	- duration: 3.445134401321411
+Model saved to disk
+Target model saved to disk
+
+Episode 328 
+	- score: -16.0
+	- duration: 88.76050233840942
+Model saved to disk
+Target model saved to disk
+
+Episode 329 
+	- score: -5.0
+	- duration: 88.47167921066284
+Model saved to disk
+Target model saved to disk
+
+Episode 330 
+	- score: 10.0
+	- duration: 88.57607793807983
+Model saved to disk
+Target model saved to disk
+
+Episode 331 DONE
+	- score: 9.0
+	- duration: 8.28824234008789
+Model saved to disk
+Target model saved to disk
+
+Episode 332 DONE
+	- score: 7.0
+	- duration: 76.54956889152527
+Model saved to disk
+Target model saved to disk
+
+Episode 333 DONE
+	- score: 13.0
+	- duration: 53.73150992393494
+Model saved to disk
+Target model saved to disk
+
+Episode 334 DONE
+	- score: 8.0
+	- duration: 21.49862289428711
+Model saved to disk
+Target model saved to disk
+
+Episode 335 DONE
+	- score: 4.0
+	- duration: 85.56821632385254
+Model saved to disk
+Target model saved to disk
+
+Episode 336 DONE
+	- score: 8.0
+	- duration: 40.51749920845032
+Model saved to disk
+Target model saved to disk
+
+Episode 337 DONE
+	- score: 7.0
+	- duration: 3.3455874919891357
+Model saved to disk
+Target model saved to disk
+
+Episode 338 DONE
+	- score: 11.0
+	- duration: 59.03553652763367
+Model saved to disk
+Target model saved to disk
+
+Episode 339 DONE
+	- score: 4.0
+	- duration: 27.06314730644226
+Model saved to disk
+Target model saved to disk
+
+Episode 340 DONE
+	- score: 6.0
+	- duration: 54.31976675987244
+Model saved to disk
+Target model saved to disk
+
+Episode 341 DONE
+	- score: 12.0
+	- duration: 35.35754656791687
+Model saved to disk
+Target model saved to disk
+
+Episode 342 DONE
+	- score: 1.0
+	- duration: 68.47932529449463
+Model saved to disk
+Target model saved to disk
+
+Episode 343 
+	- score: 4.0
+	- duration: 88.70914077758789
+Model saved to disk
+Target model saved to disk
+
+Episode 344 DONE
+	- score: 7.0
+	- duration: 5.427471876144409
+Model saved to disk
+Target model saved to disk
+
+Episode 345 
+	- score: 6.0
+	- duration: 88.13638877868652
+Model saved to disk
+Target model saved to disk
+
+Episode 346 DONE
+	- score: 0.0
+	- duration: 0.167999267578125
+Model saved to disk
+Target model saved to disk
+
+Episode 347 DONE
+	- score: -2.0
+	- duration: 41.563759088516235
+Model saved to disk
+Target model saved to disk
+
+Episode 348 DONE
+	- score: 7.0
+	- duration: 21.554834365844727
+Model saved to disk
+Target model saved to disk
+
+Episode 349 
+	- score: 0.0
+	- duration: 88.84878730773926
+Model saved to disk
+Target model saved to disk
+
+Episode 350 DONE
+	- score: 7.0
+	- duration: 42.840325593948364
+Model saved to disk
+Target model saved to disk
+
+Episode 351 
+	- score: 0.0
+	- duration: 88.30287742614746
+Model saved to disk
+Target model saved to disk
+
+Episode 352 DONE
+	- score: 3.0
+	- duration: 22.26958656311035
+Model saved to disk
+Target model saved to disk
+
+Episode 353 DONE
+	- score: 10.0
+	- duration: 32.09318733215332
+Model saved to disk
+Target model saved to disk
+
+Episode 354 
+	- score: -5.0
+	- duration: 88.41996312141418
+Model saved to disk
+Target model saved to disk
+
+Episode 355 DONE
+	- score: 0.0
+	- duration: 0.12101864814758301
+Model saved to disk
+Target model saved to disk
+
+Episode 356 
+	- score: 11.0
+	- duration: 88.60671591758728
+Model saved to disk
+Target model saved to disk
+
+Episode 357 
+	- score: 11.0
+	- duration: 95.54315423965454
+Model saved to disk
+Target model saved to disk
+
+Episode 358 
+	- score: 5.0
+	- duration: 100.89476299285889
+Model saved to disk
+Target model saved to disk
+
+Episode 359 DONE
+	- score: 12.0
+	- duration: 54.6614511013031
+Model saved to disk
+Target model saved to disk
+
+Episode 360 
+	- score: -3.0
+	- duration: 96.81568384170532
+Model saved to disk
+Target model saved to disk
+
+Episode 361 DONE
+	- score: 3.0
+	- duration: 28.730567693710327
+Model saved to disk
+Target model saved to disk
+
+Episode 362 DONE
+	- score: 6.0
+	- duration: 1.2196745872497559
+Model saved to disk
+Target model saved to disk
+
+Episode 363 DONE
+	- score: 7.0
+	- duration: 36.87045168876648
+Model saved to disk
+Target model saved to disk
+
+Episode 364 DONE
+	- score: 12.0
+	- duration: 82.31343245506287
+Model saved to disk
+Target model saved to disk
+
+Episode 365 
+	- score: 7.0
+	- duration: 99.34762191772461
+Model saved to disk
+Target model saved to disk
+
+Episode 366 DONE
+	- score: 19.0
+	- duration: 58.88835263252258
+Model saved to disk
+Target model saved to disk
+
+Episode 367 DONE
+	- score: 4.0
+	- duration: 50.25621151924133
+Model saved to disk
+Target model saved to disk
+
+Episode 368 DONE
+	- score: 9.0
+	- duration: 17.224565744400024
+Model saved to disk
+Target model saved to disk
+
+Episode 369 DONE
+	- score: 11.0
+	- duration: 18.023914575576782
+Model saved to disk
+Target model saved to disk
+
+Episode 370 
+	- score: 2.0
+	- duration: 98.41712665557861
+Model saved to disk
+Target model saved to disk
+
+Episode 371 DONE
+	- score: 0.0
+	- duration: 0.15399765968322754
+Model saved to disk
+Target model saved to disk
+
+Episode 372 
+	- score: -2.0
+	- duration: 98.54685020446777
+Model saved to disk
+Target model saved to disk
+
+Episode 373 
+	- score: 6.0
+	- duration: 101.99214768409729
+Model saved to disk
+Target model saved to disk
+
+Episode 374 
+	- score: 15.0
+	- duration: 98.7696704864502
+Model saved to disk
+Target model saved to disk
+
+Episode 375 
+	- score: -8.0
+	- duration: 102.8070855140686
+Model saved to disk
+Target model saved to disk
+
+Episode 376 DONE
+	- score: 0.0
+	- duration: 0.1575300693511963
+Model saved to disk
+Target model saved to disk
+
+Episode 377 DONE
+	- score: 10.0
+	- duration: 93.0816478729248
+Model saved to disk
+Target model saved to disk
+
+Episode 378 DONE
+	- score: 7.0
+	- duration: 92.82644081115723
+Model saved to disk
+Target model saved to disk
+
+Episode 379 DONE
+	- score: 4.0
+	- duration: 34.639132499694824
+Model saved to disk
+Target model saved to disk
+
+Episode 380 DONE
+	- score: 3.0
+	- duration: 11.667772769927979
+Model saved to disk
+Target model saved to disk
+
+Episode 381 
+	- score: 9.0
+	- duration: 98.65843224525452
+Model saved to disk
+Target model saved to disk
+
+Episode 382 DONE
+	- score: 4.0
+	- duration: 1.4997544288635254
+Model saved to disk
+Target model saved to disk
+
+Episode 383 
+	- score: 7.0
+	- duration: 98.40012216567993
+Model saved to disk
+Target model saved to disk
+
+Episode 384 DONE
+	- score: 0.0
+	- duration: 32.434956550598145
+Model saved to disk
+Target model saved to disk
+
+Episode 385 
+	- score: -2.0
+	- duration: 98.6769609451294
+Model saved to disk
+Target model saved to disk
+
+Episode 386 DONE
+	- score: 10.0
+	- duration: 83.8745105266571
+Model saved to disk
+Target model saved to disk
+
+Episode 387 
+	- score: -1.0
+	- duration: 98.49989008903503
+Model saved to disk
+Target model saved to disk
+
+Episode 388 
+	- score: 3.0
+	- duration: 98.30393600463867
+Model saved to disk
+Target model saved to disk
+
+Episode 389 
+	- score: 0.0
+	- duration: 99.18482637405396
+Model saved to disk
+Target model saved to disk
+
+Episode 390 
+	- score: -2.0
+	- duration: 98.14695572853088
+Model saved to disk
+Target model saved to disk
+
+Episode 391 DONE
+	- score: 7.0
+	- duration: 27.702158451080322
+Model saved to disk
+Target model saved to disk
+
+Episode 392 DONE
+	- score: 2.0
+	- duration: 34.96987700462341
+Model saved to disk
+Target model saved to disk
+
+Episode 393 DONE
+	- score: 26.0
+	- duration: 69.04245090484619
+Model saved to disk
+Target model saved to disk
+
+Episode 394 DONE
+	- score: 4.0
+	- duration: 58.53313970565796
+Model saved to disk
+Target model saved to disk
+
+Episode 395 
+	- score: 9.0
+	- duration: 98.26992797851562
+Model saved to disk
+Target model saved to disk
+
+Episode 396 DONE
+	- score: 9.0
+	- duration: 40.56037712097168
+Model saved to disk
+Target model saved to disk
+
+Episode 397 DONE
+	- score: 5.0
+	- duration: 29.655981063842773
+Model saved to disk
+Target model saved to disk
+
+Episode 398 DONE
+	- score: 9.0
+	- duration: 73.10136270523071
+Model saved to disk
+Target model saved to disk
+
+Episode 399 DONE
+	- score: 5.0
+	- duration: 4.751716375350952
+Model saved to disk
+Target model saved to disk
+
+Episode 400 DONE
+	- score: 9.0
+	- duration: 34.702996015548706
+Model saved to disk
+Target model saved to disk
+
+Episode 401 
+	- score: 5.0
+	- duration: 99.64156174659729
+Model saved to disk
+Target model saved to disk
+
+Episode 402 DONE
+	- score: 5.0
+	- duration: 5.629079580307007
+Model saved to disk
+Target model saved to disk
+
+Episode 403 
+	- score: 0.0
+	- duration: 98.92905259132385
+Model saved to disk
+Target model saved to disk
+
+Episode 404 
+	- score: 2.0
+	- duration: 100.10643529891968
+Model saved to disk
+Target model saved to disk
+
+Episode 405 
+	- score: 11.0
+	- duration: 98.63105058670044
+Model saved to disk
+Target model saved to disk
+
+Episode 406 DONE
+	- score: 7.0
+	- duration: 17.01933717727661
+Model saved to disk
+Target model saved to disk
+
+Episode 407 
+	- score: -1.0
+	- duration: 99.56795907020569
+Model saved to disk
+Target model saved to disk
+
+Episode 408 
+	- score: -3.0
+	- duration: 102.26708507537842
+Model saved to disk
+Target model saved to disk
+
+Episode 409 
+	- score: 4.0
+	- duration: 100.39762687683105
+Model saved to disk
+Target model saved to disk
+
+Episode 410 DONE
+	- score: 7.0
+	- duration: 0.561312198638916
+Model saved to disk
+Target model saved to disk
+
+Episode 411 
+	- score: 3.0
+	- duration: 98.8979709148407
+Model saved to disk
+Target model saved to disk
+
+Episode 412 
+	- score: 12.0
+	- duration: 98.86028623580933
+Model saved to disk
+Target model saved to disk
+
+Episode 413 DONE
+	- score: 20.0
+	- duration: 85.54102945327759
+Model saved to disk
+Target model saved to disk
+
+Episode 414 DONE
+	- score: 10.0
+	- duration: 34.6655113697052
+Model saved to disk
+Target model saved to disk
+
+Episode 415 DONE
+	- score: 10.0
+	- duration: 59.29991102218628
+Model saved to disk
+Target model saved to disk
+
+Episode 416 
+	- score: 7.0
+	- duration: 98.06205463409424
+Model saved to disk
+Target model saved to disk
+
+Episode 417 DONE
+	- score: 6.0
+	- duration: 7.7707719802856445
+Model saved to disk
+Target model saved to disk
+
+Episode 418 DONE
+	- score: 5.0
+	- duration: 40.105928897857666
+Model saved to disk
+Target model saved to disk
+
+Episode 419 
+	- score: 20.0
+	- duration: 100.07892417907715
+Model saved to disk
+Target model saved to disk
+
+Episode 420 DONE
+	- score: -9.0
+	- duration: 66.1007752418518
+Model saved to disk
+Target model saved to disk
+
+Episode 421 
+	- score: 6.0
+	- duration: 97.98610401153564
+Model saved to disk
+Target model saved to disk
+
+Episode 422 
+	- score: -4.0
+	- duration: 102.45285964012146
+Model saved to disk
+Target model saved to disk
+
+Episode 423 DONE
+	- score: 8.0
+	- duration: 25.97173547744751
+Model saved to disk
+Target model saved to disk
+
+Episode 424 
+	- score: 2.0
+	- duration: 98.6233377456665
+Model saved to disk
+Target model saved to disk
+
+Episode 425 
+	- score: 14.0
+	- duration: 96.95723176002502
+Model saved to disk
+Target model saved to disk
+
+Episode 426 DONE
+	- score: 9.0
+	- duration: 46.47835111618042
+Model saved to disk
+Target model saved to disk
+
+Episode 427 DONE
+	- score: 8.0
+	- duration: 68.27079463005066
+Model saved to disk
+Target model saved to disk
+
+Episode 428 
+	- score: 11.0
+	- duration: 98.45513415336609
+Model saved to disk
+Target model saved to disk
+
+Episode 429 
+	- score: 2.0
+	- duration: 98.39366149902344
+Model saved to disk
+Target model saved to disk
+
+Episode 430 
+	- score: -3.0
+	- duration: 99.86848139762878
+Model saved to disk
+Target model saved to disk
+
+Episode 431 
+	- score: -5.0
+	- duration: 99.35439157485962
+Model saved to disk
+Target model saved to disk
+
+Episode 432 
+	- score: 3.0
+	- duration: 99.88812708854675
+Model saved to disk
+Target model saved to disk
+
+Episode 433 DONE
+	- score: 7.0
+	- duration: 0.48336195945739746
+Model saved to disk
+Target model saved to disk
+
+Episode 434 
+	- score: 0.0
+	- duration: 97.91349959373474
+Model saved to disk
+Target model saved to disk
+
+Episode 435 DONE
+	- score: 11.0
+	- duration: 73.42090106010437
+Model saved to disk
+Target model saved to disk
+
+Episode 436 
+	- score: 14.0
+	- duration: 99.231929063797
+Model saved to disk
+Target model saved to disk
+
+Episode 437 
+	- score: 0.0
+	- duration: 98.11430263519287
+Model saved to disk
+Target model saved to disk
+
+Episode 438 DONE
+	- score: 0.0
+	- duration: 0.19812989234924316
+Model saved to disk
+Target model saved to disk
+
+Episode 439 DONE
+	- score: 7.0
+	- duration: 59.210983991622925
+Model saved to disk
+Target model saved to disk
+
+Episode 440 DONE
+	- score: 6.0
+	- duration: 43.44969367980957
+Model saved to disk
+Target model saved to disk
+
+Episode 441 
+	- score: 8.0
+	- duration: 98.04087352752686
+Model saved to disk
+Target model saved to disk
+
+Episode 442 
+	- score: -10.0
+	- duration: 98.45586848258972
+Model saved to disk
+Target model saved to disk
+
+Episode 443 
+	- score: -3.0
+	- duration: 98.86477875709534
+Model saved to disk
+Target model saved to disk
+
+Episode 444 DONE
+	- score: 0.0
+	- duration: 27.556381464004517
+Model saved to disk
+Target model saved to disk
+
+Episode 445 
+	- score: -8.0
+	- duration: 98.32198715209961
+Model saved to disk
+Target model saved to disk
+
+Episode 446 DONE
+	- score: 2.0
+	- duration: 19.449310064315796
+Model saved to disk
+Target model saved to disk
+
+Episode 447 
+	- score: 9.0
+	- duration: 100.57020235061646
+Model saved to disk
+Target model saved to disk
+
+Episode 448 
+	- score: 5.0
+	- duration: 97.8717999458313
+Model saved to disk
+Target model saved to disk
+
+Episode 449 
+	- score: 15.0
+	- duration: 97.95135617256165
+Model saved to disk
+Target model saved to disk
+
+Episode 450 DONE
+	- score: 0.0
+	- duration: 57.045533657073975
+Model saved to disk
+Target model saved to disk
+
+Episode 451 
+	- score: 10.0
+	- duration: 97.62938594818115
+Model saved to disk
+Target model saved to disk
+
+Episode 452 
+	- score: 3.0
+	- duration: 95.13132548332214
+Model saved to disk
+Target model saved to disk
+
+Episode 453 DONE
+	- score: 4.0
+	- duration: 23.927377223968506
+Model saved to disk
+Target model saved to disk
+
+Episode 454 DONE
+	- score: 13.0
+	- duration: 54.212870836257935
+Model saved to disk
+Target model saved to disk
+
+Episode 455 DONE
+	- score: 4.0
+	- duration: 15.516198873519897
+Model saved to disk
+Target model saved to disk
+
+Episode 456 
+	- score: 0.0
+	- duration: 96.10927534103394
+Model saved to disk
+Target model saved to disk
+
+Episode 457 DONE
+	- score: 5.0
+	- duration: 25.075919151306152
+Model saved to disk
+Target model saved to disk
+
+Episode 458 
+	- score: 2.0
+	- duration: 94.5479507446289
+Model saved to disk
+Target model saved to disk
+
+Episode 459 
+	- score: -1.0
+	- duration: 96.04810047149658
+Model saved to disk
+Target model saved to disk
+
+Episode 460 DONE
+	- score: 5.0
+	- duration: 70.40230655670166
+Model saved to disk
+Target model saved to disk
+
+Episode 461 DONE
+	- score: 3.0
+	- duration: 29.995779037475586
+Model saved to disk
+Target model saved to disk
+
+Episode 462 DONE
+	- score: 6.0
+	- duration: 46.46671175956726
+Model saved to disk
+Target model saved to disk
+
+Episode 463 DONE
+	- score: 10.0
+	- duration: 24.8325777053833
+Model saved to disk
+Target model saved to disk
+
+Episode 464 DONE
+	- score: 14.0
+	- duration: 37.3313148021698
+Model saved to disk
+Target model saved to disk
+
+Episode 465 DONE
+	- score: 0.0
+	- duration: 0.16239333152770996
+Model saved to disk
+Target model saved to disk
+
+Episode 466 
+	- score: 7.0
+	- duration: 95.00694060325623
+Model saved to disk
+Target model saved to disk
+
+Episode 467 DONE
+	- score: 20.0
+	- duration: 76.11708736419678
+Model saved to disk
+Target model saved to disk
+
+Episode 468 DONE
+	- score: 6.0
+	- duration: 50.08087491989136
+Model saved to disk
+Target model saved to disk
+
+Episode 469 DONE
+	- score: 8.0
+	- duration: 72.88894200325012
+Model saved to disk
+Target model saved to disk
+
+Episode 470 
+	- score: 8.0
+	- duration: 105.49054408073425
+Model saved to disk
+Target model saved to disk
+
+Episode 471 DONE
+	- score: 6.0
+	- duration: 28.006404399871826
+Model saved to disk
+Target model saved to disk
+
+Episode 472 DONE
+	- score: 11.0
+	- duration: 51.245222091674805
+Model saved to disk
+Target model saved to disk
+
+Episode 473 DONE
+	- score: 7.0
+	- duration: 35.58137083053589
+Model saved to disk
+Target model saved to disk
+
+Episode 474 
+	- score: 6.0
+	- duration: 99.9314615726471
+Model saved to disk
+Target model saved to disk
+
+Episode 475 DONE
+	- score: 13.0
+	- duration: 50.752787351608276
+Model saved to disk
+Target model saved to disk
+
+Episode 476 DONE
+	- score: 6.0
+	- duration: 80.94438433647156
+Model saved to disk
+Target model saved to disk
+
+Episode 477 DONE
+	- score: 6.0
+	- duration: 0.6739153861999512
+Model saved to disk
+Target model saved to disk
+
+Episode 478 
+	- score: 12.0
+	- duration: 97.39072179794312
+Model saved to disk
+Target model saved to disk
+
+Episode 479 DONE
+	- score: 15.0
+	- duration: 53.95856475830078
+Model saved to disk
+Target model saved to disk
+
+Episode 480 
+	- score: -6.0
+	- duration: 99.15618205070496
+Model saved to disk
+Target model saved to disk
+
+Episode 481 DONE
+	- score: 2.0
+	- duration: 38.013535022735596
+Model saved to disk
+Target model saved to disk
+
+Episode 482 DONE
+	- score: -2.0
+	- duration: 62.60367488861084
+Model saved to disk
+Target model saved to disk
+
+Episode 483 
+	- score: 1.0
+	- duration: 98.86576867103577
+Model saved to disk
+Target model saved to disk
+
+Episode 484 DONE
+	- score: 6.0
+	- duration: 48.251179695129395
+Model saved to disk
+Target model saved to disk
+
+Episode 485 DONE
+	- score: 4.0
+	- duration: 24.420600414276123
+Model saved to disk
+Target model saved to disk
+
+Episode 486 DONE
+	- score: 8.0
+	- duration: 8.953689813613892
+Model saved to disk
+Target model saved to disk
+
+Episode 487 
+	- score: -4.0
+	- duration: 97.72214460372925
+Model saved to disk
+Target model saved to disk
+
+Episode 488 
+	- score: 8.0
+	- duration: 97.77548050880432
+Model saved to disk
+Target model saved to disk
+
+Episode 489 
+	- score: -1.0
+	- duration: 97.23268580436707
+Model saved to disk
+Target model saved to disk
+
+Episode 490 DONE
+	- score: 2.0
+	- duration: 29.761679649353027
+Model saved to disk
+Target model saved to disk
+
+Episode 491 DONE
+	- score: -5.0
+	- duration: 45.47368836402893
+Model saved to disk
+Target model saved to disk
+
+Episode 492 
+	- score: 10.0
+	- duration: 97.93527913093567
+Model saved to disk
+Target model saved to disk
+
+Episode 493 DONE
+	- score: 6.0
+	- duration: 52.78123331069946
+Model saved to disk
+Target model saved to disk
+
+Episode 494 DONE
+	- score: 7.0
+	- duration: 28.65885353088379
+Model saved to disk
+Target model saved to disk
+
+Episode 495 
+	- score: 4.0
+	- duration: 98.11644411087036
+Model saved to disk
+Target model saved to disk
+
+Episode 496 DONE
+	- score: 5.0
+	- duration: 1.360982894897461
+Model saved to disk
+Target model saved to disk
+
+Episode 497 DONE
+	- score: 4.0
+	- duration: 74.96294808387756
+Model saved to disk
+Target model saved to disk
+
+Episode 498 DONE
+	- score: 17.0
+	- duration: 83.48518133163452
+Model saved to disk
+Target model saved to disk
+
+Episode 499 DONE
+	- score: -1.0
+	- duration: 44.41109824180603
+Model saved to disk
+Target model saved to disk
+
+Episode 500 DONE
+	- score: 10.0
+	- duration: 65.18301224708557
+Model saved to disk
+Target model saved to disk
+
+Episode 501 DONE
+	- score: 4.0
+	- duration: 81.98182606697083
+Model saved to disk
+Target model saved to disk
+
+Episode 502 DONE
+	- score: 12.0
+	- duration: 22.065282344818115
+Model saved to disk
+Target model saved to disk
+
+Episode 503 
+	- score: 2.0
+	- duration: 96.80053734779358
+Model saved to disk
+Target model saved to disk
+
+Episode 504 
+	- score: 8.0
+	- duration: 96.26573705673218
+Model saved to disk
+Target model saved to disk
+
+Episode 505 
+	- score: -2.0
+	- duration: 96.62760162353516
+Model saved to disk
+Target model saved to disk
+
+Episode 506 DONE
+	- score: 6.0
+	- duration: 17.08497929573059
+Model saved to disk
+Target model saved to disk
+
+Episode 507 DONE
+	- score: 0.0
+	- duration: 0.16099786758422852
+Model saved to disk
+Target model saved to disk
+
+Episode 508 
+	- score: -3.0
+	- duration: 97.71816039085388
+Model saved to disk
+Target model saved to disk
+
+Episode 509 DONE
+	- score: 2.0
+	- duration: 32.92886424064636
+Model saved to disk
+Target model saved to disk
+
+Episode 510 DONE
+	- score: 7.0
+	- duration: 12.5191490650177
+Model saved to disk
+Target model saved to disk
+
+Episode 511 DONE
+	- score: 7.0
+	- duration: 4.737120628356934
+Model saved to disk
+Target model saved to disk
+
+Episode 512 DONE
+	- score: 6.0
+	- duration: 91.51413750648499
+Model saved to disk
+Target model saved to disk
+
+Episode 513 DONE
+	- score: 10.0
+	- duration: 24.739282369613647
+Model saved to disk
+Target model saved to disk
+
+Episode 514 DONE
+	- score: 9.0
+	- duration: 5.053853511810303
+Model saved to disk
+Target model saved to disk
+
+Episode 515 
+	- score: 7.0
+	- duration: 98.50519824028015
+Model saved to disk
+Target model saved to disk
+
+Episode 516 
+	- score: 3.0
+	- duration: 97.56767725944519
+Model saved to disk
+Target model saved to disk
+
+Episode 517 
+	- score: 20.0
+	- duration: 97.28264594078064
+Model saved to disk
+Target model saved to disk
+
+Episode 518 DONE
+	- score: 6.0
+	- duration: 5.402964115142822
+Model saved to disk
+Target model saved to disk
+
+Episode 519 
+	- score: 15.0
+	- duration: 96.79784893989563
+Model saved to disk
+Target model saved to disk
+
+Episode 520 
+	- score: 14.0
+	- duration: 98.38135170936584
+Model saved to disk
+Target model saved to disk
+
+Episode 521 DONE
+	- score: 12.0
+	- duration: 66.43071842193604
+Model saved to disk
+Target model saved to disk
+
+Episode 522 DONE
+	- score: 4.0
+	- duration: 5.898064613342285
+Model saved to disk
+Target model saved to disk
+
+Episode 523 DONE
+	- score: -4.0
+	- duration: 41.0707311630249
+Model saved to disk
+Target model saved to disk
+
+Episode 524 DONE
+	- score: 7.0
+	- duration: 15.539215564727783
+Model saved to disk
+Target model saved to disk
+
+Episode 525 
+	- score: 2.0
+	- duration: 100.55184006690979
+Model saved to disk
+Target model saved to disk
+
+Episode 526 
+	- score: 11.0
+	- duration: 103.76882815361023
+Model saved to disk
+Target model saved to disk
+
+Episode 527 
+	- score: -12.0
+	- duration: 99.57352328300476
+Model saved to disk
+Target model saved to disk
+
+Episode 528 
+	- score: -13.0
+	- duration: 98.28691577911377
+Model saved to disk
+Target model saved to disk
+
+Episode 529 
+	- score: 7.0
+	- duration: 100.71688556671143
+Model saved to disk
+Target model saved to disk
+
+Episode 530 DONE
+	- score: 7.0
+	- duration: 22.1831533908844
+Model saved to disk
+Target model saved to disk
+
+Episode 531 
+	- score: 3.0
+	- duration: 100.31409454345703
+Model saved to disk
+Target model saved to disk
+
+Episode 532 
+	- score: 7.0
+	- duration: 101.55870294570923
+Model saved to disk
+Target model saved to disk
+
+Episode 533 
+	- score: 6.0
+	- duration: 100.98264217376709
+Model saved to disk
+Target model saved to disk
+
+Episode 534 
+	- score: -12.0
+	- duration: 99.10680794715881
+Model saved to disk
+Target model saved to disk
+
+Episode 535 DONE
+	- score: 15.0
+	- duration: 70.57199025154114
+Model saved to disk
+Target model saved to disk
+
+Episode 536 
+	- score: 7.0
+	- duration: 98.7542929649353
+Model saved to disk
+Target model saved to disk
+
+Episode 537 DONE
+	- score: 8.0
+	- duration: 33.08389234542847
+Model saved to disk
+Target model saved to disk
+
+Episode 538 
+	- score: 18.0
+	- duration: 99.41817140579224
+Model saved to disk
+Target model saved to disk
+
+Episode 539 
+	- score: -3.0
+	- duration: 99.01762199401855
+Model saved to disk
+Target model saved to disk
+
+Episode 540 
+	- score: -6.0
+	- duration: 97.7432451248169
+Model saved to disk
+Target model saved to disk
+
+Episode 541 
+	- score: -5.0
+	- duration: 98.47398853302002
+Model saved to disk
+Target model saved to disk
+
+Episode 542 
+	- score: -8.0
+	- duration: 98.69336676597595
+Model saved to disk
+Target model saved to disk
+
+Episode 543 
+	- score: 5.0
+	- duration: 98.2131986618042
+Model saved to disk
+Target model saved to disk
+
+Episode 544 DONE
+	- score: 6.0
+	- duration: 11.451289176940918
+Model saved to disk
+Target model saved to disk
+
+Episode 545 
+	- score: 13.0
+	- duration: 103.24138474464417
+Model saved to disk
+Target model saved to disk
+
+Episode 546 
+	- score: -2.0
+	- duration: 100.57090902328491
+Model saved to disk
+Target model saved to disk
+
+Episode 547 
+	- score: 2.0
+	- duration: 105.30133938789368
+Model saved to disk
+Target model saved to disk
+
+Episode 548 DONE
+	- score: 8.0
+	- duration: 47.39269661903381
+Model saved to disk
+Target model saved to disk
+
+Episode 549 DONE
+	- score: 8.0
+	- duration: 3.968994140625
+Model saved to disk
+Target model saved to disk
+
+Episode 550 
+	- score: 5.0
+	- duration: 108.53032732009888
+Model saved to disk
+Target model saved to disk
+
+Episode 551 DONE
+	- score: 7.0
+	- duration: 14.62044358253479
+Model saved to disk
+Target model saved to disk
+
+Episode 552 DONE
+	- score: 12.0
+	- duration: 49.56568622589111
+Model saved to disk
+Target model saved to disk
+
+Episode 553 
+	- score: 7.0
+	- duration: 103.65429401397705
+Model saved to disk
+Target model saved to disk
+
+Episode 554 DONE
+	- score: 7.0
+	- duration: 7.8413941860198975
+Model saved to disk
+Target model saved to disk
+
+Episode 555 
+	- score: 0.0
+	- duration: 101.14782810211182
+Model saved to disk
+Target model saved to disk
+
+Episode 556 
+	- score: 3.0
+	- duration: 97.6450765132904
+Model saved to disk
+Target model saved to disk
+
+Episode 557 DONE
+	- score: 5.0
+	- duration: 34.558143615722656
+Model saved to disk
+Target model saved to disk
+
+Episode 558 
+	- score: 9.0
+	- duration: 98.09275031089783
+Model saved to disk
+Target model saved to disk
+
+Episode 559 DONE
+	- score: 4.0
+	- duration: 2.8266360759735107
+Model saved to disk
+Target model saved to disk
+
+Episode 560 DONE
+	- score: 8.0
+	- duration: 29.907702207565308
+Model saved to disk
+Target model saved to disk
+
+Episode 561 
+	- score: -4.0
+	- duration: 105.76693868637085
+Model saved to disk
+Target model saved to disk
+
+Episode 562 DONE
+	- score: 12.0
+	- duration: 28.940285444259644
+Model saved to disk
+Target model saved to disk
+
+Episode 563 
+	- score: -6.0
+	- duration: 92.05598878860474
+Model saved to disk
+Target model saved to disk
+
+Episode 564 
+	- score: 1.0
+	- duration: 92.31583547592163
+Model saved to disk
+Target model saved to disk
+
+Episode 565 DONE
+	- score: 11.0
+	- duration: 29.452603340148926
+Model saved to disk
+Target model saved to disk
+
+Episode 566 DONE
+	- score: 12.0
+	- duration: 86.14187002182007
+Model saved to disk
+Target model saved to disk
+
+Episode 567 
+	- score: 14.0
+	- duration: 90.94323015213013
+Model saved to disk
+Target model saved to disk
+
+Episode 568 DONE
+	- score: 0.0
+	- duration: 0.12599730491638184
+Model saved to disk
+Target model saved to disk
+
+Episode 569 
+	- score: 4.0
+	- duration: 91.5426857471466
+Model saved to disk
+Target model saved to disk
+
+Episode 570 
+	- score: 10.0
+	- duration: 91.31804656982422
+Model saved to disk
+Target model saved to disk
+
+Episode 571 
+	- score: 2.0
+	- duration: 90.91422200202942
+Model saved to disk
+Target model saved to disk
+
+Episode 572 DONE
+	- score: 6.0
+	- duration: 84.07365250587463
+Model saved to disk
+Target model saved to disk
+
+Episode 573 
+	- score: -2.0
+	- duration: 91.35957860946655
+Model saved to disk
+Target model saved to disk
+
+Episode 574 DONE
+	- score: 7.0
+	- duration: 29.93486452102661
+Model saved to disk
+Target model saved to disk
+
+Episode 575 DONE
+	- score: 6.0
+	- duration: 31.182281494140625
+Model saved to disk
+Target model saved to disk
+
+Episode 576 
+	- score: 2.0
+	- duration: 91.46453523635864
+Model saved to disk
+Target model saved to disk
+
+Episode 577 DONE
+	- score: 6.0
+	- duration: 9.566711902618408
+Model saved to disk
+Target model saved to disk
+
+Episode 578 
+	- score: 6.0
+	- duration: 91.12756395339966
+Model saved to disk
+Target model saved to disk
+
+Episode 579 
+	- score: 1.0
+	- duration: 91.32846403121948
+Model saved to disk
+Target model saved to disk
+
+Episode 580 DONE
+	- score: 6.0
+	- duration: 5.810314416885376
+Model saved to disk
+Target model saved to disk
+
+Episode 581 DONE
+	- score: 6.0
+	- duration: 0.74483323097229
+Model saved to disk
+Target model saved to disk
+
+Episode 582 
+	- score: 3.0
+	- duration: 91.76931762695312
+Model saved to disk
+Target model saved to disk
+
+Episode 583 
+	- score: -4.0
+	- duration: 91.66659307479858
+Model saved to disk
+Target model saved to disk
+
+Episode 584 
+	- score: -6.0
+	- duration: 91.06029319763184
+Model saved to disk
+Target model saved to disk
+
+Episode 585 DONE
+	- score: 14.0
+	- duration: 65.9092526435852
+Model saved to disk
+Target model saved to disk
+
+Episode 586 
+	- score: -13.0
+	- duration: 91.79038047790527
+Model saved to disk
+Target model saved to disk
+
+Episode 587 
+	- score: 2.0
+	- duration: 91.57100701332092
+Model saved to disk
+Target model saved to disk
+
+Episode 588 DONE
+	- score: 9.0
+	- duration: 62.19918775558472
+Model saved to disk
+Target model saved to disk
+
+Episode 589 
+	- score: 9.0
+	- duration: 91.49663543701172
+Model saved to disk
+Target model saved to disk
+
+Episode 590 DONE
+	- score: 0.0
+	- duration: 0.12554645538330078
+Model saved to disk
+Target model saved to disk
+
+Episode 591 DONE
+	- score: 7.0
+	- duration: 51.26034331321716
+Model saved to disk
+Target model saved to disk
+
+Episode 592 DONE
+	- score: 5.0
+	- duration: 1.6346380710601807
+Model saved to disk
+Target model saved to disk
+
+Episode 593 DONE
+	- score: 8.0
+	- duration: 7.558424711227417
+Model saved to disk
+Target model saved to disk
+
+Episode 594 DONE
+	- score: 4.0
+	- duration: 12.40017819404602
+Model saved to disk
+Target model saved to disk
+
+Episode 595 DONE
+	- score: 9.0
+	- duration: 6.411771774291992
+Model saved to disk
+Target model saved to disk
+
+Episode 596 
+	- score: 0.0
+	- duration: 91.81231594085693
+Model saved to disk
+Target model saved to disk
+
+Episode 597 DONE
+	- score: 4.0
+	- duration: 18.23118305206299
+Model saved to disk
+Target model saved to disk
+
+Episode 598 DONE
+	- score: 8.0
+	- duration: 78.15331816673279
+Model saved to disk
+Target model saved to disk
+
+Episode 599 DONE
+	- score: 0.0
+	- duration: 0.1700124740600586
+Model saved to disk
+Target model saved to disk
+
+Episode 600 
+	- score: -1.0
+	- duration: 91.93801975250244
+Model saved to disk
+Target model saved to disk
+
+Episode 601 
+	- score: 9.0
+	- duration: 91.82005882263184
+Model saved to disk
+Target model saved to disk
+
+Episode 602 DONE
+	- score: 3.0
+	- duration: 62.12761068344116
+Model saved to disk
+Target model saved to disk
+
+Episode 603 DONE
+	- score: 13.0
+	- duration: 28.49889636039734
+Model saved to disk
+Target model saved to disk
+
+Episode 604 DONE
+	- score: 1.0
+	- duration: 62.94104218482971
+Model saved to disk
+Target model saved to disk
+
+Episode 605 
+	- score: -2.0
+	- duration: 91.51016020774841
+Model saved to disk
+Target model saved to disk
+
+Episode 606 
+	- score: 3.0
+	- duration: 91.48139429092407
+Model saved to disk
+Target model saved to disk
+
+Episode 607 
+	- score: 5.0
+	- duration: 92.11801481246948
+Model saved to disk
+Target model saved to disk
+
+Episode 608 
+	- score: 8.0
+	- duration: 91.46377420425415
+Model saved to disk
+Target model saved to disk
+
+Episode 609 
+	- score: 5.0
+	- duration: 92.56611394882202
+Model saved to disk
+Target model saved to disk
+
+Episode 610 
+	- score: 5.0
+	- duration: 92.22232627868652
+Model saved to disk
+Target model saved to disk
+
+Episode 611 DONE
+	- score: 5.0
+	- duration: 71.91917371749878
+Model saved to disk
+Target model saved to disk
+
+Episode 612 
+	- score: -3.0
+	- duration: 92.07099342346191
+Model saved to disk
+Target model saved to disk
+
+Episode 613 DONE
+	- score: 4.0
+	- duration: 17.281800031661987
+Model saved to disk
+Target model saved to disk
+
+Episode 614 
+	- score: 13.0
+	- duration: 91.23046326637268
+Model saved to disk
+Target model saved to disk
+
+Episode 615 DONE
+	- score: 6.0
+	- duration: 2.110816478729248
+Model saved to disk
+Target model saved to disk
+
+Episode 616 
+	- score: -5.0
+	- duration: 92.39098358154297
+Model saved to disk
+Target model saved to disk
+
+Episode 617 
+	- score: 6.0
+	- duration: 92.26986742019653
+Model saved to disk
+Target model saved to disk
+
+Episode 618 
+	- score: 3.0
+	- duration: 91.86948657035828
+Model saved to disk
+Target model saved to disk
+
+Episode 619 
+	- score: -3.0
+	- duration: 92.08261919021606
+Model saved to disk
+Target model saved to disk
+
+Episode 620 DONE
+	- score: 4.0
+	- duration: 6.759695291519165
+Model saved to disk
+Target model saved to disk
+
+Episode 621 
+	- score: 4.0
+	- duration: 91.85941410064697
+Model saved to disk
+Target model saved to disk
+
+Episode 622 
+	- score: 11.0
+	- duration: 91.53216075897217
+Model saved to disk
+Target model saved to disk
+
+Episode 623 
+	- score: 7.0
+	- duration: 92.2549078464508
+Model saved to disk
+Target model saved to disk
+
+Episode 624 DONE
+	- score: 4.0
+	- duration: 60.30589962005615
+Model saved to disk
+Target model saved to disk
+
+Episode 625 DONE
+	- score: 14.0
+	- duration: 53.03578543663025
+Model saved to disk
+Target model saved to disk
+
+Episode 626 DONE
+	- score: 7.0
+	- duration: 12.632765769958496
+Model saved to disk
+Target model saved to disk
+
+Episode 627 
+	- score: 1.0
+	- duration: 92.12069892883301
+Model saved to disk
+Target model saved to disk
+
+Episode 628 
+	- score: -5.0
+	- duration: 91.79112505912781
+Model saved to disk
+Target model saved to disk
+
+Episode 629 DONE
+	- score: 6.0
+	- duration: 30.26212430000305
+Model saved to disk
+Target model saved to disk
+
+Episode 630 
+	- score: 10.0
+	- duration: 92.51651930809021
+Model saved to disk
+Target model saved to disk
+
+Episode 631 
+	- score: 8.0
+	- duration: 91.83937239646912
+Model saved to disk
+Target model saved to disk
+
+Episode 632 
+	- score: 6.0
+	- duration: 92.86239981651306
+Model saved to disk
+Target model saved to disk
+
+Episode 633 DONE
+	- score: 12.0
+	- duration: 80.10334730148315
+Model saved to disk
+Target model saved to disk
+
+Episode 634 DONE
+	- score: 6.0
+	- duration: 1.3394126892089844
+Model saved to disk
+Target model saved to disk
+
+Episode 635 
+	- score: 10.0
+	- duration: 92.14354348182678
+Model saved to disk
+Target model saved to disk
+
+Episode 636 
+	- score: -4.0
+	- duration: 91.74575185775757
+Model saved to disk
+Target model saved to disk
+
+Episode 637 
+	- score: -1.0
+	- duration: 92.3975625038147
+Model saved to disk
+Target model saved to disk
+
+Episode 638 
+	- score: 9.0
+	- duration: 92.29140615463257
+Model saved to disk
+Target model saved to disk
+
+Episode 639 
+	- score: 3.0
+	- duration: 91.94318056106567
+Model saved to disk
+Target model saved to disk
+
+Episode 640 
+	- score: -10.0
+	- duration: 91.12405848503113
+Model saved to disk
+Target model saved to disk
+
+Episode 641 DONE
+	- score: 18.0
+	- duration: 71.2276349067688
+Model saved to disk
+Target model saved to disk
+
+Episode 642 
+	- score: 6.0
+	- duration: 91.95968699455261
+Model saved to disk
+Target model saved to disk
+
+Episode 643 DONE
+	- score: 23.0
+	- duration: 72.14882063865662
+Model saved to disk
+Target model saved to disk
+
+Episode 644 
+	- score: 10.0
+	- duration: 91.31676959991455
+Model saved to disk
+Target model saved to disk
+
+Episode 645 
+	- score: 4.0
+	- duration: 92.24233627319336
+Model saved to disk
+Target model saved to disk
+
+Episode 646 DONE
+	- score: 9.0
+	- duration: 4.144310235977173
+Model saved to disk
+Target model saved to disk
+
+Episode 647 DONE
+	- score: 8.0
+	- duration: 29.401000022888184
+Model saved to disk
+Target model saved to disk
+
+Episode 648 DONE
+	- score: 5.0
+	- duration: 87.68313956260681
+Model saved to disk
+Target model saved to disk
+
+Episode 649 DONE
+	- score: 10.0
+	- duration: 70.7010395526886
+Model saved to disk
+Target model saved to disk
+
+Episode 650 DONE
+	- score: 11.0
+	- duration: 61.492085456848145
+Model saved to disk
+Target model saved to disk
+
+Episode 651 
+	- score: 4.0
+	- duration: 91.86947917938232
+Model saved to disk
+Target model saved to disk
+
+Episode 652 
+	- score: 4.0
+	- duration: 92.69792318344116
+Model saved to disk
+Target model saved to disk
+
+Episode 653 
+	- score: -2.0
+	- duration: 91.30217933654785
+Model saved to disk
+Target model saved to disk
+
+Episode 654 DONE
+	- score: 7.0
+	- duration: 71.0122423171997
+Model saved to disk
+Target model saved to disk
+
+Episode 655 DONE
+	- score: 10.0
+	- duration: 40.267749071121216
+Model saved to disk
+Target model saved to disk
+
+Episode 656 
+	- score: 1.0
+	- duration: 91.67494010925293
+Model saved to disk
+Target model saved to disk
+
+Episode 657 
+	- score: 9.0
+	- duration: 92.73454141616821
+Model saved to disk
+Target model saved to disk
+
+Episode 658 DONE
+	- score: 6.0
+	- duration: 1.8580560684204102
+Model saved to disk
+Target model saved to disk
+
+Episode 659 DONE
+	- score: 8.0
+	- duration: 55.52210283279419
+Model saved to disk
+Target model saved to disk
+
+Episode 660 DONE
+	- score: 0.0
+	- duration: 0.1660022735595703
+Model saved to disk
+Target model saved to disk
+
+Episode 661 DONE
+	- score: 5.0
+	- duration: 2.1023685932159424
+Model saved to disk
+Target model saved to disk
+
+Episode 662 DONE
+	- score: 0.0
+	- duration: 0.16800427436828613
+Model saved to disk
+Target model saved to disk
+
+Episode 663 
+	- score: -3.0
+	- duration: 92.11501812934875
+Model saved to disk
+Target model saved to disk
+
+Episode 664 DONE
+	- score: 5.0
+	- duration: 3.1201202869415283
+Model saved to disk
+Target model saved to disk
+
+Episode 665 DONE
+	- score: 1.0
+	- duration: 88.33904314041138
+Model saved to disk
+Target model saved to disk
+
+Episode 666 DONE
+	- score: 4.0
+	- duration: 45.415956258773804
+Model saved to disk
+Target model saved to disk
+
+Episode 667 DONE
+	- score: 8.0
+	- duration: 1.7680792808532715
+Model saved to disk
+Target model saved to disk
+
+Episode 668 DONE
+	- score: 4.0
+	- duration: 66.20273613929749
+Model saved to disk
+Target model saved to disk
+
+Episode 669 DONE
+	- score: -2.0
+	- duration: 88.61037588119507
+Model saved to disk
+Target model saved to disk
+
+Episode 670 DONE
+	- score: 4.0
+	- duration: 31.21612811088562
+Model saved to disk
+Target model saved to disk
+
+Episode 671 
+	- score: 10.0
+	- duration: 93.13361263275146
+Model saved to disk
+Target model saved to disk
+
+Episode 672 
+	- score: 11.0
+	- duration: 92.08675622940063
+Model saved to disk
+Target model saved to disk
+
+Episode 673 
+	- score: 3.0
+	- duration: 92.55575156211853
+Model saved to disk
+Target model saved to disk
+
+Episode 674 DONE
+	- score: 0.0
+	- duration: 0.16100287437438965
+Model saved to disk
+Target model saved to disk
+
+Episode 675 DONE
+	- score: 5.0
+	- duration: 60.56884503364563
+Model saved to disk
+Target model saved to disk
+
+Episode 676 
+	- score: 0.0
+	- duration: 92.67868041992188
+Model saved to disk
+Target model saved to disk
+
+Episode 677 DONE
+	- score: 12.0
+	- duration: 54.898154735565186
+Model saved to disk
+Target model saved to disk
+
+Episode 678 
+	- score: -4.0
+	- duration: 92.51248288154602
+Model saved to disk
+Target model saved to disk
+
+Episode 679 DONE
+	- score: 13.0
+	- duration: 45.243807792663574
+Model saved to disk
+Target model saved to disk
+
+Episode 680 
+	- score: 7.0
+	- duration: 92.92744040489197
+Model saved to disk
+Target model saved to disk
+
+Episode 681 DONE
+	- score: 6.0
+	- duration: 54.89796280860901
+Model saved to disk
+Target model saved to disk
+
+Episode 682 
+	- score: -12.0
+	- duration: 92.11694097518921
+Model saved to disk
+Target model saved to disk
+
+Episode 683 
+	- score: -1.0
+	- duration: 92.81241750717163
+Model saved to disk
+Target model saved to disk
+
+Episode 684 
+	- score: 10.0
+	- duration: 92.30120754241943
+Model saved to disk
+Target model saved to disk
+
+Episode 685 
+	- score: -9.0
+	- duration: 92.2154655456543
+Model saved to disk
+Target model saved to disk
+
+Episode 686 DONE
+	- score: 8.0
+	- duration: 6.844300746917725
+Model saved to disk
+Target model saved to disk
+
+Episode 687 
+	- score: -16.0
+	- duration: 92.67774295806885
+Model saved to disk
+Target model saved to disk
+
+Episode 688 
+	- score: 3.0
+	- duration: 92.49043798446655
+Model saved to disk
+Target model saved to disk
+
+Episode 689 
+	- score: 2.0
+	- duration: 92.20630502700806
+Model saved to disk
+Target model saved to disk
+
+Episode 690 DONE
+	- score: 2.0
+	- duration: 51.97317624092102
+Model saved to disk
+Target model saved to disk
+
+Episode 691 
+	- score: 2.0
+	- duration: 93.47308158874512
+Model saved to disk
+Target model saved to disk
+
+Episode 692 
+	- score: 3.0
+	- duration: 93.1140239238739
+Model saved to disk
+Target model saved to disk
+
+Episode 693 DONE
+	- score: 6.0
+	- duration: 8.404601812362671
+Model saved to disk
+Target model saved to disk
+
+Episode 694 
+	- score: 5.0
+	- duration: 100.36631536483765
+Model saved to disk
+Target model saved to disk
+
+Episode 695 DONE
+	- score: 6.0
+	- duration: 86.93957781791687
+Model saved to disk
+Target model saved to disk
+
+Episode 696 DONE
+	- score: 17.0
+	- duration: 684.0236923694611
+Model saved to disk
+Target model saved to disk
+
+Episode 697 DONE
+	- score: 5.0
+	- duration: 69.81076121330261
+Model saved to disk
+Target model saved to disk
+
+Episode 698 DONE
+	- score: 4.0
+	- duration: 10.351945161819458
+Model saved to disk
+Target model saved to disk
+
+Episode 699 
+	- score: 3.0
+	- duration: 93.41304993629456
+Model saved to disk
+Target model saved to disk
+
+Episode 700 DONE
+	- score: 11.0
+	- duration: 29.387206077575684
+Model saved to disk
+Target model saved to disk
+
+Episode 701 
+	- score: 7.0
+	- duration: 93.1149787902832
+Model saved to disk
+Target model saved to disk
+
+Episode 702 
+	- score: 1.0
+	- duration: 93.63091993331909
+Model saved to disk
+Target model saved to disk
+forrtl: error (200): program aborting due to control-C event
+Image              PC                Routine            Line        Source             
+libifcoremd.dll    00007FFC34013B58  Unknown               Unknown  Unknown
+KERNELBASE.dll     00007FFCE5DFB9D3  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FFCE82A7034  Unknown               Unknown  Unknown
+ntdll.dll          00007FFCE8442651  Unknown               Unknown  Unknown
+
+Process finished with exit code 0

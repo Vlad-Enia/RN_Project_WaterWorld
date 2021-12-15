@@ -1,0 +1,3653 @@
+
+Episode 0 
+	- score: -26.000000000000064
+	- duration: 17.03450655937195
+	- epsilon: 1
+Episode 1 DONE
+	- score: 6.1000000000000005
+	- duration: 2.3590247631073
+	- epsilon: 0.998
+Episode 2 
+	- score: -9.899999999999984
+	- duration: 17.73155450820923
+	- epsilon: 0.996
+Episode 3 
+	- score: -15.899999999999963
+	- duration: 17.860524654388428
+	- epsilon: 0.994
+Episode 4 
+	- score: -17.099999999999973
+	- duration: 18.085031270980835
+	- epsilon: 0.992
+Episode 5 
+	- score: -16.499999999999964
+	- duration: 17.842952489852905
+	- epsilon: 0.99
+Episode 6 
+	- score: -16.199999999999964
+	- duration: 17.87776494026184
+	- epsilon: 0.988
+Episode 7 
+	- score: -24.100000000000044
+	- duration: 18.69623899459839
+	- epsilon: 0.986
+Episode 8 
+	- score: -27.900000000000112
+	- duration: 18.27829074859619
+	- epsilon: 0.984
+Episode 9 
+	- score: -7.499999999999982
+	- duration: 18.27742576599121
+	- epsilon: 0.982
+Episode 10 
+	- score: -27.80000000000009
+	- duration: 18.588048696517944
+	- epsilon: 0.98
+Episode 11 
+	- score: -16.29999999999997
+	- duration: 18.66752004623413
+	- epsilon: 0.978
+Episode 12 DONE
+	- score: -1.6999999999999922
+	- duration: 5.8596649169921875
+	- epsilon: 0.976
+Episode 13 DONE
+	- score: 0.0
+	- duration: 0.06681108474731445
+	- epsilon: 0.974
+Episode 14 
+	- score: -22.100000000000023
+	- duration: 19.34122610092163
+	- epsilon: 0.972
+Episode 15 
+	- score: -13.499999999999947
+	- duration: 18.40167546272278
+	- epsilon: 0.97
+Episode 16 
+	- score: -22.3
+	- duration: 19.560524463653564
+	- epsilon: 0.968
+Episode 17 DONE
+	- score: 5.8999999999999995
+	- duration: 3.6876654624938965
+	- epsilon: 0.966
+Episode 18 
+	- score: -13.899999999999956
+	- duration: 18.985294103622437
+	- epsilon: 0.964
+Episode 19 DONE
+	- score: 0.0
+	- duration: 0.06881260871887207
+	- epsilon: 0.962
+Episode 20 DONE
+	- score: 1.4000000000000004
+	- duration: 8.571784734725952
+	- epsilon: 0.96
+Episode 21 
+	- score: -14.499999999999966
+	- duration: 19.665229320526123
+	- epsilon: 0.958
+Episode 22 
+	- score: -24.20000000000002
+	- duration: 19.533618450164795
+	- epsilon: 0.956
+Episode 23 DONE
+	- score: 5.5
+	- duration: 1.875342607498169
+	- epsilon: 0.954
+Episode 24 
+	- score: -32.90000000000017
+	- duration: 19.543219327926636
+	- epsilon: 0.952
+Episode 25 
+	- score: -13.399999999999961
+	- duration: 19.61896061897278
+	- epsilon: 0.95
+Episode 26 
+	- score: -21.400000000000023
+	- duration: 19.469051599502563
+	- epsilon: 0.948
+Episode 27 
+	- score: -3.9999999999999813
+	- duration: 20.494683027267456
+	- epsilon: 0.946
+Episode 28 
+	- score: -8.199999999999989
+	- duration: 19.777596712112427
+	- epsilon: 0.944
+Episode 29 DONE
+	- score: -8.39999999999999
+	- duration: 15.432428359985352
+	- epsilon: 0.942
+Episode 30 DONE
+	- score: 4.199999999999999
+	- duration: 2.2867915630340576
+	- epsilon: 0.94
+Episode 31 
+	- score: -13.69999999999996
+	- duration: 21.038283109664917
+	- epsilon: 0.938
+Episode 32 
+	- score: -5.6999999999999895
+	- duration: 21.248554706573486
+	- epsilon: 0.9359999999999999
+Episode 33 
+	- score: -12.599999999999968
+	- duration: 20.45715594291687
+	- epsilon: 0.9339999999999999
+Episode 34 DONE
+	- score: 5.899999999999999
+	- duration: 4.99069356918335
+	- epsilon: 0.9319999999999999
+Episode 35 DONE
+	- score: -8.499999999999957
+	- duration: 21.901187658309937
+	- epsilon: 0.9299999999999999
+Episode 36 
+	- score: -16.499999999999957
+	- duration: 21.19733476638794
+	- epsilon: 0.9279999999999999
+Episode 37 
+	- score: -10.199999999999966
+	- duration: 21.327863693237305
+	- epsilon: 0.9259999999999999
+Episode 38 DONE
+	- score: -4.5999999999999766
+	- duration: 19.633771657943726
+	- epsilon: 0.9239999999999999
+Episode 39 
+	- score: -14.599999999999966
+	- duration: 19.884608030319214
+	- epsilon: 0.9219999999999999
+Episode 40 
+	- score: -7.8999999999999755
+	- duration: 20.903417110443115
+	- epsilon: 0.9199999999999999
+Episode 41 
+	- score: -22.000000000000036
+	- duration: 20.37330198287964
+	- epsilon: 0.9179999999999999
+Episode 42 DONE
+	- score: 1.5999999999999996
+	- duration: 3.477323293685913
+	- epsilon: 0.9159999999999999
+Episode 43 
+	- score: -16.799999999999965
+	- duration: 20.689831733703613
+	- epsilon: 0.9139999999999999
+Episode 44 DONE
+	- score: -1.7999999999999678
+	- duration: 20.204933404922485
+	- epsilon: 0.9119999999999999
+Episode 45 DONE
+	- score: -2.499999999999984
+	- duration: 17.6066312789917
+	- epsilon: 0.9099999999999999
+Episode 46 
+	- score: -19.700000000000063
+	- duration: 20.902873039245605
+	- epsilon: 0.9079999999999999
+Episode 47 
+	- score: -24.10000000000001
+	- duration: 21.301294565200806
+	- epsilon: 0.9059999999999999
+Episode 48 
+	- score: -19.799999999999986
+	- duration: 21.2238609790802
+	- epsilon: 0.9039999999999999
+Episode 49 DONE
+	- score: 0.0
+	- duration: 0.0657963752746582
+	- epsilon: 0.9019999999999999
+Episode 50 
+	- score: -1.8000000000000074
+	- duration: 21.490710735321045
+	- epsilon: 0.8999999999999999
+Episode 51 
+	- score: -14.499999999999973
+	- duration: 21.97380304336548
+	- epsilon: 0.8979999999999999
+Episode 52 
+	- score: -13.39999999999997
+	- duration: 21.461937189102173
+	- epsilon: 0.8959999999999999
+Episode 53 DONE
+	- score: -8.099999999999971
+	- duration: 11.057084321975708
+	- epsilon: 0.8939999999999999
+Episode 54 DONE
+	- score: 3.9999999999999996
+	- duration: 1.7444496154785156
+	- epsilon: 0.8919999999999999
+Episode 55 DONE
+	- score: -0.4999999999999911
+	- duration: 10.908867835998535
+	- epsilon: 0.8899999999999999
+Episode 56 
+	- score: -15.299999999999953
+	- duration: 22.59847855567932
+	- epsilon: 0.8879999999999999
+Episode 57 
+	- score: -22.20000000000003
+	- duration: 21.97829580307007
+	- epsilon: 0.8859999999999999
+Episode 58 DONE
+	- score: 3.8
+	- duration: 2.8244712352752686
+	- epsilon: 0.8839999999999999
+Episode 59 
+	- score: -9.29999999999997
+	- duration: 22.72744369506836
+	- epsilon: 0.8819999999999999
+Episode 60 
+	- score: -4.80000000000001
+	- duration: 22.973974466323853
+	- epsilon: 0.8799999999999999
+Episode 61 
+	- score: -15.099999999999964
+	- duration: 22.174805641174316
+	- epsilon: 0.8779999999999999
+Episode 62 DONE
+	- score: 2.5999999999999996
+	- duration: 8.46135663986206
+	- epsilon: 0.8759999999999999
+Episode 63 
+	- score: -18.699999999999992
+	- duration: 22.178953409194946
+	- epsilon: 0.8739999999999999
+Episode 64 
+	- score: -9.79999999999997
+	- duration: 22.955806970596313
+	- epsilon: 0.8719999999999999
+Episode 65 DONE
+	- score: -5.099999999999959
+	- duration: 20.28936767578125
+	- epsilon: 0.8699999999999999
+Episode 66 DONE
+	- score: 4.299999999999997
+	- duration: 5.432827472686768
+	- epsilon: 0.8679999999999999
+Episode 67 
+	- score: -12.999999999999966
+	- duration: 23.192807912826538
+	- epsilon: 0.8659999999999999
+Episode 68 DONE
+	- score: 4.299999999999999
+	- duration: 3.346740484237671
+	- epsilon: 0.8639999999999999
+Episode 69 DONE
+	- score: 8.799999999999999
+	- duration: 5.949199676513672
+	- epsilon: 0.8619999999999999
+Episode 70 
+	- score: -4.699999999999994
+	- duration: 23.21601366996765
+	- epsilon: 0.8599999999999999
+Episode 71 
+	- score: -11.499999999999947
+	- duration: 24.093291521072388
+	- epsilon: 0.8579999999999999
+Episode 72 DONE
+	- score: -1.699999999999994
+	- duration: 8.727694511413574
+	- epsilon: 0.8559999999999999
+Episode 73 
+	- score: -3.300000000000001
+	- duration: 23.663435459136963
+	- epsilon: 0.8539999999999999
+Episode 74 
+	- score: -9.199999999999966
+	- duration: 23.638960123062134
+	- epsilon: 0.8519999999999999
+Episode 75 
+	- score: -5.600000000000001
+	- duration: 24.181592226028442
+	- epsilon: 0.8499999999999999
+Episode 76 DONE
+	- score: 0.0
+	- duration: 0.06180596351623535
+	- epsilon: 0.8479999999999999
+Episode 77 DONE
+	- score: -0.4999999999999938
+	- duration: 9.988428592681885
+	- epsilon: 0.8459999999999999
+Episode 78 DONE
+	- score: -5.299999999999967
+	- duration: 22.41122817993164
+	- epsilon: 0.8439999999999999
+Episode 79 DONE
+	- score: 6.0
+	- duration: 1.9250667095184326
+	- epsilon: 0.8419999999999999
+Episode 80 
+	- score: -21.500000000000036
+	- duration: 24.16510558128357
+	- epsilon: 0.8399999999999999
+Episode 81 DONE
+	- score: 6.0
+	- duration: 0.853626012802124
+	- epsilon: 0.8379999999999999
+Episode 82 DONE
+	- score: -5.499999999999954
+	- duration: 23.13118314743042
+	- epsilon: 0.8359999999999999
+Episode 83 
+	- score: -11.49999999999998
+	- duration: 24.280683755874634
+	- epsilon: 0.8339999999999999
+Episode 84 
+	- score: -11.599999999999982
+	- duration: 24.32848858833313
+	- epsilon: 0.8319999999999999
+Episode 85 
+	- score: -8.19999999999998
+	- duration: 25.344056844711304
+	- epsilon: 0.8299999999999998
+Episode 86 
+	- score: -5.000000000000002
+	- duration: 24.081664323806763
+	- epsilon: 0.8279999999999998
+Episode 87 
+	- score: -11.499999999999977
+	- duration: 25.33947491645813
+	- epsilon: 0.8259999999999998
+Episode 88 DONE
+	- score: 3.8
+	- duration: 2.0260510444641113
+	- epsilon: 0.8239999999999998
+Episode 89 DONE
+	- score: 7.299999999999999
+	- duration: 3.3366763591766357
+	- epsilon: 0.8219999999999998
+Episode 90 DONE
+	- score: -6.199999999999983
+	- duration: 17.36378312110901
+	- epsilon: 0.8199999999999998
+Episode 91 DONE
+	- score: 6.0
+	- duration: 0.2936739921569824
+	- epsilon: 0.8179999999999998
+Episode 92 DONE
+	- score: -4.19999999999998
+	- duration: 23.236175537109375
+	- epsilon: 0.8159999999999998
+Episode 93 DONE
+	- score: -7.499999999999966
+	- duration: 20.315661191940308
+	- epsilon: 0.8139999999999998
+Episode 94 
+	- score: -15.90000000000002
+	- duration: 26.08993411064148
+	- epsilon: 0.8119999999999998
+Episode 95 DONE
+	- score: 3.6999999999999993
+	- duration: 8.637047290802002
+	- epsilon: 0.8099999999999998
+Episode 96 
+	- score: -3.799999999999981
+	- duration: 24.643757343292236
+	- epsilon: 0.8079999999999998
+Episode 97 DONE
+	- score: 9.399999999999999
+	- duration: 5.8394389152526855
+	- epsilon: 0.8059999999999998
+Episode 98 DONE
+	- score: -4.49999999999997
+	- duration: 13.443676471710205
+	- epsilon: 0.8039999999999998
+Episode 99 DONE
+	- score: 1.3322676295501878e-14
+	- duration: 15.957566738128662
+	- epsilon: 0.8019999999999998
+Episode 100 
+	- score: -7.399999999999988
+	- duration: 26.72952890396118
+	- epsilon: 0.7999999999999998
+Episode 101 DONE
+	- score: 1.9999999999999982
+	- duration: 3.226954221725464
+	- epsilon: 0.7979999999999998
+Episode 102 DONE
+	- score: 6.0
+	- duration: 1.0459556579589844
+	- epsilon: 0.7959999999999998
+Episode 103 DONE
+	- score: 5.4
+	- duration: 1.998236894607544
+	- epsilon: 0.7939999999999998
+Episode 104 DONE
+	- score: 7.999999999999998
+	- duration: 11.206239223480225
+	- epsilon: 0.7919999999999998
+Episode 105 DONE
+	- score: 7.0
+	- duration: 5.241394758224487
+	- epsilon: 0.7899999999999998
+Episode 106 
+	- score: -7.5
+	- duration: 26.909512519836426
+	- epsilon: 0.7879999999999998
+Episode 107 DONE
+	- score: 2.0000000000000053
+	- duration: 15.479889392852783
+	- epsilon: 0.7859999999999998
+Episode 108 DONE
+	- score: 9.299999999999997
+	- duration: 8.792639017105103
+	- epsilon: 0.7839999999999998
+Episode 109 DONE
+	- score: 9.6
+	- duration: 10.795925378799438
+	- epsilon: 0.7819999999999998
+Episode 110 DONE
+	- score: 7.699999999999996
+	- duration: 10.193249225616455
+	- epsilon: 0.7799999999999998
+Episode 111 DONE
+	- score: 2.7
+	- duration: 7.567631959915161
+	- epsilon: 0.7779999999999998
+Episode 112 DONE
+	- score: 5.6
+	- duration: 10.674520015716553
+	- epsilon: 0.7759999999999998
+Episode 113 
+	- score: 6.800000000000015
+	- duration: 27.164759874343872
+	- epsilon: 0.7739999999999998
+Episode 114 DONE
+	- score: 2.4000000000000083
+	- duration: 25.324376344680786
+	- epsilon: 0.7719999999999998
+Episode 115 DONE
+	- score: 4.199999999999998
+	- duration: 23.98202919960022
+	- epsilon: 0.7699999999999998
+Episode 116 DONE
+	- score: 2.8999999999999977
+	- duration: 7.331449031829834
+	- epsilon: 0.7679999999999998
+Episode 117 DONE
+	- score: -0.7999999999999936
+	- duration: 7.322444200515747
+	- epsilon: 0.7659999999999998
+Episode 118 
+	- score: -2.2000000000000046
+	- duration: 27.67551851272583
+	- epsilon: 0.7639999999999998
+Episode 119 DONE
+	- score: 6.1
+	- duration: 9.968055963516235
+	- epsilon: 0.7619999999999998
+Episode 120 DONE
+	- score: 6.999999999999998
+	- duration: 17.913965225219727
+	- epsilon: 0.7599999999999998
+Episode 121 DONE
+	- score: 7.199999999999998
+	- duration: 4.770735502243042
+	- epsilon: 0.7579999999999998
+Episode 122 DONE
+	- score: 11.000000000000023
+	- duration: 24.751586198806763
+	- epsilon: 0.7559999999999998
+Episode 123 DONE
+	- score: 10.000000000000004
+	- duration: 13.225181579589844
+	- epsilon: 0.7539999999999998
+Episode 124 DONE
+	- score: 7.5
+	- duration: 1.0453600883483887
+	- epsilon: 0.7519999999999998
+Episode 125 DONE
+	- score: -5.199999999999976
+	- duration: 21.96241068840027
+	- epsilon: 0.7499999999999998
+Episode 126 DONE
+	- score: 6.199999999999999
+	- duration: 2.96067214012146
+	- epsilon: 0.7479999999999998
+Episode 127 DONE
+	- score: 6.000000000000001
+	- duration: 1.9214305877685547
+	- epsilon: 0.7459999999999998
+Episode 128 DONE
+	- score: 10.10000000000001
+	- duration: 17.920470237731934
+	- epsilon: 0.7439999999999998
+Episode 129 DONE
+	- score: 6.799999999999997
+	- duration: 21.376556873321533
+	- epsilon: 0.7419999999999998
+Episode 130 DONE
+	- score: 5.199999999999998
+	- duration: 8.000357151031494
+	- epsilon: 0.7399999999999998
+Episode 131 DONE
+	- score: 0.9000000000000039
+	- duration: 3.9548239707946777
+	- epsilon: 0.7379999999999998
+Episode 132 DONE
+	- score: 3.3999999999999964
+	- duration: 17.823098182678223
+	- epsilon: 0.7359999999999998
+Episode 133 
+	- score: -7.1999999999999815
+	- duration: 28.89790630340576
+	- epsilon: 0.7339999999999998
+Episode 134 
+	- score: -1.5000000000000089
+	- duration: 28.04677987098694
+	- epsilon: 0.7319999999999998
+Episode 135 DONE
+	- score: 7.199999999999999
+	- duration: 3.9562926292419434
+	- epsilon: 0.7299999999999998
+Episode 136 
+	- score: -9.099999999999989
+	- duration: 29.30081033706665
+	- epsilon: 0.7279999999999998
+Episode 137 DONE
+	- score: 2.700000000000001
+	- duration: 6.858059406280518
+	- epsilon: 0.7259999999999998
+Episode 138 DONE
+	- score: 4.099999999999998
+	- duration: 10.938550233840942
+	- epsilon: 0.7239999999999998
+Episode 139 DONE
+	- score: 6.099999999999999
+	- duration: 12.53658127784729
+	- epsilon: 0.7219999999999998
+Episode 140 DONE
+	- score: 4.1
+	- duration: 8.382461786270142
+	- epsilon: 0.7199999999999998
+Episode 141 DONE
+	- score: 13.900000000000002
+	- duration: 6.491497755050659
+	- epsilon: 0.7179999999999997
+Episode 142 DONE
+	- score: 6.5
+	- duration: 3.471879243850708
+	- epsilon: 0.7159999999999997
+Episode 143 DONE
+	- score: 6.9
+	- duration: 0.9133787155151367
+	- epsilon: 0.7139999999999997
+Episode 144 DONE
+	- score: 12.6
+	- duration: 14.588626623153687
+	- epsilon: 0.7119999999999997
+Episode 145 
+	- score: -6.799999999999996
+	- duration: 29.594898462295532
+	- epsilon: 0.7099999999999997
+Episode 146 DONE
+	- score: 7.100000000000005
+	- duration: 14.43329644203186
+	- epsilon: 0.7079999999999997
+Episode 147 DONE
+	- score: 0.20000000000000462
+	- duration: 8.781231164932251
+	- epsilon: 0.7059999999999997
+Episode 148 DONE
+	- score: 7.0
+	- duration: 0.8084375858306885
+	- epsilon: 0.7039999999999997
+Episode 149 DONE
+	- score: 7.6
+	- duration: 9.308974027633667
+	- epsilon: 0.7019999999999997
+Episode 150 DONE
+	- score: 8.600000000000003
+	- duration: 13.065897226333618
+	- epsilon: 0.6999999999999997
+Episode 151 DONE
+	- score: 13.400000000000007
+	- duration: 15.631912231445312
+	- epsilon: 0.6979999999999997
+Episode 152 DONE
+	- score: 8.0
+	- duration: 3.946810245513916
+	- epsilon: 0.6959999999999997
+Episode 153 
+	- score: 1.9000000000000035
+	- duration: 29.80576777458191
+	- epsilon: 0.6939999999999997
+Episode 154 DONE
+	- score: 10.60000000000002
+	- duration: 8.487653493881226
+	- epsilon: 0.6919999999999997
+Episode 155 DONE
+	- score: 5.899999999999998
+	- duration: 8.934386253356934
+	- epsilon: 0.6899999999999997
+Episode 156 DONE
+	- score: 6.3999999999999995
+	- duration: 6.9415507316589355
+	- epsilon: 0.6879999999999997
+Episode 157 DONE
+	- score: 7.599999999999999
+	- duration: 5.461995363235474
+	- epsilon: 0.6859999999999997
+Episode 158 DONE
+	- score: 4.9
+	- duration: 2.7544453144073486
+	- epsilon: 0.6839999999999997
+Episode 159 DONE
+	- score: 8.900000000000002
+	- duration: 18.755308866500854
+	- epsilon: 0.6819999999999997
+Episode 160 DONE
+	- score: 5.999999999999999
+	- duration: 4.607264757156372
+	- epsilon: 0.6799999999999997
+Episode 161 
+	- score: -3.3
+	- duration: 30.35349702835083
+	- epsilon: 0.6779999999999997
+Episode 162 DONE
+	- score: 7.199999999999999
+	- duration: 6.388967752456665
+	- epsilon: 0.6759999999999997
+Episode 163 DONE
+	- score: 3.4999999999999987
+	- duration: 5.676720857620239
+	- epsilon: 0.6739999999999997
+Episode 164 DONE
+	- score: 1.6999999999999984
+	- duration: 11.6771719455719
+	- epsilon: 0.6719999999999997
+Episode 165 DONE
+	- score: 7.300000000000024
+	- duration: 29.06175684928894
+	- epsilon: 0.6699999999999997
+Episode 166 DONE
+	- score: 3.9999999999999996
+	- duration: 1.914581537246704
+	- epsilon: 0.6679999999999997
+Episode 167 DONE
+	- score: 3.399999999999998
+	- duration: 14.863166332244873
+	- epsilon: 0.6659999999999997
+Episode 168 DONE
+	- score: 6.4
+	- duration: 7.0829973220825195
+	- epsilon: 0.6639999999999997
+Episode 169 DONE
+	- score: 3.799999999999997
+	- duration: 10.327195882797241
+	- epsilon: 0.6619999999999997
+Episode 170 DONE
+	- score: 7.499999999999998
+	- duration: 9.659136772155762
+	- epsilon: 0.6599999999999997
+Episode 171 DONE
+	- score: 1.8000000000000025
+	- duration: 28.678266048431396
+	- epsilon: 0.6579999999999997
+Episode 172 DONE
+	- score: 5.900000000000001
+	- duration: 8.707947254180908
+	- epsilon: 0.6559999999999997
+Episode 173 DONE
+	- score: 1.400000000000003
+	- duration: 9.26827073097229
+	- epsilon: 0.6539999999999997
+Episode 174 DONE
+	- score: 6.499999999999999
+	- duration: 3.1909475326538086
+	- epsilon: 0.6519999999999997
+Episode 175 DONE
+	- score: 6.599999999999999
+	- duration: 24.30257534980774
+	- epsilon: 0.6499999999999997
+Episode 176 DONE
+	- score: 5.299999999999998
+	- duration: 26.650038719177246
+	- epsilon: 0.6479999999999997
+Episode 177 DONE
+	- score: 10.100000000000001
+	- duration: 6.832789182662964
+	- epsilon: 0.6459999999999997
+Episode 178 DONE
+	- score: 5.399999999999999
+	- duration: 25.04229974746704
+	- epsilon: 0.6439999999999997
+Episode 179 DONE
+	- score: 7.0
+	- duration: 0.9307141304016113
+	- epsilon: 0.6419999999999997
+Episode 180 DONE
+	- score: 6.0
+	- duration: 0.6737232208251953
+	- epsilon: 0.6399999999999997
+Episode 181 DONE
+	- score: 2.8999999999999964
+	- duration: 16.45796847343445
+	- epsilon: 0.6379999999999997
+Episode 182 DONE
+	- score: 11.5
+	- duration: 3.7997138500213623
+	- epsilon: 0.6359999999999997
+Episode 183 DONE
+	- score: 7.599999999999998
+	- duration: 4.056164741516113
+	- epsilon: 0.6339999999999997
+Episode 184 
+	- score: -2.500000000000004
+	- duration: 34.112279653549194
+	- epsilon: 0.6319999999999997
+Episode 185 DONE
+	- score: 7.6999999999999975
+	- duration: 10.894685983657837
+	- epsilon: 0.6299999999999997
+Episode 186 DONE
+	- score: 6.899999999999999
+	- duration: 16.74877166748047
+	- epsilon: 0.6279999999999997
+Episode 187 DONE
+	- score: 12.000000000000016
+	- duration: 18.312406063079834
+	- epsilon: 0.6259999999999997
+Episode 188 DONE
+	- score: 8.0
+	- duration: 0.33776378631591797
+	- epsilon: 0.6239999999999997
+Episode 189 DONE
+	- score: 3.599999999999999
+	- duration: 6.40453577041626
+	- epsilon: 0.6219999999999997
+Episode 190 DONE
+	- score: 6.100000000000001
+	- duration: 25.873222827911377
+	- epsilon: 0.6199999999999997
+Episode 191 DONE
+	- score: 1.1000000000000005
+	- duration: 8.790921926498413
+	- epsilon: 0.6179999999999997
+Episode 192 DONE
+	- score: 5.0
+	- duration: 2.5896761417388916
+	- epsilon: 0.6159999999999997
+Episode 193 DONE
+	- score: 11.300000000000013
+	- duration: 27.210288047790527
+	- epsilon: 0.6139999999999997
+Episode 194 DONE
+	- score: 8.799999999999999
+	- duration: 12.23909854888916
+	- epsilon: 0.6119999999999997
+Episode 195 DONE
+	- score: 12.500000000000016
+	- duration: 17.891127347946167
+	- epsilon: 0.6099999999999997
+Episode 196 DONE
+	- score: 7.1
+	- duration: 4.3347156047821045
+	- epsilon: 0.6079999999999997
+Episode 197 DONE
+	- score: 9.800000000000004
+	- duration: 19.617366790771484
+	- epsilon: 0.6059999999999997
+Episode 198 DONE
+	- score: 5.3999999999999995
+	- duration: 9.21396517753601
+	- epsilon: 0.6039999999999996
+Episode 199 DONE
+	- score: 3.700000000000001
+	- duration: 11.596435785293579
+	- epsilon: 0.6019999999999996
+Episode 200 DONE
+	- score: 7.699999999999999
+	- duration: 3.1158809661865234
+	- epsilon: 0.5999999999999996
+Episode 201 DONE
+	- score: 4.099999999999999
+	- duration: 12.03209900856018
+	- epsilon: 0.5979999999999996
+Episode 202 DONE
+	- score: 7.399999999999998
+	- duration: 17.702951431274414
+	- epsilon: 0.5959999999999996
+Episode 203 DONE
+	- score: 8.7
+	- duration: 4.242817640304565
+	- epsilon: 0.5939999999999996
+Episode 204 DONE
+	- score: 6.1999999999999975
+	- duration: 13.322460889816284
+	- epsilon: 0.5919999999999996
+Episode 205 DONE
+	- score: 5.3
+	- duration: 6.060909271240234
+	- epsilon: 0.5899999999999996
+Episode 206 DONE
+	- score: 6.0
+	- duration: 1.1842186450958252
+	- epsilon: 0.5879999999999996
+Episode 207 DONE
+	- score: 4.7
+	- duration: 10.409774780273438
+	- epsilon: 0.5859999999999996
+Episode 208 DONE
+	- score: 4.599999999999996
+	- duration: 19.195832014083862
+	- epsilon: 0.5839999999999996
+Episode 209 DONE
+	- score: 5.0
+	- duration: 8.149312973022461
+	- epsilon: 0.5819999999999996
+Episode 210 DONE
+	- score: -1.9999999999999867
+	- duration: 15.46124815940857
+	- epsilon: 0.5799999999999996
+Episode 211 DONE
+	- score: 5.6
+	- duration: 2.5419535636901855
+	- epsilon: 0.5779999999999996
+Episode 212 DONE
+	- score: 5.5
+	- duration: 3.5013818740844727
+	- epsilon: 0.5759999999999996
+Episode 213 DONE
+	- score: 5.4
+	- duration: 6.365122318267822
+	- epsilon: 0.5739999999999996
+Episode 214 DONE
+	- score: 9.7
+	- duration: 3.4917290210723877
+	- epsilon: 0.5719999999999996
+Episode 215 DONE
+	- score: -2.9999999999999876
+	- duration: 24.10371160507202
+	- epsilon: 0.5699999999999996
+Episode 216 DONE
+	- score: 11.200000000000003
+	- duration: 6.3740692138671875
+	- epsilon: 0.5679999999999996
+Episode 217 DONE
+	- score: 7.499999999999999
+	- duration: 6.116291046142578
+	- epsilon: 0.5659999999999996
+Episode 218 DONE
+	- score: 2.9999999999999956
+	- duration: 27.29401659965515
+	- epsilon: 0.5639999999999996
+Episode 219 DONE
+	- score: 6.3999999999999995
+	- duration: 3.8771822452545166
+	- epsilon: 0.5619999999999996
+Episode 220 DONE
+	- score: 7.899999999999999
+	- duration: 6.6792311668396
+	- epsilon: 0.5599999999999996
+Episode 221 
+	- score: -0.600000000000001
+	- duration: 37.70958113670349
+	- epsilon: 0.5579999999999996
+Episode 222 DONE
+	- score: 5.3
+	- duration: 9.37850570678711
+	- epsilon: 0.5559999999999996
+Episode 223 DONE
+	- score: 16.200000000000003
+	- duration: 9.687636137008667
+	- epsilon: 0.5539999999999996
+Episode 224 DONE
+	- score: 0.7999999999999998
+	- duration: 15.054551839828491
+	- epsilon: 0.5519999999999996
+Episode 225 DONE
+	- score: 6.999999999999999
+	- duration: 14.361639499664307
+	- epsilon: 0.5499999999999996
+Episode 226 DONE
+	- score: 8.70000000000002
+	- duration: 27.71744203567505
+	- epsilon: 0.5479999999999996
+Episode 227 
+	- score: -18.100000000000023
+	- duration: 36.169583559036255
+	- epsilon: 0.5459999999999996
+Episode 228 DONE
+	- score: 5.399999999999995
+	- duration: 32.407310247421265
+	- epsilon: 0.5439999999999996
+Episode 229 DONE
+	- score: 6.8
+	- duration: 3.769667625427246
+	- epsilon: 0.5419999999999996
+Episode 230 DONE
+	- score: 5.4
+	- duration: 2.501544713973999
+	- epsilon: 0.5399999999999996
+Episode 231 DONE
+	- score: -0.2999999999999998
+	- duration: 10.036965370178223
+	- epsilon: 0.5379999999999996
+Episode 232 DONE
+	- score: 7.899999999999999
+	- duration: 7.610261678695679
+	- epsilon: 0.5359999999999996
+Episode 233 DONE
+	- score: 3.899999999999996
+	- duration: 14.789440631866455
+	- epsilon: 0.5339999999999996
+Episode 234 DONE
+	- score: 5.4
+	- duration: 3.139010429382324
+	- epsilon: 0.5319999999999996
+Episode 235 DONE
+	- score: 4.199999999999999
+	- duration: 12.827718019485474
+	- epsilon: 0.5299999999999996
+Episode 236 DONE
+	- score: 7.0
+	- duration: 1.6085548400878906
+	- epsilon: 0.5279999999999996
+Episode 237 DONE
+	- score: 0.600000000000013
+	- duration: 15.62910795211792
+	- epsilon: 0.5259999999999996
+Episode 238 DONE
+	- score: 9.9
+	- duration: 3.719963550567627
+	- epsilon: 0.5239999999999996
+Episode 239 DONE
+	- score: -0.9999999999999929
+	- duration: 8.781057357788086
+	- epsilon: 0.5219999999999996
+Episode 240 DONE
+	- score: 2.9999999999999973
+	- duration: 11.30654788017273
+	- epsilon: 0.5199999999999996
+Episode 241 DONE
+	- score: 6.0
+	- duration: 0.6069188117980957
+	- epsilon: 0.5179999999999996
+Episode 242 DONE
+	- score: 6.0
+	- duration: 2.2520594596862793
+	- epsilon: 0.5159999999999996
+Episode 243 DONE
+	- score: 2.999999999999995
+	- duration: 14.499621868133545
+	- epsilon: 0.5139999999999996
+Episode 244 DONE
+	- score: 7.699999999999999
+	- duration: 7.7236223220825195
+	- epsilon: 0.5119999999999996
+Episode 245 DONE
+	- score: 9.2
+	- duration: 18.6724796295166
+	- epsilon: 0.5099999999999996
+Episode 246 DONE
+	- score: 0.0
+	- duration: 0.06778740882873535
+	- epsilon: 0.5079999999999996
+Episode 247 DONE
+	- score: 8.399999999999999
+	- duration: 15.11958360671997
+	- epsilon: 0.5059999999999996
+Episode 248 DONE
+	- score: 7.0
+	- duration: 0.8935203552246094
+	- epsilon: 0.5039999999999996
+Episode 249 DONE
+	- score: 4.800000000000001
+	- duration: 4.0334577560424805
+	- epsilon: 0.5019999999999996
+Episode 250 DONE
+	- score: 10.000000000000004
+	- duration: 15.786346912384033
+	- epsilon: 0.49999999999999956
+Episode 251 DONE
+	- score: 6.0
+	- duration: 0.6544539928436279
+	- epsilon: 0.49799999999999955
+Episode 252 DONE
+	- score: 14.000000000000004
+	- duration: 9.057756423950195
+	- epsilon: 0.49599999999999955
+Episode 253 DONE
+	- score: 8.0
+	- duration: 3.215550661087036
+	- epsilon: 0.49399999999999955
+Episode 254 DONE
+	- score: 11.8
+	- duration: 5.683767557144165
+	- epsilon: 0.49199999999999955
+Episode 255 DONE
+	- score: 5.5
+	- duration: 6.238438367843628
+	- epsilon: 0.48999999999999955
+Episode 256 DONE
+	- score: 10.700000000000012
+	- duration: 23.04948401451111
+	- epsilon: 0.48799999999999955
+Episode 257 DONE
+	- score: 7.9
+	- duration: 2.5871152877807617
+	- epsilon: 0.48599999999999954
+Episode 258 DONE
+	- score: 6.4
+	- duration: 4.181033372879028
+	- epsilon: 0.48399999999999954
+Episode 259 DONE
+	- score: 6.3
+	- duration: 7.132302522659302
+	- epsilon: 0.48199999999999954
+Episode 260 DONE
+	- score: 6.9
+	- duration: 2.618915319442749
+	- epsilon: 0.47999999999999954
+Episode 261 DONE
+	- score: 0.0
+	- duration: 0.06978058815002441
+	- epsilon: 0.47799999999999954
+Episode 262 DONE
+	- score: 12.000000000000007
+	- duration: 15.123010635375977
+	- epsilon: 0.47599999999999953
+Episode 263 DONE
+	- score: 10.4
+	- duration: 4.049278497695923
+	- epsilon: 0.47399999999999953
+Episode 264 DONE
+	- score: 6.4
+	- duration: 9.408786535263062
+	- epsilon: 0.47199999999999953
+Episode 265 DONE
+	- score: 5.6
+	- duration: 3.8629398345947266
+	- epsilon: 0.46999999999999953
+Episode 266 DONE
+	- score: 7.0
+	- duration: 0.8266916275024414
+	- epsilon: 0.4679999999999995
+Episode 267 DONE
+	- score: 7.9
+	- duration: 5.271359443664551
+	- epsilon: 0.4659999999999995
+Episode 268 DONE
+	- score: 8.7
+	- duration: 5.621044874191284
+	- epsilon: 0.4639999999999995
+Episode 269 DONE
+	- score: 9.0
+	- duration: 2.9075264930725098
+	- epsilon: 0.4619999999999995
+Episode 270 DONE
+	- score: 7.0
+	- duration: 1.453679084777832
+	- epsilon: 0.4599999999999995
+Episode 271 DONE
+	- score: 10.199999999999998
+	- duration: 28.538925647735596
+	- epsilon: 0.4579999999999995
+Episode 272 DONE
+	- score: 10.3
+	- duration: 14.709140062332153
+	- epsilon: 0.4559999999999995
+Episode 273 DONE
+	- score: 7.7
+	- duration: 4.8047473430633545
+	- epsilon: 0.4539999999999995
+Episode 274 DONE
+	- score: 10.100000000000001
+	- duration: 10.946974754333496
+	- epsilon: 0.4519999999999995
+Episode 275 DONE
+	- score: 10.2
+	- duration: 11.74343752861023
+	- epsilon: 0.4499999999999995
+Episode 276 DONE
+	- score: 10.4
+	- duration: 4.486759185791016
+	- epsilon: 0.4479999999999995
+Episode 277 DONE
+	- score: 9.299999999999999
+	- duration: 5.104509115219116
+	- epsilon: 0.4459999999999995
+Episode 278 DONE
+	- score: 3.0999999999999974
+	- duration: 9.15033745765686
+	- epsilon: 0.4439999999999995
+Episode 279 DONE
+	- score: 11.500000000000002
+	- duration: 10.25156307220459
+	- epsilon: 0.4419999999999995
+Episode 280 DONE
+	- score: 12.700000000000001
+	- duration: 17.539589643478394
+	- epsilon: 0.4399999999999995
+Episode 281 DONE
+	- score: 7.9
+	- duration: 1.341210126876831
+	- epsilon: 0.4379999999999995
+Episode 282 DONE
+	- score: 5.0
+	- duration: 0.5422680377960205
+	- epsilon: 0.4359999999999995
+Episode 283 DONE
+	- score: 3.6999999999999975
+	- duration: 20.629790544509888
+	- epsilon: 0.4339999999999995
+Episode 284 DONE
+	- score: 6.0
+	- duration: 3.2934443950653076
+	- epsilon: 0.4319999999999995
+Episode 285 DONE
+	- score: 6.0
+	- duration: 0.1326136589050293
+	- epsilon: 0.4299999999999995
+Episode 286 DONE
+	- score: 4.9
+	- duration: 5.9699766635894775
+	- epsilon: 0.4279999999999995
+Episode 287 DONE
+	- score: 5.9
+	- duration: 1.6464860439300537
+	- epsilon: 0.4259999999999995
+Episode 288 DONE
+	- score: 12.099999999999998
+	- duration: 23.45367932319641
+	- epsilon: 0.4239999999999995
+Episode 289 DONE
+	- score: 8.400000000000002
+	- duration: 13.437898874282837
+	- epsilon: 0.4219999999999995
+Episode 290 DONE
+	- score: 7.399999999999999
+	- duration: 5.577645540237427
+	- epsilon: 0.4199999999999995
+Episode 291 DONE
+	- score: 1.1999999999999975
+	- duration: 21.09309434890747
+	- epsilon: 0.4179999999999995
+Episode 292 DONE
+	- score: 0.8000000000000016
+	- duration: 26.712546586990356
+	- epsilon: 0.4159999999999995
+Episode 293 DONE
+	- score: 6.899999999999998
+	- duration: 11.309708595275879
+	- epsilon: 0.4139999999999995
+Episode 294 DONE
+	- score: 6.2
+	- duration: 2.7238500118255615
+	- epsilon: 0.4119999999999995
+Episode 295 DONE
+	- score: 5.1000000000000005
+	- duration: 4.0617780685424805
+	- epsilon: 0.4099999999999995
+Episode 296 DONE
+	- score: -4.199999999999992
+	- duration: 21.13723659515381
+	- epsilon: 0.4079999999999995
+Episode 297 DONE
+	- score: 8.0
+	- duration: 0.9951610565185547
+	- epsilon: 0.4059999999999995
+Episode 298 DONE
+	- score: 7.0
+	- duration: 2.215022325515747
+	- epsilon: 0.40399999999999947
+Episode 299 DONE
+	- score: 6.999999999999999
+	- duration: 5.5044450759887695
+	- epsilon: 0.40199999999999947
+Episode 300 DONE
+	- score: 9.6
+	- duration: 4.182934522628784
+	- epsilon: 0.39999999999999947
+Episode 301 DONE
+	- score: 5.6
+	- duration: 7.7266526222229
+	- epsilon: 0.39799999999999947
+Episode 302 DONE
+	- score: 9.5
+	- duration: 4.787407636642456
+	- epsilon: 0.39599999999999946
+Episode 303 DONE
+	- score: 6.7
+	- duration: 4.489792108535767
+	- epsilon: 0.39399999999999946
+Episode 304 DONE
+	- score: 6.6999999999999975
+	- duration: 11.026073455810547
+	- epsilon: 0.39199999999999946
+Episode 305 DONE
+	- score: 0.0
+	- duration: 0.06299352645874023
+	- epsilon: 0.38999999999999946
+Episode 306 DONE
+	- score: 6.6
+	- duration: 3.8550448417663574
+	- epsilon: 0.38799999999999946
+Episode 307 DONE
+	- score: 8.399999999999999
+	- duration: 16.25075125694275
+	- epsilon: 0.38599999999999945
+Episode 308 DONE
+	- score: 6.2
+	- duration: 2.7652063369750977
+	- epsilon: 0.38399999999999945
+Episode 309 DONE
+	- score: 5.4
+	- duration: 2.712371587753296
+	- epsilon: 0.38199999999999945
+Episode 310 DONE
+	- score: 9.5
+	- duration: 11.095735788345337
+	- epsilon: 0.37999999999999945
+Episode 311 DONE
+	- score: 7.1
+	- duration: 9.057775020599365
+	- epsilon: 0.37799999999999945
+Episode 312 DONE
+	- score: 7.3999999999999995
+	- duration: 4.193203449249268
+	- epsilon: 0.37599999999999945
+Episode 313 DONE
+	- score: 6.9
+	- duration: 1.874969720840454
+	- epsilon: 0.37399999999999944
+Episode 314 DONE
+	- score: 8.9
+	- duration: 12.270775079727173
+	- epsilon: 0.37199999999999944
+Episode 315 DONE
+	- score: 11.900000000000004
+	- duration: 5.722851753234863
+	- epsilon: 0.36999999999999944
+Episode 316 DONE
+	- score: 6.0
+	- duration: 0.676466703414917
+	- epsilon: 0.36799999999999944
+Episode 317 DONE
+	- score: 8.6
+	- duration: 9.867136240005493
+	- epsilon: 0.36599999999999944
+Episode 318 DONE
+	- score: 9.0
+	- duration: 1.5253818035125732
+	- epsilon: 0.36399999999999944
+Episode 319 DONE
+	- score: 7.899999999999999
+	- duration: 15.004795789718628
+	- epsilon: 0.36199999999999943
+Episode 320 DONE
+	- score: 7.3999999999999995
+	- duration: 5.425024032592773
+	- epsilon: 0.35999999999999943
+Episode 321 DONE
+	- score: 6.2
+	- duration: 1.4777824878692627
+	- epsilon: 0.35799999999999943
+Episode 322 DONE
+	- score: 7.0
+	- duration: 1.184938669204712
+	- epsilon: 0.35599999999999943
+Episode 323 DONE
+	- score: 13.900000000000002
+	- duration: 18.292850255966187
+	- epsilon: 0.3539999999999994
+Episode 324 DONE
+	- score: 9.2
+	- duration: 13.595605373382568
+	- epsilon: 0.3519999999999994
+Episode 325 DONE
+	- score: 6.8
+	- duration: 5.122665643692017
+	- epsilon: 0.3499999999999994
+Episode 326 DONE
+	- score: 6.8999999999999995
+	- duration: 14.636969089508057
+	- epsilon: 0.3479999999999994
+Episode 327 DONE
+	- score: 16.600000000000016
+	- duration: 34.208463191986084
+	- epsilon: 0.3459999999999994
+Episode 328 DONE
+	- score: 12.0
+	- duration: 8.442995071411133
+	- epsilon: 0.3439999999999994
+Episode 329 DONE
+	- score: 0.7000000000000011
+	- duration: 15.571931600570679
+	- epsilon: 0.3419999999999994
+Episode 330 DONE
+	- score: 8.099999999999998
+	- duration: 10.71577262878418
+	- epsilon: 0.3399999999999994
+Episode 331 DONE
+	- score: 7.700000000000007
+	- duration: 11.384815216064453
+	- epsilon: 0.3379999999999994
+Episode 332 DONE
+	- score: 0.0
+	- duration: 0.11216521263122559
+	- epsilon: 0.3359999999999994
+Episode 333 DONE
+	- score: 15.1
+	- duration: 14.05521273612976
+	- epsilon: 0.3339999999999994
+Episode 334 DONE
+	- score: 7.799999999999999
+	- duration: 13.77315354347229
+	- epsilon: 0.3319999999999994
+Episode 335 DONE
+	- score: 11.200000000000003
+	- duration: 13.85378122329712
+	- epsilon: 0.3299999999999994
+Episode 336 DONE
+	- score: 10.4
+	- duration: 11.802686214447021
+	- epsilon: 0.3279999999999994
+Episode 337 DONE
+	- score: 7.5
+	- duration: 6.483795404434204
+	- epsilon: 0.3259999999999994
+Episode 338 DONE
+	- score: 18.300000000000008
+	- duration: 21.9596426486969
+	- epsilon: 0.3239999999999994
+Episode 339 DONE
+	- score: 7.6
+	- duration: 5.106035947799683
+	- epsilon: 0.3219999999999994
+Episode 340 DONE
+	- score: 8.4
+	- duration: 7.452916860580444
+	- epsilon: 0.3199999999999994
+Episode 341 DONE
+	- score: 11.5
+	- duration: 4.829203367233276
+	- epsilon: 0.3179999999999994
+Episode 342 DONE
+	- score: 15.900000000000004
+	- duration: 11.444213628768921
+	- epsilon: 0.3159999999999994
+Episode 343 DONE
+	- score: 11.3
+	- duration: 7.770439624786377
+	- epsilon: 0.3139999999999994
+Episode 344 DONE
+	- score: 7.9
+	- duration: 1.3887097835540771
+	- epsilon: 0.3119999999999994
+Episode 345 DONE
+	- score: 6.8
+	- duration: 5.872715473175049
+	- epsilon: 0.3099999999999994
+Episode 346 DONE
+	- score: 10.9
+	- duration: 4.15694260597229
+	- epsilon: 0.3079999999999994
+Episode 347 DONE
+	- score: 8.9
+	- duration: 3.3403756618499756
+	- epsilon: 0.3059999999999994
+Episode 348 DONE
+	- score: 6.6
+	- duration: 3.874681234359741
+	- epsilon: 0.3039999999999994
+Episode 349 DONE
+	- score: 7.4
+	- duration: 5.9422852993011475
+	- epsilon: 0.3019999999999994
+Episode 350 DONE
+	- score: 6.199999999999998
+	- duration: 15.800324201583862
+	- epsilon: 0.2999999999999994
+Episode 351 DONE
+	- score: 11.100000000000001
+	- duration: 11.687885522842407
+	- epsilon: 0.2979999999999994
+Episode 352 DONE
+	- score: 0.7000000000000028
+	- duration: 8.098271131515503
+	- epsilon: 0.2959999999999994
+Episode 353 DONE
+	- score: 16.900000000000006
+	- duration: 23.4516704082489
+	- epsilon: 0.2939999999999994
+Episode 354 DONE
+	- score: 11.8
+	- duration: 3.5523200035095215
+	- epsilon: 0.29199999999999937
+Episode 355 DONE
+	- score: 7.299999999999999
+	- duration: 9.217049360275269
+	- epsilon: 0.28999999999999937
+Episode 356 DONE
+	- score: 11.0
+	- duration: 16.397944927215576
+	- epsilon: 0.28799999999999937
+Episode 357 DONE
+	- score: 0.0
+	- duration: 0.06582307815551758
+	- epsilon: 0.28599999999999937
+Episode 358 DONE
+	- score: 7.699999999999999
+	- duration: 4.878694534301758
+	- epsilon: 0.28399999999999936
+Episode 359 DONE
+	- score: 10.200000000000001
+	- duration: 4.14727258682251
+	- epsilon: 0.28199999999999936
+Episode 360 DONE
+	- score: 6.6
+	- duration: 2.8986027240753174
+	- epsilon: 0.27999999999999936
+Episode 361 DONE
+	- score: 1.799999999999998
+	- duration: 8.083173513412476
+	- epsilon: 0.27799999999999936
+Episode 362 DONE
+	- score: 9.2
+	- duration: 9.028343677520752
+	- epsilon: 0.27599999999999936
+Episode 363 DONE
+	- score: 6.2
+	- duration: 8.390984058380127
+	- epsilon: 0.27399999999999936
+Episode 364 DONE
+	- score: 9.699999999999998
+	- duration: 9.057474851608276
+	- epsilon: 0.27199999999999935
+Episode 365 DONE
+	- score: 7.8
+	- duration: 1.0918333530426025
+	- epsilon: 0.26999999999999935
+Episode 366 DONE
+	- score: 11.800000000000004
+	- duration: 11.133985996246338
+	- epsilon: 0.26799999999999935
+Episode 367 DONE
+	- score: 6.0
+	- duration: 8.450424671173096
+	- epsilon: 0.26599999999999935
+Episode 368 DONE
+	- score: 7.0
+	- duration: 1.6470825672149658
+	- epsilon: 0.26399999999999935
+Episode 369 DONE
+	- score: 9.4
+	- duration: 10.27573013305664
+	- epsilon: 0.26199999999999934
+Episode 370 DONE
+	- score: 11.500000000000002
+	- duration: 11.219973802566528
+	- epsilon: 0.25999999999999934
+Episode 371 DONE
+	- score: 8.599999999999998
+	- duration: 8.820428133010864
+	- epsilon: 0.25799999999999934
+Episode 372 DONE
+	- score: 5.7
+	- duration: 3.6284661293029785
+	- epsilon: 0.25599999999999934
+Episode 373 DONE
+	- score: 15.3
+	- duration: 13.937618970870972
+	- epsilon: 0.25399999999999934
+Episode 374 DONE
+	- score: 6.2
+	- duration: 2.3117165565490723
+	- epsilon: 0.25199999999999934
+Episode 375 DONE
+	- score: 8.299999999999999
+	- duration: 5.6892266273498535
+	- epsilon: 0.24999999999999933
+Episode 376 DONE
+	- score: 3.299999999999999
+	- duration: 6.332265853881836
+	- epsilon: 0.24799999999999933
+Episode 377 DONE
+	- score: 9.6
+	- duration: 7.107126951217651
+	- epsilon: 0.24599999999999933
+Episode 378 DONE
+	- score: 13.600000000000003
+	- duration: 10.636037111282349
+	- epsilon: 0.24399999999999933
+Episode 379 DONE
+	- score: 12.200000000000003
+	- duration: 10.577500581741333
+	- epsilon: 0.24199999999999933
+Episode 380 DONE
+	- score: 12.600000000000001
+	- duration: 7.410762310028076
+	- epsilon: 0.23999999999999932
+Episode 381 DONE
+	- score: 6.0
+	- duration: 0.22502493858337402
+	- epsilon: 0.23799999999999932
+Episode 382 DONE
+	- score: 11.500000000000002
+	- duration: 13.298967361450195
+	- epsilon: 0.23599999999999932
+Episode 383 DONE
+	- score: 7.299999999999998
+	- duration: 17.878469705581665
+	- epsilon: 0.23399999999999932
+Episode 384 DONE
+	- score: 9.0
+	- duration: 3.160536527633667
+	- epsilon: 0.23199999999999932
+Episode 385 DONE
+	- score: 10.9
+	- duration: 4.593551397323608
+	- epsilon: 0.22999999999999932
+Episode 386 DONE
+	- score: 7.8
+	- duration: 2.037886619567871
+	- epsilon: 0.22799999999999931
+Episode 387 DONE
+	- score: 8.700000000000001
+	- duration: 13.809922218322754
+	- epsilon: 0.2259999999999993
+Episode 388 DONE
+	- score: 8.9
+	- duration: 3.444875478744507
+	- epsilon: 0.2239999999999993
+Episode 389 DONE
+	- score: 7.0
+	- duration: 1.5954523086547852
+	- epsilon: 0.2219999999999993
+Episode 390 
+	- score: -33.900000000000155
+	- duration: 52.89407825469971
+	- epsilon: 0.2199999999999993
+Episode 391 DONE
+	- score: 10.399999999999997
+	- duration: 8.856602430343628
+	- epsilon: 0.2179999999999993
+Episode 392 DONE
+	- score: 7.699999999999999
+	- duration: 3.183354139328003
+	- epsilon: 0.2159999999999993
+Episode 393 DONE
+	- score: 8.0
+	- duration: 2.0773181915283203
+	- epsilon: 0.2139999999999993
+Episode 394 DONE
+	- score: 4.6
+	- duration: 10.059285879135132
+	- epsilon: 0.2119999999999993
+Episode 395 DONE
+	- score: 24.49999999999999
+	- duration: 32.88446617126465
+	- epsilon: 0.2099999999999993
+Episode 396 DONE
+	- score: 12.4
+	- duration: 10.797576904296875
+	- epsilon: 0.2079999999999993
+Episode 397 DONE
+	- score: 7.9
+	- duration: 1.5848147869110107
+	- epsilon: 0.2059999999999993
+Episode 398 DONE
+	- score: 12.0
+	- duration: 6.560520887374878
+	- epsilon: 0.2039999999999993
+Episode 399 DONE
+	- score: 8.600000000000009
+	- duration: 10.658832311630249
+	- epsilon: 0.2019999999999993
+Episode 400 DONE
+	- score: 11.700000000000001
+	- duration: 10.14162015914917
+	- epsilon: 0.1999999999999993
+Episode 401 DONE
+	- score: 0.5000000000000071
+	- duration: 7.270857572555542
+	- epsilon: 1
+Episode 402 
+	- score: -11.299999999999969
+	- duration: 18.046249628067017
+	- epsilon: 0.98
+Episode 403 
+	- score: -36.50000000000015
+	- duration: 19.29547929763794
+	- epsilon: 0.96
+Episode 404 DONE
+	- score: -12.899999999999995
+	- duration: 17.398886919021606
+	- epsilon: 0.94
+Episode 405 DONE
+	- score: -0.7999999999999838
+	- duration: 13.970777988433838
+	- epsilon: 0.9199999999999999
+Episode 406 
+	- score: -6.9
+	- duration: 22.24953293800354
+	- epsilon: 0.8999999999999999
+Episode 407 DONE
+	- score: 6.699999999999999
+	- duration: 6.331970930099487
+	- epsilon: 0.8799999999999999
+Episode 408 DONE
+	- score: -1.9999999999999893
+	- duration: 13.017400741577148
+	- epsilon: 0.8599999999999999
+Episode 409 DONE
+	- score: 3.199999999999999
+	- duration: 5.191973686218262
+	- epsilon: 0.8399999999999999
+Episode 410 DONE
+	- score: 4.399999999999999
+	- duration: 13.573504447937012
+	- epsilon: 0.8199999999999998
+Episode 411 
+	- score: -11.399999999999975
+	- duration: 41.469515562057495
+	- epsilon: 0.7999999999999998
+Episode 412 DONE
+	- score: 7.699999999999999
+	- duration: 8.446653366088867
+	- epsilon: 0.7799999999999998
+Episode 413 DONE
+	- score: 8.0
+	- duration: 1.4367923736572266
+	- epsilon: 0.7599999999999998
+Episode 414 DONE
+	- score: 1.4999999999999991
+	- duration: 10.96181869506836
+	- epsilon: 0.7399999999999998
+Episode 415 DONE
+	- score: 9.899999999999999
+	- duration: 2.9084084033966064
+	- epsilon: 0.7199999999999998
+Episode 416 DONE
+	- score: 6.7
+	- duration: 3.055490493774414
+	- epsilon: 0.6999999999999997
+Episode 417 DONE
+	- score: 7.199999999999998
+	- duration: 16.20922064781189
+	- epsilon: 0.6799999999999997
+Episode 418 DONE
+	- score: 8.299999999999999
+	- duration: 9.24622368812561
+	- epsilon: 0.6599999999999997
+Episode 419 DONE
+	- score: 7.1
+	- duration: 5.326794624328613
+	- epsilon: 0.6399999999999997
+Episode 420 DONE
+	- score: 0.0
+	- duration: 0.09574222564697266
+	- epsilon: 0.6199999999999997
+Episode 421 DONE
+	- score: 8.9
+	- duration: 3.3707213401794434
+	- epsilon: 0.5999999999999996
+Episode 422 DONE
+	- score: 3.7999999999999963
+	- duration: 23.690356254577637
+	- epsilon: 0.5799999999999996
+Episode 423 DONE
+	- score: 10.2
+	- duration: 12.818896532058716
+	- epsilon: 0.5599999999999996
+Episode 424 DONE
+	- score: 4.999999999999998
+	- duration: 31.4408700466156
+	- epsilon: 0.5399999999999996
+Episode 425 DONE
+	- score: 8.8
+	- duration: 6.8587212562561035
+	- epsilon: 0.5199999999999996
+Episode 426 DONE
+	- score: 15.500000000000002
+	- duration: 8.469334363937378
+	- epsilon: 0.49999999999999956
+Episode 427 DONE
+	- score: 10.899999999999999
+	- duration: 9.327208757400513
+	- epsilon: 0.47999999999999954
+Episode 428 DONE
+	- score: -3.099999999999982
+	- duration: 29.985031843185425
+	- epsilon: 0.4599999999999995
+Episode 429 DONE
+	- score: 4.999999999999999
+	- duration: 15.950958490371704
+	- epsilon: 0.4399999999999995
+Episode 430 DONE
+	- score: 5.0
+	- duration: 10.260181427001953
+	- epsilon: 0.4199999999999995
+Episode 431 DONE
+	- score: -0.8999999999999968
+	- duration: 13.090597152709961
+	- epsilon: 0.39999999999999947
+Episode 432 DONE
+	- score: 2.5999999999999988
+	- duration: 8.451644659042358
+	- epsilon: 0.37999999999999945
+Episode 433 DONE
+	- score: 10.8
+	- duration: 18.858567714691162
+	- epsilon: 0.35999999999999943
+Episode 434 DONE
+	- score: 6.0
+	- duration: 0.5641169548034668
+	- epsilon: 0.3399999999999994
+Episode 435 DONE
+	- score: -4.799999999999997
+	- duration: 34.160897731781006
+	- epsilon: 0.3199999999999994
+Episode 436 DONE
+	- score: 8.7
+	- duration: 3.041456937789917
+	- epsilon: 0.2999999999999994
+Episode 437 DONE
+	- score: 8.8
+	- duration: 4.164241790771484
+	- epsilon: 0.27999999999999936
+Episode 438 DONE
+	- score: 6.4
+	- duration: 15.849161148071289
+	- epsilon: 0.25999999999999934
+Episode 439 DONE
+	- score: 6.7
+	- duration: 5.733411073684692
+	- epsilon: 0.23999999999999935
+Episode 440 DONE
+	- score: 5.0
+	- duration: 0.7183332443237305
+	- epsilon: 0.21999999999999936
+Episode 441 DONE
+	- score: 12.8
+	- duration: 16.09969425201416
+	- epsilon: 0.19999999999999937
+Episode 442 DONE
+	- score: 7.0
+	- duration: 20.71558427810669
+	- epsilon: 0.17999999999999938
+Episode 443 DONE
+	- score: 1.0000000000000044
+	- duration: 17.173708200454712
+	- epsilon: 0.1599999999999994
+Episode 444 DONE
+	- score: 4.6999999999999975
+	- duration: 23.198487043380737
+	- epsilon: 0.1399999999999994
+Episode 445 DONE
+	- score: 6.7
+	- duration: 17.804640293121338
+	- epsilon: 0.1199999999999994
+Episode 446 DONE
+	- score: 11.100000000000001
+	- duration: 13.968910694122314
+	- epsilon: 0.0999999999999994
+Episode 447 DONE
+	- score: 15.700000000000005
+	- duration: 15.739986658096313
+	- epsilon: 0.1
+Episode 448 DONE
+	- score: 7.0
+	- duration: 1.320643663406372
+	- epsilon: 0.1
+Episode 449 DONE
+	- score: 12.100000000000009
+	- duration: 18.733498334884644
+	- epsilon: 0.1
+Episode 450 DONE
+	- score: 8.6
+	- duration: 8.394983053207397
+	- epsilon: 0.1
+Episode 451 DONE
+	- score: 9.1
+	- duration: 8.394063949584961
+	- epsilon: 0.1
+Episode 452 DONE
+	- score: -2.6999999999999797
+	- duration: 22.518935918807983
+	- epsilon: 0.1
+Episode 453 DONE
+	- score: 8.899999999999999
+	- duration: 6.412557363510132
+	- epsilon: 0.1
+Episode 454 DONE
+	- score: 10.2
+	- duration: 6.887537002563477
+	- epsilon: 0.1
+Episode 455 DONE
+	- score: 13.8
+	- duration: 7.122280597686768
+	- epsilon: 0.1
+Episode 456 DONE
+	- score: 7.0
+	- duration: 1.0211787223815918
+	- epsilon: 0.1
+Episode 457 DONE
+	- score: 1.5999999999999988
+	- duration: 14.730148315429688
+	- epsilon: 0.1
+Episode 458 DONE
+	- score: 8.800000000000008
+	- duration: 6.7868571281433105
+	- epsilon: 0.1
+Episode 459 DONE
+	- score: 8.399999999999999
+	- duration: 9.557437419891357
+	- epsilon: 0.1
+Episode 460 DONE
+	- score: 4.3999999999999995
+	- duration: 10.857285976409912
+	- epsilon: 0.1
+Episode 461 DONE
+	- score: 8.4
+	- duration: 5.37181830406189
+	- epsilon: 0.1
+Episode 462 DONE
+	- score: 11.6
+	- duration: 9.700132369995117
+	- epsilon: 0.1
+Episode 463 DONE
+	- score: 3.1999999999999984
+	- duration: 13.205823183059692
+	- epsilon: 0.1
+Episode 464 DONE
+	- score: 6.599999999999995
+	- duration: 28.622212886810303
+	- epsilon: 0.1
+Episode 465 DONE
+	- score: 5.6
+	- duration: 15.929898500442505
+	- epsilon: 0.1
+Episode 466 DONE
+	- score: 12.000000000000002
+	- duration: 15.486427545547485
+	- epsilon: 0.1
+Episode 467 DONE
+	- score: 9.7
+	- duration: 12.320514678955078
+	- epsilon: 0.1
+Episode 468 DONE
+	- score: 7.8
+	- duration: 5.432124137878418
+	- epsilon: 0.1
+Episode 469 DONE
+	- score: 8.899999999999999
+	- duration: 38.91087317466736
+	- epsilon: 0.1
+Episode 470 DONE
+	- score: 11.100000000000005
+	- duration: 59.57613492012024
+	- epsilon: 0.1
+Episode 471 DONE
+	- score: 9.8
+	- duration: 7.251316070556641
+	- epsilon: 0.1
+Episode 472 DONE
+	- score: 6.3999999999999995
+	- duration: 7.035928964614868
+	- epsilon: 0.1
+Episode 473 DONE
+	- score: 6.8
+	- duration: 3.4374639987945557
+	- epsilon: 0.1
+Episode 474 DONE
+	- score: 7.1
+	- duration: 15.237352132797241
+	- epsilon: 0.1
+Episode 475 DONE
+	- score: 4.999999999999998
+	- duration: 23.297234058380127
+	- epsilon: 0.1
+Episode 476 DONE
+	- score: 7.3
+	- duration: 16.278271198272705
+	- epsilon: 0.1
+Episode 477 
+	- score: 7.000000000000007
+	- duration: 78.56619095802307
+	- epsilon: 0.1
+Episode 478 DONE
+	- score: 9.0
+	- duration: 25.100008726119995
+	- epsilon: 0.1
+Episode 479 DONE
+	- score: 10.4
+	- duration: 7.306341886520386
+	- epsilon: 0.1
+Episode 480 DONE
+	- score: 7.0
+	- duration: 6.839083909988403
+	- epsilon: 0.1
+Episode 481 DONE
+	- score: 2.8999999999999995
+	- duration: 15.538660526275635
+	- epsilon: 0.1
+Episode 482 DONE
+	- score: 5.9
+	- duration: 13.51585078239441
+	- epsilon: 0.1
+Episode 483 DONE
+	- score: 7.0
+	- duration: 0.9331493377685547
+	- epsilon: 0.1
+Episode 484 DONE
+	- score: 9.500000000000002
+	- duration: 17.504902124404907
+	- epsilon: 0.1
+Episode 485 DONE
+	- score: 0.400000000000003
+	- duration: 34.38626766204834
+	- epsilon: 0.1
+Episode 486 DONE
+	- score: 10.800000000000006
+	- duration: 16.54204249382019
+	- epsilon: 0.1
+Episode 487 DONE
+	- score: 10.500000000000004
+	- duration: 25.923629760742188
+	- epsilon: 0.1
+Episode 488 DONE
+	- score: 7.8
+	- duration: 3.0199873447418213
+	- epsilon: 0.1
+Episode 489 DONE
+	- score: -1.0999999999999872
+	- duration: 23.37960910797119
+	- epsilon: 0.1
+Episode 490 DONE
+	- score: 10.500000000000004
+	- duration: 19.27671980857849
+	- epsilon: 0.1
+Episode 491 DONE
+	- score: 5.200000000000004
+	- duration: 36.87047100067139
+	- epsilon: 0.1
+Episode 492 DONE
+	- score: 4.8
+	- duration: 18.39329481124878
+	- epsilon: 0.1
+Episode 493 DONE
+	- score: 7.8
+	- duration: 5.302132606506348
+	- epsilon: 0.1
+Episode 494 DONE
+	- score: 7.0
+	- duration: 0.305189847946167
+	- epsilon: 0.1
+Episode 495 DONE
+	- score: 6.0
+	- duration: 0.6057841777801514
+	- epsilon: 0.1
+Episode 496 DONE
+	- score: 9.6
+	- duration: 22.36967921257019
+	- epsilon: 0.1
+Episode 497 DONE
+	- score: 9.300000000000004
+	- duration: 7.307441711425781
+	- epsilon: 0.1
+Episode 498 DONE
+	- score: 9.8
+	- duration: 1.8227806091308594
+	- epsilon: 0.1
+Episode 499 DONE
+	- score: 0.0
+	- duration: 0.1435866355895996
+	- epsilon: 0.1
+Episode 500 DONE
+	- score: -1.1999999999999762
+	- duration: 48.91783261299133
+	- epsilon: 0.1
+Episode 501 
+	- score: -21.300000000000068
+	- duration: 18.53879952430725
+	- epsilon: 1
+Episode 502 DONE
+	- score: -5.499999999999972
+	- duration: 19.811278820037842
+	- epsilon: 0.98
+Episode 503 DONE
+	- score: -2.8999999999999897
+	- duration: 17.99243426322937
+	- epsilon: 0.96
+Episode 504 DONE
+	- score: 0.0
+	- duration: 0.06984210014343262
+	- epsilon: 0.94
+Episode 505 
+	- score: -8.499999999999977
+	- duration: 21.383988618850708
+	- epsilon: 0.9199999999999999
+Episode 506 
+	- score: -5.400000000000003
+	- duration: 23.915894031524658
+	- epsilon: 0.8999999999999999
+Episode 507 DONE
+	- score: 3.900000000000003
+	- duration: 8.404277324676514
+	- epsilon: 0.8799999999999999
+Episode 508 DONE
+	- score: 7.1
+	- duration: 6.553104400634766
+	- epsilon: 0.8599999999999999
+Episode 509 
+	- score: -0.4000000000000068
+	- duration: 28.207129955291748
+	- epsilon: 0.8399999999999999
+Episode 510 DONE
+	- score: 7.9
+	- duration: 1.6830627918243408
+	- epsilon: 0.8199999999999998
+Episode 511 DONE
+	- score: -2.099999999999996
+	- duration: 27.76655411720276
+	- epsilon: 0.7999999999999998
+Episode 512 DONE
+	- score: 6.2
+	- duration: 9.44621467590332
+	- epsilon: 0.7799999999999998
+Episode 513 DONE
+	- score: 1.8999999999999986
+	- duration: 11.423985719680786
+	- epsilon: 0.7599999999999998
+Episode 514 DONE
+	- score: 6.099999999999998
+	- duration: 19.198106050491333
+	- epsilon: 0.7399999999999998
+Episode 515 DONE
+	- score: 8.6
+	- duration: 4.85071063041687
+	- epsilon: 0.7199999999999998
+Episode 516 DONE
+	- score: 15.200000000000003
+	- duration: 10.45936918258667
+	- epsilon: 0.6999999999999997
+Episode 517 DONE
+	- score: 8.9
+	- duration: 3.600874423980713
+	- epsilon: 0.6799999999999997
+Episode 518 DONE
+	- score: 7.699999999999999
+	- duration: 9.644437551498413
+	- epsilon: 0.6599999999999997
+Episode 519 DONE
+	- score: 6.4
+	- duration: 6.584428310394287
+	- epsilon: 0.6399999999999997
+Episode 520 DONE
+	- score: 10.700000000000001
+	- duration: 16.121097326278687
+	- epsilon: 0.6199999999999997
+Episode 521 DONE
+	- score: 6.3999999999999995
+	- duration: 10.458090543746948
+	- epsilon: 0.5999999999999996
+Episode 522 DONE
+	- score: 6.0
+	- duration: 0.68316650390625
+	- epsilon: 0.5799999999999996
+Episode 523 DONE
+	- score: 6.7
+	- duration: 1.7507655620574951
+	- epsilon: 0.5599999999999996
+Episode 524 DONE
+	- score: 9.200000000000012
+	- duration: 21.81460666656494
+	- epsilon: 0.5399999999999996
+Episode 525 DONE
+	- score: 9.5
+	- duration: 7.6162474155426025
+	- epsilon: 0.5199999999999996
+Episode 526 DONE
+	- score: 7.7
+	- duration: 1.3034601211547852
+	- epsilon: 0.49999999999999956
+Episode 527 DONE
+	- score: 7.0
+	- duration: 6.757410526275635
+	- epsilon: 0.47999999999999954
+Episode 528 DONE
+	- score: 9.6
+	- duration: 9.202727794647217
+	- epsilon: 0.4599999999999995
+Episode 529 DONE
+	- score: 8.3
+	- duration: 8.680591106414795
+	- epsilon: 0.4399999999999995
+Episode 530 DONE
+	- score: 6.999999999999998
+	- duration: 20.32212734222412
+	- epsilon: 0.4199999999999995
+Episode 531 DONE
+	- score: 6.0
+	- duration: 0.7898497581481934
+	- epsilon: 0.39999999999999947
+Episode 532 DONE
+	- score: 1.6000000000000156
+	- duration: 23.448593139648438
+	- epsilon: 0.37999999999999945
+Episode 533 DONE
+	- score: 7.7
+	- duration: 7.572630882263184
+	- epsilon: 0.35999999999999943
+Episode 534 DONE
+	- score: 9.1
+	- duration: 5.876129865646362
+	- epsilon: 0.3399999999999994
+Episode 535 DONE
+	- score: 3.1999999999999984
+	- duration: 13.804040670394897
+	- epsilon: 0.3199999999999994
+Episode 536 DONE
+	- score: 14.700000000000014
+	- duration: 35.11201548576355
+	- epsilon: 0.2999999999999994
+Episode 537 DONE
+	- score: 0.0
+	- duration: 0.11568975448608398
+	- epsilon: 0.27999999999999936
+Episode 538 DONE
+	- score: 11.0
+	- duration: 18.863004207611084
+	- epsilon: 0.25999999999999934
+Episode 539 DONE
+	- score: 5.0
+	- duration: 8.714032649993896
+	- epsilon: 0.23999999999999935
+Episode 540 DONE
+	- score: 14.200000000000003
+	- duration: 9.629769802093506
+	- epsilon: 0.21999999999999936
+Episode 541 DONE
+	- score: 7.1
+	- duration: 8.777565956115723
+	- epsilon: 0.19999999999999937
+Episode 542 DONE
+	- score: 0.6000000000000014
+	- duration: 22.826007843017578
+	- epsilon: 0.17999999999999938
+Episode 543 DONE
+	- score: 8.0
+	- duration: 1.4258100986480713
+	- epsilon: 0.1599999999999994
+Episode 544 DONE
+	- score: 5.9
+	- duration: 2.2041871547698975
+	- epsilon: 0.1399999999999994
+Episode 545 DONE
+	- score: 13.0
+	- duration: 2.8019344806671143
+	- epsilon: 0.1199999999999994
+Episode 546 DONE
+	- score: 14.700000000000005
+	- duration: 7.857519149780273
+	- epsilon: 0.0999999999999994
+Episode 547 DONE
+	- score: 6.0
+	- duration: 3.3964266777038574
+	- epsilon: 0.1
+Episode 548 DONE
+	- score: 6.0
+	- duration: 0.6173431873321533
+	- epsilon: 0.1
+Episode 549 DONE
+	- score: 8.8
+	- duration: 3.277745246887207
+	- epsilon: 0.1
+Episode 550 DONE
+	- score: 7.0
+	- duration: 1.8245205879211426
+	- epsilon: 0.1
+Episode 551 DONE
+	- score: 9.6
+	- duration: 25.000868558883667
+	- epsilon: 0.1
+Episode 552 DONE
+	- score: 6.8
+	- duration: 2.384838581085205
+	- epsilon: 0.1
+Episode 553 DONE
+	- score: 13.500000000000005
+	- duration: 16.570508003234863
+	- epsilon: 0.1
+Episode 554 DONE
+	- score: 13.3
+	- duration: 14.324947357177734
+	- epsilon: 0.1
+Episode 555 DONE
+	- score: 13.000000000000018
+	- duration: 31.703058004379272
+	- epsilon: 0.1
+Episode 556 DONE
+	- score: 0.0
+	- duration: 0.07779145240783691
+	- epsilon: 0.1
+Episode 557 DONE
+	- score: 8.0
+	- duration: 4.027252674102783
+	- epsilon: 0.1
+Episode 558 DONE
+	- score: 9.200000000000019
+	- duration: 37.224435806274414
+	- epsilon: 0.1
+Episode 559 DONE
+	- score: 5.0
+	- duration: 20.748257637023926
+	- epsilon: 0.1
+Episode 560 DONE
+	- score: 12.300000000000006
+	- duration: 16.165003061294556
+	- epsilon: 0.1
+Episode 561 DONE
+	- score: 0.3000000000000034
+	- duration: 45.93665957450867
+	- epsilon: 0.1
+Episode 562 DONE
+	- score: 5.0
+	- duration: 12.491760969161987
+	- epsilon: 0.1
+Episode 563 DONE
+	- score: 6.0
+	- duration: 0.6608920097351074
+	- epsilon: 0.1
+Episode 564 DONE
+	- score: 7.9
+	- duration: 3.099358081817627
+	- epsilon: 0.1
+Episode 565 DONE
+	- score: 6.0
+	- duration: 1.0569660663604736
+	- epsilon: 0.1
+Episode 566 DONE
+	- score: 5.7
+	- duration: 4.244687080383301
+	- epsilon: 0.1
+Episode 567 DONE
+	- score: 7.299999999999999
+	- duration: 14.81092357635498
+	- epsilon: 0.1
+Episode 568 DONE
+	- score: 14.900000000000006
+	- duration: 12.706645011901855
+	- epsilon: 0.1
+Episode 569 DONE
+	- score: 9.2
+	- duration: 17.371065139770508
+	- epsilon: 0.1
+Episode 570 DONE
+	- score: 6.9000000000000075
+	- duration: 28.63234305381775
+	- epsilon: 0.1
+Episode 571 DONE
+	- score: 6.9
+	- duration: 1.0730037689208984
+	- epsilon: 0.1
+Episode 572 DONE
+	- score: 6.9
+	- duration: 4.141751527786255
+	- epsilon: 0.1
+Episode 573 DONE
+	- score: 7.9
+	- duration: 3.267336845397949
+	- epsilon: 0.1
+Episode 574 DONE
+	- score: 8.399999999999999
+	- duration: 14.540927648544312
+	- epsilon: 0.1
+Episode 575 DONE
+	- score: 11.100000000000001
+	- duration: 7.63138222694397
+	- epsilon: 0.1
+Episode 576 DONE
+	- score: 7.599999999999998
+	- duration: 12.33755111694336
+	- epsilon: 0.1
+Episode 577 DONE
+	- score: 8.399999999999999
+	- duration: 18.79210901260376
+	- epsilon: 0.1
+Episode 578 DONE
+	- score: 5.8
+	- duration: 12.121755599975586
+	- epsilon: 0.1
+Episode 579 DONE
+	- score: 6.0
+	- duration: 0.657768964767456
+	- epsilon: 0.1
+Episode 580 DONE
+	- score: 7.5
+	- duration: 11.147385120391846
+	- epsilon: 0.1
+Episode 581 DONE
+	- score: 8.0
+	- duration: 2.1982839107513428
+	- epsilon: 0.1
+Episode 582 DONE
+	- score: 8.6
+	- duration: 4.116404294967651
+	- epsilon: 0.1
+Episode 583 DONE
+	- score: -3.0999999999999837
+	- duration: 52.03443384170532
+	- epsilon: 0.1
+Episode 584 DONE
+	- score: 6.7
+	- duration: 6.2538111209869385
+	- epsilon: 0.1
+Episode 585 DONE
+	- score: 4.299999999999998
+	- duration: 37.86703586578369
+	- epsilon: 0.1
+Episode 586 DONE
+	- score: 14.899999999999999
+	- duration: 18.965423345565796
+	- epsilon: 0.1
+Episode 587 DONE
+	- score: 4.599999999999999
+	- duration: 10.37960958480835
+	- epsilon: 0.1
+Episode 588 DONE
+	- score: 6.0
+	- duration: 0.6517977714538574
+	- epsilon: 0.1
+Episode 589 DONE
+	- score: 16.6
+	- duration: 26.499800443649292
+	- epsilon: 0.1
+Episode 590 DONE
+	- score: 12.600000000000001
+	- duration: 4.306533575057983
+	- epsilon: 0.1
+Episode 591 DONE
+	- score: 7.900000000000002
+	- duration: 20.276667594909668
+	- epsilon: 0.1
+Episode 592 DONE
+	- score: -0.8999999999999995
+	- duration: 25.260035037994385
+	- epsilon: 0.1
+Episode 593 DONE
+	- score: 5.9
+	- duration: 3.689197540283203
+	- epsilon: 0.1
+Episode 594 DONE
+	- score: 14.100000000000001
+	- duration: 11.628121376037598
+	- epsilon: 0.1
+Episode 595 DONE
+	- score: 12.300000000000002
+	- duration: 12.194040536880493
+	- epsilon: 0.1
+Episode 596 DONE
+	- score: 4.999999999999999
+	- duration: 10.151553392410278
+	- epsilon: 0.1
+Episode 597 DONE
+	- score: -0.19999999999999218
+	- duration: 7.941824197769165
+	- epsilon: 0.1
+Episode 598 DONE
+	- score: 5.9
+	- duration: 1.8768877983093262
+	- epsilon: 0.1
+Episode 599 DONE
+	- score: 1.8000000000000078
+	- duration: 45.09056997299194
+	- epsilon: 0.1
+Episode 600 DONE
+	- score: 6.7
+	- duration: 6.756402492523193
+	- epsilon: 0.1
+Episode 601 
+	- score: -23.100000000000037
+	- duration: 20.50632357597351
+	- epsilon: 1
+Episode 602 
+	- score: -24.400000000000045
+	- duration: 22.838485956192017
+	- epsilon: 0.98
+Episode 603 
+	- score: -24.200000000000067
+	- duration: 46.43938231468201
+	- epsilon: 0.96
+Episode 604 
+	- score: -8.29999999999997
+	- duration: 204.6709542274475
+	- epsilon: 0.94
+Episode 605 DONE
+	- score: -7.800000000000017
+	- duration: 49.11348843574524
+	- epsilon: 0.9199999999999999
+Episode 606 DONE
+	- score: 5.799999999999998
+	- duration: 12.143526077270508
+	- epsilon: 0.8999999999999999
+Episode 607 
+	- score: -11.699999999999982
+	- duration: 23.895018100738525
+	- epsilon: 0.8799999999999999
+Episode 608 DONE
+	- score: 7.299999999999999
+	- duration: 3.8992505073547363
+	- epsilon: 0.8599999999999999
+Episode 609 DONE
+	- score: 2.9999999999999982
+	- duration: 4.910781145095825
+	- epsilon: 0.8399999999999999
+Episode 610 DONE
+	- score: 5.5
+	- duration: 6.021767854690552
+	- epsilon: 0.8199999999999998
+Episode 611 DONE
+	- score: -0.6999999999999753
+	- duration: 26.23233437538147
+	- epsilon: 0.7999999999999998
+Episode 612 DONE
+	- score: 5.9
+	- duration: 12.438048839569092
+	- epsilon: 0.7799999999999998
+Episode 613 DONE
+	- score: 0.0
+	- duration: 0.13677716255187988
+	- epsilon: 0.7599999999999998
+Episode 614 DONE
+	- score: 7.2
+	- duration: 3.6885793209075928
+	- epsilon: 0.7399999999999998
+Episode 615 DONE
+	- score: 7.899999999999999
+	- duration: 13.57969355583191
+	- epsilon: 0.7199999999999998
+Episode 616 DONE
+	- score: 6.8999999999999995
+	- duration: 9.167122840881348
+	- epsilon: 0.6999999999999997
+Episode 617 DONE
+	- score: 0.0
+	- duration: 0.07878684997558594
+	- epsilon: 0.6799999999999997
+Episode 618 DONE
+	- score: 11.200000000000003
+	- duration: 9.320716381072998
+	- epsilon: 0.6599999999999997
+Episode 619 DONE
+	- score: 5.699999999999998
+	- duration: 12.957475185394287
+	- epsilon: 0.6399999999999997
+Episode 620 
+	- score: 0.09999999999999898
+	- duration: 37.58521485328674
+	- epsilon: 0.6199999999999997
+Episode 621 DONE
+	- score: 1.1999999999999957
+	- duration: 36.305386543273926
+	- epsilon: 0.5999999999999996
+Episode 622 DONE
+	- score: 6.999999999999998
+	- duration: 14.468604326248169
+	- epsilon: 0.5799999999999996
+Episode 623 DONE
+	- score: 5.5
+	- duration: 8.319984674453735
+	- epsilon: 0.5599999999999996
+Episode 624 DONE
+	- score: 5.2
+	- duration: 11.704400300979614
+	- epsilon: 0.5399999999999996
+Episode 625 DONE
+	- score: 9.9
+	- duration: 3.2307989597320557
+	- epsilon: 0.5199999999999996
+Episode 626 DONE
+	- score: 6.5
+	- duration: 2.8488969802856445
+	- epsilon: 0.49999999999999956
+Episode 627 DONE
+	- score: 10.400000000000002
+	- duration: 17.129234075546265
+	- epsilon: 0.47999999999999954
+Episode 628 DONE
+	- score: 6.5
+	- duration: 4.250770330429077
+	- epsilon: 0.4599999999999995
+Episode 629 DONE
+	- score: 3.3999999999999995
+	- duration: 17.962613821029663
+	- epsilon: 0.4399999999999995
+Episode 630 DONE
+	- score: 0.0
+	- duration: 0.08374929428100586
+	- epsilon: 0.4199999999999995
+Episode 631 DONE
+	- score: 17.300000000000004
+	- duration: 17.476513385772705
+	- epsilon: 0.39999999999999947
+Episode 632 DONE
+	- score: 4.299999999999999
+	- duration: 12.306000471115112
+	- epsilon: 0.37999999999999945
+Episode 633 DONE
+	- score: 8.7
+	- duration: 5.700669765472412
+	- epsilon: 0.35999999999999943
+Episode 634 DONE
+	- score: 24.700000000000003
+	- duration: 37.164143800735474
+	- epsilon: 0.3399999999999994
+Episode 635 DONE
+	- score: 4.9
+	- duration: 3.022653579711914
+	- epsilon: 0.3199999999999994
+Episode 636 DONE
+	- score: 6.699999999999999
+	- duration: 6.613558530807495
+	- epsilon: 0.2999999999999994
+Episode 637 DONE
+	- score: 7.7
+	- duration: 9.34560513496399
+	- epsilon: 0.27999999999999936
+Episode 638 DONE
+	- score: 5.7
+	- duration: 5.732768535614014
+	- epsilon: 0.25999999999999934
+Episode 639 DONE
+	- score: 12.100000000000001
+	- duration: 14.076139688491821
+	- epsilon: 0.23999999999999935
+Episode 640 DONE
+	- score: 5.0
+	- duration: 46.60726189613342
+	- epsilon: 0.21999999999999936
+Episode 641 DONE
+	- score: 1.0
+	- duration: 23.93656015396118
+	- epsilon: 0.19999999999999937
+Episode 642 DONE
+	- score: -5.799999999999992
+	- duration: 14.664779901504517
+	- epsilon: 0.17999999999999938
+Episode 643 DONE
+	- score: 8.9
+	- duration: 2.8725826740264893
+	- epsilon: 0.1599999999999994
+Episode 644 DONE
+	- score: 6.999999999999997
+	- duration: 25.058305740356445
+	- epsilon: 0.1399999999999994
+Episode 645 DONE
+	- score: 7.8
+	- duration: 4.500515460968018
+	- epsilon: 0.1199999999999994
+Episode 646 DONE
+	- score: 7.9
+	- duration: 8.828765869140625
+	- epsilon: 0.0999999999999994
+Episode 647 DONE
+	- score: 6.999999999999999
+	- duration: 10.568190336227417
+	- epsilon: 0.1
+Episode 648 DONE
+	- score: 10.5
+	- duration: 16.166125774383545
+	- epsilon: 0.1
+Episode 649 DONE
+	- score: 10.6
+	- duration: 23.046616315841675
+	- epsilon: 0.1
+Episode 650 DONE
+	- score: 6.7
+	- duration: 6.04523229598999
+	- epsilon: 0.1
+Episode 651 DONE
+	- score: 4.499999999999998
+	- duration: 14.86133360862732
+	- epsilon: 0.1
+Episode 652 DONE
+	- score: 12.600000000000001
+	- duration: 9.601128816604614
+	- epsilon: 0.1
+Episode 653 DONE
+	- score: 9.0
+	- duration: 1.209442138671875
+	- epsilon: 0.1
+Episode 654 DONE
+	- score: 7.6
+	- duration: 7.1062657833099365
+	- epsilon: 0.1
+Episode 655 DONE
+	- score: 8.6
+	- duration: 6.673322916030884
+	- epsilon: 0.1
+Episode 656 DONE
+	- score: 6.5
+	- duration: 10.044715881347656
+	- epsilon: 0.1
+Episode 657 DONE
+	- score: 7.0
+	- duration: 1.1936359405517578
+	- epsilon: 0.1
+Episode 658 DONE
+	- score: 0.0
+	- duration: 0.11719322204589844
+	- epsilon: 0.1
+Episode 659 DONE
+	- score: 5.499999999999997
+	- duration: 14.782697677612305
+	- epsilon: 0.1
+Episode 660 DONE
+	- score: 7.6
+	- duration: 6.560864448547363
+	- epsilon: 0.1
+Episode 661 DONE
+	- score: 8.9
+	- duration: 5.427023649215698
+	- epsilon: 0.1
+Episode 662 DONE
+	- score: 10.8
+	- duration: 2.8158164024353027
+	- epsilon: 0.1
+Episode 663 DONE
+	- score: 15.800000000000006
+	- duration: 15.028031826019287
+	- epsilon: 0.1
+Episode 664 DONE
+	- score: 4.699999999999999
+	- duration: 17.27822709083557
+	- epsilon: 0.1
+Episode 665 DONE
+	- score: 13.800000000000002
+	- duration: 29.82119107246399
+	- epsilon: 0.1
+Episode 666 DONE
+	- score: 9.100000000000001
+	- duration: 12.328369855880737
+	- epsilon: 0.1
+Episode 667 DONE
+	- score: 9.599999999999998
+	- duration: 30.512264013290405
+	- epsilon: 0.1
+Episode 668 DONE
+	- score: 13.800000000000004
+	- duration: 14.471999645233154
+	- epsilon: 0.1
+Episode 669 DONE
+	- score: 12.500000000000002
+	- duration: 10.387406826019287
+	- epsilon: 0.1
+Episode 670 DONE
+	- score: 5.8
+	- duration: 11.677454710006714
+	- epsilon: 0.1
+Episode 671 DONE
+	- score: 13.800000000000002
+	- duration: 21.767577409744263
+	- epsilon: 0.1
+Episode 672 DONE
+	- score: 6.9
+	- duration: 6.315354347229004
+	- epsilon: 0.1
+Episode 673 DONE
+	- score: 7.800000000000006
+	- duration: 26.880590200424194
+	- epsilon: 0.1
+Episode 674 DONE
+	- score: 9.7
+	- duration: 22.602990865707397
+	- epsilon: 0.1
+Episode 675 DONE
+	- score: 7.0
+	- duration: 11.686131477355957
+	- epsilon: 0.1
+Episode 676 DONE
+	- score: 7.1
+	- duration: 8.413451433181763
+	- epsilon: 0.1
+Episode 677 DONE
+	- score: 9.499999999999998
+	- duration: 5.6286139488220215
+	- epsilon: 0.1
+Episode 678 DONE
+	- score: 6.8
+	- duration: 3.0401782989501953
+	- epsilon: 0.1
+Episode 679 DONE
+	- score: 11.7
+	- duration: 11.133583068847656
+	- epsilon: 0.1
+Episode 680 DONE
+	- score: 8.6
+	- duration: 10.016770601272583
+	- epsilon: 0.1
+Episode 681 DONE
+	- score: 7.9
+	- duration: 2.28029727935791
+	- epsilon: 0.1
+Episode 682 DONE
+	- score: 12.700000000000008
+	- duration: 18.348026514053345
+	- epsilon: 0.1
+Episode 683 DONE
+	- score: 17.300000000000004
+	- duration: 21.70973253250122
+	- epsilon: 0.1
+Episode 684 DONE
+	- score: 7.899999999999999
+	- duration: 8.248177528381348
+	- epsilon: 0.1
+Episode 685 DONE
+	- score: -2.9999999999999893
+	- duration: 8.925921201705933
+	- epsilon: 0.1
+Episode 686 DONE
+	- score: 9.2
+	- duration: 9.0554039478302
+	- epsilon: 0.1
+Episode 687 DONE
+	- score: 8.799999999999997
+	- duration: 27.76566481590271
+	- epsilon: 0.1
+Episode 688 DONE
+	- score: 7.1
+	- duration: 14.31877613067627
+	- epsilon: 0.1
+Episode 689 DONE
+	- score: 12.700000000000001
+	- duration: 22.12562656402588
+	- epsilon: 0.1
+Episode 690 DONE
+	- score: 11.700000000000001
+	- duration: 10.669317722320557
+	- epsilon: 0.1
+Episode 691 DONE
+	- score: 4.9
+	- duration: 2.846802234649658
+	- epsilon: 0.1
+Episode 692 DONE
+	- score: 8.999999999999998
+	- duration: 28.545701503753662
+	- epsilon: 0.1
+Episode 693 DONE
+	- score: 15.9
+	- duration: 38.26744890213013
+	- epsilon: 0.1
+Episode 694 DONE
+	- score: 7.199999999999999
+	- duration: 13.198044061660767
+	- epsilon: 0.1
+Episode 695 DONE
+	- score: 12.9
+	- duration: 4.537716627120972
+	- epsilon: 0.1
+Episode 696 DONE
+	- score: 14.300000000000004
+	- duration: 22.76142430305481
+	- epsilon: 0.1
+Episode 697 DONE
+	- score: 9.2
+	- duration: 10.92703890800476
+	- epsilon: 0.1
+Episode 698 DONE
+	- score: 9.600000000000009
+	- duration: 18.96687340736389
+	- epsilon: 0.1
+Episode 699 DONE
+	- score: 9.9
+	- duration: 10.2267427444458
+	- epsilon: 0.1
+Episode 700 DONE
+	- score: 8.299999999999999
+	- duration: 13.18433165550232
+	- epsilon: 0.1
+Episode 701 
+	- score: -12.89999999999997
+	- duration: 19.810519695281982
+	- epsilon: 1
+Episode 702 
+	- score: 1.0000000000000113
+	- duration: 67.50303983688354
+	- epsilon: 0.1
+Episode 703 DONE
+	- score: 6.3
+	- duration: 13.950583457946777
+	- epsilon: 0.1
+Episode 704 DONE
+	- score: 5.199999999999999
+	- duration: 20.649987936019897
+	- epsilon: 0.1
+Episode 705 DONE
+	- score: 13.100000000000001
+	- duration: 29.744449138641357
+	- epsilon: 0.1
+Episode 706 DONE
+	- score: 8.9
+	- duration: 23.02805805206299
+	- epsilon: 0.1
+Episode 707 DONE
+	- score: 7.9
+	- duration: 1.535485029220581
+	- epsilon: 0.1
+Episode 708 DONE
+	- score: 5.8
+	- duration: 4.510902643203735
+	- epsilon: 0.1
+Episode 709 DONE
+	- score: 8.3
+	- duration: 10.72392725944519
+	- epsilon: 0.1
+Episode 710 DONE
+	- score: 6.0
+	- duration: 0.8598301410675049
+	- epsilon: 0.1
+Episode 711 DONE
+	- score: 15.100000000000007
+	- duration: 14.171943426132202
+	- epsilon: 0.1
+Episode 712 DONE
+	- score: 5.699999999999996
+	- duration: 30.914432525634766
+	- epsilon: 0.1
+Episode 713 DONE
+	- score: 6.1999999999999975
+	- duration: 25.19509792327881
+	- epsilon: 0.1
+Episode 714 DONE
+	- score: 6.0
+	- duration: 2.916815996170044
+	- epsilon: 0.1
+Episode 715 DONE
+	- score: 4.9
+	- duration: 1.9403948783874512
+	- epsilon: 0.1
+Episode 716 DONE
+	- score: 0.799999999999998
+	- duration: 11.123659133911133
+	- epsilon: 0.1
+Episode 717 DONE
+	- score: 6.0
+	- duration: 0.9567012786865234
+	- epsilon: 0.1
+Episode 718 DONE
+	- score: 10.500000000000005
+	- duration: 13.795542240142822
+	- epsilon: 0.1
+Episode 719 DONE
+	- score: 2.4999999999999973
+	- duration: 8.85479736328125
+	- epsilon: 0.1
+Episode 720 DONE
+	- score: 9.8
+	- duration: 9.542148113250732
+	- epsilon: 0.1
+Episode 721 DONE
+	- score: 7.6
+	- duration: 4.209315538406372
+	- epsilon: 0.1
+Episode 722 DONE
+	- score: 8.7
+	- duration: 9.2618567943573
+	- epsilon: 0.1
+Episode 723 DONE
+	- score: 0.0
+	- duration: 0.13013243675231934
+	- epsilon: 0.1
+Episode 724 DONE
+	- score: 11.60000000000002
+	- duration: 45.355961561203
+	- epsilon: 0.1
+Episode 725 DONE
+	- score: 8.5
+	- duration: 3.4623348712921143
+	- epsilon: 0.1
+Episode 726 DONE
+	- score: 8.6
+	- duration: 5.768402814865112
+	- epsilon: 0.1
+Episode 727 DONE
+	- score: 6.4
+	- duration: 9.690606117248535
+	- epsilon: 0.1
+Episode 728 DONE
+	- score: 7.6
+	- duration: 2.706868886947632
+	- epsilon: 0.1
+Episode 729 DONE
+	- score: 15.500000000000004
+	- duration: 8.406715393066406
+	- epsilon: 0.1
+Episode 730 DONE
+	- score: 12.600000000000001
+	- duration: 5.511874198913574
+	- epsilon: 0.1
+Episode 731 DONE
+	- score: 9.4
+	- duration: 5.6644062995910645
+	- epsilon: 0.1
+Episode 732 DONE
+	- score: 6.0
+	- duration: 0.2909729480743408
+	- epsilon: 0.1
+Episode 733 DONE
+	- score: 8.5
+	- duration: 7.08130669593811
+	- epsilon: 0.1
+Episode 734 DONE
+	- score: 11.9
+	- duration: 8.559783220291138
+	- epsilon: 0.1
+Episode 735 DONE
+	- score: 8.399999999999999
+	- duration: 8.241597414016724
+	- epsilon: 0.1
+Episode 736 DONE
+	- score: 6.9
+	- duration: 2.844532012939453
+	- epsilon: 0.1
+Episode 737 DONE
+	- score: 7.0
+	- duration: 0.8959991931915283
+	- epsilon: 0.1
+Episode 738 DONE
+	- score: 10.2
+	- duration: 12.743246078491211
+	- epsilon: 0.1
+Episode 739 DONE
+	- score: 6.9
+	- duration: 9.03297758102417
+	- epsilon: 0.1
+Episode 740 DONE
+	- score: 0.0
+	- duration: 0.1236565113067627
+	- epsilon: 0.1
+Episode 741 DONE
+	- score: 10.8
+	- duration: 4.313528060913086
+	- epsilon: 0.1
+Episode 742 DONE
+	- score: 6.0
+	- duration: 0.6945738792419434
+	- epsilon: 0.1
+Episode 743 DONE
+	- score: 13.100000000000005
+	- duration: 14.852336883544922
+	- epsilon: 0.1
+Episode 744 DONE
+	- score: 6.0
+	- duration: 0.11954522132873535
+	- epsilon: 0.1
+Episode 745 
+	- score: 4.600000000000031
+	- duration: 60.322165727615356
+	- epsilon: 0.1
+Episode 746 DONE
+	- score: 9.600000000000001
+	- duration: 3.868314266204834
+	- epsilon: 0.1
+Episode 747 DONE
+	- score: 7.3999999999999995
+	- duration: 13.244322776794434
+	- epsilon: 0.1
+Episode 748 DONE
+	- score: 17.000000000000004
+	- duration: 21.971916437149048
+	- epsilon: 0.1
+Episode 749 DONE
+	- score: 8.8
+	- duration: 2.8593738079071045
+	- epsilon: 0.1
+Episode 750 DONE
+	- score: 8.299999999999999
+	- duration: 28.818849563598633
+	- epsilon: 0.1
+Episode 751 DONE
+	- score: 5.099999999999997
+	- duration: 33.77077317237854
+	- epsilon: 0.1
+Episode 752 DONE
+	- score: 8.599999999999998
+	- duration: 5.936183452606201
+	- epsilon: 0.1
+Episode 753 DONE
+	- score: 8.6
+	- duration: 6.8608269691467285
+	- epsilon: 0.1
+Episode 754 DONE
+	- score: 10.2
+	- duration: 2.9458370208740234
+	- epsilon: 0.1
+Episode 755 DONE
+	- score: 8.5
+	- duration: 3.700200080871582
+	- epsilon: 0.1
+Episode 756 DONE
+	- score: 8.5
+	- duration: 10.069751739501953
+	- epsilon: 0.1
+Episode 757 DONE
+	- score: 8.5
+	- duration: 9.143778562545776
+	- epsilon: 0.1
+Episode 758 DONE
+	- score: 7.899999999999997
+	- duration: 22.101173877716064
+	- epsilon: 0.1
+Episode 759 DONE
+	- score: 4.299999999999997
+	- duration: 13.925336360931396
+	- epsilon: 0.1
+Episode 760 DONE
+	- score: 6.6
+	- duration: 3.686143398284912
+	- epsilon: 0.1
+Episode 761 DONE
+	- score: 6.7
+	- duration: 5.060606479644775
+	- epsilon: 0.1
+Episode 762 DONE
+	- score: 10.900000000000006
+	- duration: 13.262620687484741
+	- epsilon: 0.1
+Episode 763 DONE
+	- score: 7.5
+	- duration: 5.344470739364624
+	- epsilon: 0.1
+Episode 764 DONE
+	- score: 14.3
+	- duration: 19.501729726791382
+	- epsilon: 0.1
+Episode 765 DONE
+	- score: 8.9
+	- duration: 2.8957037925720215
+	- epsilon: 0.1
+Episode 766 DONE
+	- score: 9.8
+	- duration: 12.769338130950928
+	- epsilon: 0.1
+Episode 767 DONE
+	- score: 10.5
+	- duration: 10.366338968276978
+	- epsilon: 0.1
+Episode 768 DONE
+	- score: 7.099999999999999
+	- duration: 19.294615507125854
+	- epsilon: 0.1
+Episode 769 DONE
+	- score: 10.500000000000002
+	- duration: 11.390618801116943
+	- epsilon: 0.1
+Episode 770 DONE
+	- score: 3.400000000000007
+	- duration: 35.34705066680908
+	- epsilon: 0.1
+Episode 771 DONE
+	- score: 6.0
+	- duration: 1.0419445037841797
+	- epsilon: 0.1
+Episode 772 DONE
+	- score: 11.8
+	- duration: 7.63257622718811
+	- epsilon: 0.1
+Episode 773 DONE
+	- score: 6.799999999999997
+	- duration: 13.168847560882568
+	- epsilon: 0.1
+Episode 774 DONE
+	- score: 6.5
+	- duration: 3.385571002960205
+	- epsilon: 0.1
+Episode 775 DONE
+	- score: 11.800000000000006
+	- duration: 22.53392505645752
+	- epsilon: 0.1
+Episode 776 DONE
+	- score: 7.599999999999999
+	- duration: 26.487013339996338
+	- epsilon: 0.1
+Episode 777 DONE
+	- score: 10.200000000000006
+	- duration: 25.221696853637695
+	- epsilon: 0.1
+Episode 778 DONE
+	- score: 2.6999999999999984
+	- duration: 10.483734130859375
+	- epsilon: 0.1
+Episode 779 DONE
+	- score: 9.8
+	- duration: 2.4882099628448486
+	- epsilon: 0.1
+Episode 780 DONE
+	- score: 8.6
+	- duration: 4.371694564819336
+	- epsilon: 0.1
+Episode 781 DONE
+	- score: 0.0
+	- duration: 0.07679438591003418
+	- epsilon: 0.1
+Episode 782 DONE
+	- score: 16.300000000000004
+	- duration: 17.582102060317993
+	- epsilon: 0.1
+Episode 783 DONE
+	- score: 9.299999999999999
+	- duration: 4.02087664604187
+	- epsilon: 0.1
+Episode 784 DONE
+	- score: 6.0
+	- duration: 0.8616907596588135
+	- epsilon: 0.1
+Episode 785 DONE
+	- score: 4.6
+	- duration: 7.929080486297607
+	- epsilon: 0.1
+Episode 786 DONE
+	- score: 6.0
+	- duration: 1.000840187072754
+	- epsilon: 0.1
+Episode 787 DONE
+	- score: 5.0
+	- duration: 0.11835670471191406
+	- epsilon: 0.1
+Episode 788 DONE
+	- score: 7.0
+	- duration: 0.3947122097015381
+	- epsilon: 0.1
+Episode 789 DONE
+	- score: 7.8
+	- duration: 5.284608364105225
+	- epsilon: 0.1
+Episode 790 DONE
+	- score: 7.0
+	- duration: 2.678152322769165
+	- epsilon: 0.1
+Episode 791 DONE
+	- score: 7.7
+	- duration: 1.5361840724945068
+	- epsilon: 0.1
+Episode 792 DONE
+	- score: 8.9
+	- duration: 2.5045509338378906
+	- epsilon: 0.1
+Episode 793 DONE
+	- score: 16.400000000000002
+	- duration: 6.572149991989136
+	- epsilon: 0.1
+Episode 794 DONE
+	- score: 6.8
+	- duration: 3.936163902282715
+	- epsilon: 0.1
+Episode 795 DONE
+	- score: 7.299999999999999
+	- duration: 15.845387697219849
+	- epsilon: 0.1
+Episode 796 DONE
+	- score: 10.900000000000004
+	- duration: 16.981807470321655
+	- epsilon: 0.1
+Episode 797 DONE
+	- score: 10.8
+	- duration: 13.636740446090698
+	- epsilon: 0.1
+Episode 798 DONE
+	- score: 9.2
+	- duration: 12.558420896530151
+	- epsilon: 0.1
+Episode 799 DONE
+	- score: 6.9
+	- duration: 1.8093769550323486
+	- epsilon: 0.1
+Episode 800 DONE
+	- score: 14.400000000000011
+	- duration: 23.710089683532715
+	- epsilon: 0.1
+Episode 801 DONE
+	- score: 12.9
+	- duration: 7.268221616744995
+	- epsilon: 0.1
+Episode 802 DONE
+	- score: 13.2
+	- duration: 6.42946457862854
+	- epsilon: 0.1
+Episode 803 DONE
+	- score: 5.7
+	- duration: 4.6130290031433105
+	- epsilon: 0.1
+Episode 804 DONE
+	- score: 8.899999999999999
+	- duration: 6.503288507461548
+	- epsilon: 0.1
+Episode 805 DONE
+	- score: 6.0
+	- duration: 1.6839966773986816
+	- epsilon: 0.1
+Episode 806 DONE
+	- score: 8.8
+	- duration: 2.25886607170105
+	- epsilon: 0.1
+Episode 807 DONE
+	- score: 6.9
+	- duration: 4.654016017913818
+	- epsilon: 0.1
+Episode 808 DONE
+	- score: 8.8
+	- duration: 5.588828802108765
+	- epsilon: 0.1
+Episode 809 DONE
+	- score: 5.8
+	- duration: 8.687484979629517
+	- epsilon: 0.1
+Episode 810 DONE
+	- score: 5.3
+	- duration: 17.44468903541565
+	- epsilon: 0.1
+Episode 811 DONE
+	- score: 6.9
+	- duration: 1.3670177459716797
+	- epsilon: 0.1
+Episode 812 DONE
+	- score: 7.799999999999999
+	- duration: 10.243448495864868
+	- epsilon: 0.1
+Episode 813 DONE
+	- score: 9.399999999999999
+	- duration: 2.657621383666992
+	- epsilon: 0.1
+Episode 814 DONE
+	- score: 5.9
+	- duration: 2.8893182277679443
+	- epsilon: 0.1
+Episode 815 DONE
+	- score: 7.999999999999999
+	- duration: 9.971028327941895
+	- epsilon: 0.1
+Episode 816 DONE
+	- score: 10.8
+	- duration: 7.636092662811279
+	- epsilon: 0.1
+Episode 817 DONE
+	- score: 6.6
+	- duration: 2.553424119949341
+	- epsilon: 0.1
+Episode 818 DONE
+	- score: 5.8
+	- duration: 5.991739988327026
+	- epsilon: 0.1
+Episode 819 DONE
+	- score: 3.9
+	- duration: 10.541709184646606
+	- epsilon: 0.1
+Episode 820 DONE
+	- score: 14.100000000000003
+	- duration: 11.662600994110107
+	- epsilon: 0.1
+Episode 821 DONE
+	- score: 7.299999999999999
+	- duration: 18.316776752471924
+	- epsilon: 0.1
+Episode 822 DONE
+	- score: 6.800000000000006
+	- duration: 17.569836139678955
+	- epsilon: 0.1
+Episode 823 DONE
+	- score: 8.6
+	- duration: 9.080288171768188
+	- epsilon: 0.1
+Episode 824 DONE
+	- score: 9.80000000000001
+	- duration: 28.580084800720215
+	- epsilon: 0.1
+Episode 825 DONE
+	- score: 9.399999999999999
+	- duration: 5.053290605545044
+	- epsilon: 0.1
+Episode 826 DONE
+	- score: 7.6
+	- duration: 16.36319923400879
+	- epsilon: 0.1
+Episode 827 DONE
+	- score: 11.4
+	- duration: 12.593797445297241
+	- epsilon: 0.1
+Episode 828 DONE
+	- score: 7.0
+	- duration: 0.9099524021148682
+	- epsilon: 0.1
+Episode 829 DONE
+	- score: 12.500000000000002
+	- duration: 14.380590677261353
+	- epsilon: 0.1
+Episode 830 DONE
+	- score: 10.399999999999999
+	- duration: 5.634255647659302
+	- epsilon: 0.1
+Episode 831 DONE
+	- score: 5.6
+	- duration: 4.4434814453125
+	- epsilon: 0.1
+Episode 832 DONE
+	- score: 9.1
+	- duration: 7.071396350860596
+	- epsilon: 0.1
+Episode 833 DONE
+	- score: 7.0
+	- duration: 0.8571491241455078
+	- epsilon: 0.1
+Episode 834 DONE
+	- score: 7.8999999999999995
+	- duration: 17.489825010299683
+	- epsilon: 0.1
+Episode 835 DONE
+	- score: 6.0
+	- duration: 0.48928308486938477
+	- epsilon: 0.1
+Episode 836 DONE
+	- score: 5.6000000000000005
+	- duration: 20.013712882995605
+	- epsilon: 0.1
+Episode 837 DONE
+	- score: 10.700000000000003
+	- duration: 8.362263679504395
+	- epsilon: 0.1
+Episode 838 DONE
+	- score: 13.000000000000004
+	- duration: 26.125810384750366
+	- epsilon: 0.1
+Episode 839 DONE
+	- score: 11.800000000000004
+	- duration: 25.900375366210938
+	- epsilon: 0.1
+Episode 840 DONE
+	- score: 7.0
+	- duration: 0.7354114055633545
+	- epsilon: 0.1
+Episode 841 DONE
+	- score: 5.9
+	- duration: 1.5923879146575928
+	- epsilon: 0.1
+Episode 842 DONE
+	- score: 7.7
+	- duration: 5.240559339523315
+	- epsilon: 0.1
+Episode 843 DONE
+	- score: 6.0
+	- duration: 0.8900327682495117
+	- epsilon: 0.1
+Episode 844 DONE
+	- score: 7.599999999999998
+	- duration: 10.965067863464355
+	- epsilon: 0.1
+Episode 845 DONE
+	- score: 7.6
+	- duration: 7.615193843841553
+	- epsilon: 0.1
+Episode 846 DONE
+	- score: 7.0
+	- duration: 6.359761953353882
+	- epsilon: 0.1
+Episode 847 DONE
+	- score: 12.7
+	- duration: 8.451608657836914
+	- epsilon: 0.1
+Episode 848 DONE
+	- score: 0.0
+	- duration: 0.115692138671875
+	- epsilon: 0.1
+Episode 849 DONE
+	- score: 9.400000000000002
+	- duration: 12.514817237854004
+	- epsilon: 0.1
+Episode 850 DONE
+	- score: 15.100000000000003
+	- duration: 18.18403720855713
+	- epsilon: 0.1
+Episode 851 DONE
+	- score: 13.500000000000014
+	- duration: 20.299872636795044
+	- epsilon: 0.1
+Episode 852 DONE
+	- score: 7.0
+	- duration: 0.7622439861297607
+	- epsilon: 0.1
+Episode 853 DONE
+	- score: 7.7
+	- duration: 10.547880411148071
+	- epsilon: 0.1
+Episode 854 DONE
+	- score: 14.100000000000003
+	- duration: 15.111344337463379
+	- epsilon: 0.1
+Episode 855 DONE
+	- score: 8.799999999999999
+	- duration: 20.34929060935974
+	- epsilon: 0.1
+Episode 856 DONE
+	- score: 9.7
+	- duration: 6.625353097915649
+	- epsilon: 0.1
+Episode 857 DONE
+	- score: 8.399999999999999
+	- duration: 7.187666654586792
+	- epsilon: 0.1
+Episode 858 DONE
+	- score: 12.5
+	- duration: 12.133039474487305
+	- epsilon: 0.1
+Episode 859 DONE
+	- score: 7.0
+	- duration: 1.6058063507080078
+	- epsilon: 0.1
+Episode 860 DONE
+	- score: 9.9
+	- duration: 6.536384582519531
+	- epsilon: 0.1
+Episode 861 DONE
+	- score: 9.0
+	- duration: 1.9386777877807617
+	- epsilon: 0.1
+Episode 862 DONE
+	- score: 7.8
+	- duration: 3.3858487606048584
+	- epsilon: 0.1
+Episode 863 DONE
+	- score: 5.4
+	- duration: 5.98464822769165
+	- epsilon: 0.1
+Episode 864 DONE
+	- score: 9.9
+	- duration: 7.374459505081177
+	- epsilon: 0.1
+Episode 865 DONE
+	- score: 7.8
+	- duration: 6.767212152481079
+	- epsilon: 0.1
+Episode 866 DONE
+	- score: 5.9
+	- duration: 1.3885185718536377
+	- epsilon: 0.1
+Episode 867 DONE
+	- score: 0.0
+	- duration: 0.13562607765197754
+	- epsilon: 0.1
+Episode 868 DONE
+	- score: 10.8
+	- duration: 8.722974061965942
+	- epsilon: 0.1
+Episode 869 DONE
+	- score: 9.7
+	- duration: 6.553417682647705
+	- epsilon: 0.1
+Episode 870 DONE
+	- score: 10.399999999999999
+	- duration: 7.756782293319702
+	- epsilon: 0.1
+Episode 871 DONE
+	- score: 7.8
+	- duration: 6.341552019119263
+	- epsilon: 0.1
+Episode 872 DONE
+	- score: 10.3
+	- duration: 12.711635112762451
+	- epsilon: 0.1
+Episode 873 DONE
+	- score: 14.700000000000001
+	- duration: 35.325382709503174
+	- epsilon: 0.1
+Episode 874 DONE
+	- score: 5.0
+	- duration: 0.7847716808319092
+	- epsilon: 0.1
+Episode 875 DONE
+	- score: 6.0
+	- duration: 0.6562438011169434
+	- epsilon: 0.1
+Episode 876 DONE
+	- score: 11.0
+	- duration: 2.7756876945495605
+	- epsilon: 0.1
+Episode 877 DONE
+	- score: 14.100000000000001
+	- duration: 18.410685300827026
+	- epsilon: 0.1
+Episode 878 DONE
+	- score: 8.299999999999999
+	- duration: 17.86724090576172
+	- epsilon: 0.1
+Episode 879 DONE
+	- score: 7.899999999999997
+	- duration: 14.939076900482178
+	- epsilon: 0.1
+Episode 880 DONE
+	- score: 7.0
+	- duration: 3.7904887199401855
+	- epsilon: 0.1
+Episode 881 DONE
+	- score: 9.7
+	- duration: 8.471896409988403
+	- epsilon: 0.1
+Episode 882 DONE
+	- score: 6.699999999999998
+	- duration: 21.65570378303528
+	- epsilon: 0.1
+Episode 883 DONE
+	- score: 8.9
+	- duration: 5.324037551879883
+	- epsilon: 0.1
+Episode 884 DONE
+	- score: 11.7
+	- duration: 28.74127745628357
+	- epsilon: 0.1
+Episode 885 DONE
+	- score: 5.6
+	- duration: 11.22301697731018
+	- epsilon: 0.1
+Episode 886 DONE
+	- score: 0.0
+	- duration: 0.12601613998413086
+	- epsilon: 0.1
+Episode 887 DONE
+	- score: 12.400000000000002
+	- duration: 13.049085855484009
+	- epsilon: 0.1
+Episode 888 DONE
+	- score: 4.8
+	- duration: 11.328303098678589
+	- epsilon: 0.1
+Episode 889 DONE
+	- score: 7.0
+	- duration: 3.424250841140747
+	- epsilon: 0.1
+Episode 890 DONE
+	- score: 8.5
+	- duration: 5.210352897644043
+	- epsilon: 0.1
+Episode 891 DONE
+	- score: 0.0
+	- duration: 0.1445634365081787
+	- epsilon: 0.1
+Episode 892 DONE
+	- score: 7.0
+	- duration: 1.2728006839752197
+	- epsilon: 0.1
+Episode 893 DONE
+	- score: 11.0
+	- duration: 10.243188858032227
+	- epsilon: 0.1
+Episode 894 DONE
+	- score: 6.0
+	- duration: 0.5907595157623291
+	- epsilon: 0.1
+Episode 895 DONE
+	- score: 12.4
+	- duration: 6.917206764221191
+	- epsilon: 0.1
+Episode 896 DONE
+	- score: 7.8
+	- duration: 11.84056806564331
+	- epsilon: 0.1
+Episode 897 DONE
+	- score: 4.199999999999999
+	- duration: 21.986326456069946
+	- epsilon: 0.1
+Episode 898 DONE
+	- score: 8.299999999999999
+	- duration: 16.145652532577515
+	- epsilon: 0.1
+Episode 899 DONE
+	- score: 20.90000000000001
+	- duration: 33.07671332359314
+	- epsilon: 0.1
+Episode 900 DONE
+	- score: 6.0
+	- duration: 2.3464503288269043
+	- epsilon: 0.1
+Episode 901 DONE
+	- score: 6.0
+	- duration: 2.854401111602783
+	- epsilon: 0.1
+Episode 902 DONE
+	- score: 13.900000000000004
+	- duration: 22.939903736114502
+	- epsilon: 0.1
+Episode 903 DONE
+	- score: -3.1999999999999975
+	- duration: 26.40676522254944
+	- epsilon: 0.1
+Episode 904 DONE
+	- score: 14.1
+	- duration: 6.407230854034424
+	- epsilon: 0.1
+Episode 905 DONE
+	- score: 10.0
+	- duration: 2.9267618656158447
+	- epsilon: 0.1
+Episode 906 DONE
+	- score: 0.0
+	- duration: 0.33310484886169434
+	- epsilon: 0.1
+Episode 907 DONE
+	- score: 7.0
+	- duration: 2.2419426441192627
+	- epsilon: 0.1
+Episode 908 DONE
+	- score: 3.9999999999999987
+	- duration: 8.43683385848999
+	- epsilon: 0.1
+Episode 909 DONE
+	- score: 8.9
+	- duration: 13.400996923446655
+	- epsilon: 0.1
+Episode 910 DONE
+	- score: 5.0
+	- duration: 0.7669847011566162
+	- epsilon: 0.1
+Episode 911 DONE
+	- score: 16.400000000000002
+	- duration: 18.08948278427124
+	- epsilon: 0.1
+Episode 912 DONE
+	- score: 1.0000000000000009
+	- duration: 10.374610900878906
+	- epsilon: 0.1
