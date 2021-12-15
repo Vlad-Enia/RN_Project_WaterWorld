@@ -15,7 +15,7 @@ game = WaterWorld(
     height=320, width=320, num_creeps=5
 )  # create our game
 
-fps = 120  # fps we want to run at
+fps = 30  # fps we want to run at
 frame_skip = 1
 num_steps = 1
 force_fps = True
@@ -27,17 +27,17 @@ p.init()
 
 learning_rate = 0.001
 momentum = 0.9
-kernel_reg = l2(1e-5)
+kernel_reg = l2()
 kernel_init = 'he_normal'
 loss_function = Huber()
 optimizer = keras.optimizers.Adam(learning_rate=learning_rate, clipnorm=1.0)
 
 def agent(state_shape, action_shape):
     model = keras.Sequential()
-    model.add(Dense(64, activation='relu', input_shape=(state_shape,), kernel_initializer=kernel_init))
-    model.add(Dense(64, activation='relu', input_shape=(state_shape,), kernel_initializer=kernel_init))
-    model.add(Dense(32, activation='relu', kernel_initializer=kernel_init))
-    model.add(Dense(action_shape, activation='linear', kernel_initializer=keras.initializers.Zeros()))
+    model.add(Dense(100, activation='relu', input_shape=(state_shape,), kernel_regularizer=kernel_reg))
+    model.add(Dense(100, activation='relu', kernel_regularizer=kernel_reg))
+    model.add(Dense(50, activation='relu', kernel_regularizer=kernel_reg))
+    model.add(Dense(action_shape, activation='linear'))
     # model.compile(loss='mean_squared_error', optimizer=keras.optimizers.SGD(learning_rate=learning_rate, momentum=momentum),
     #               metrics=['accuracy'])
     return model
@@ -111,7 +111,7 @@ def preprocess_state(state):
 
 discount_factor = 0.8
 # min_replay_size = 500
-batch_size = 32
+batch_size = 100
 state_shape = len(preprocess_state(p.getGameState()))
 action_shape = len(p.getActionSet())
 
@@ -162,17 +162,17 @@ def train(replay_memory, model, model_target):
 train_episodes = 5000
 frames_per_episode = 1001
 
-epsilon = 1  # we've designed an epsilon policy such that in the first 400 episodes, epsilon goes from max_epsilon to min_epsilon, then, every 300 episodes, we start a mini-exploration phase of 50 episodes
+epsilon = 1  # we've designed an epsilon policy such that in the first 500 episodes, epsilon goes from max_epsilon to min_epsilon, then, every 100 episodes, we start a mini-exploration phase of 50 episodes
 max_epsilon = 1
-min_epsilon = 0.01
-decay = 0.0025      # epsilon goes from max_epsilon to min_epsilon in 400 episodes
+min_epsilon = 0.1
+decay = 0.002      # epsilon goes from max_epsilon to min_epsilon in 500 episodes
 
 action_set = p.getActionSet()
 
 model = agent(state_shape, action_shape)
 target_model = agent(state_shape, action_shape)
 target_model.set_weights(model.get_weights())
-replay_memory = deque(maxlen=10000)
+replay_memory = deque(maxlen=100000)
 
 steps = 0
 
@@ -212,8 +212,8 @@ for episode in range(train_episodes):
         state = next_state
         steps += 1
 
-        # every 500 steps we update the target model
-        if steps >= 500:
+        # every 1000 steps we update the target model
+        if steps >= 1000:
             print('Copying weights from main model to target model...')
             target_model.set_weights(model.get_weights())
             steps = 0
@@ -235,7 +235,7 @@ for episode in range(train_episodes):
     else:
         epsilon = min_epsilon
 
-    if episode > 400 and episode % 300 == 0:
+    if episode > 500 and episode % 100 == 0:
         print("Started mini-exploration")
         epsilon = max_epsilon
         decay = 0.02 # so that epsilon goes from max_epsilon to min_epsilon over the span of 50 episodes
