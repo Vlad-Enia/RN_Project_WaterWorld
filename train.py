@@ -10,7 +10,6 @@ from keras.layers import Dense
 from keras.regularizers import l2
 from keras.losses import Huber
 
-
 game = WaterWorld(
     height=320, width=320, num_creeps=5
 )  # create our game
@@ -26,11 +25,10 @@ p = PLE(game, fps=fps, frame_skip=frame_skip, num_steps=num_steps, force_fps=for
 p.init()
 
 learning_rate = 0.001
-momentum = 0.9
 kernel_reg = l2()
-kernel_init = 'he_normal'
 loss_function = Huber()
 optimizer = keras.optimizers.Adam(learning_rate=learning_rate, clipnorm=1.0)
+
 
 def agent(state_shape, action_shape):
     model = keras.Sequential()
@@ -41,8 +39,6 @@ def agent(state_shape, action_shape):
     # model.compile(loss='mean_squared_error', optimizer=keras.optimizers.SGD(learning_rate=learning_rate, momentum=momentum),
     #               metrics=['accuracy'])
     return model
-
-
 
 
 # def train(replay_memory, model, target_model):
@@ -109,14 +105,15 @@ def preprocess_state(state):
         processed_state.extend([0, 0])
     return np.array(processed_state)
 
+
 discount_factor = 0.8
 # min_replay_size = 500
 batch_size = 100
 state_shape = len(preprocess_state(p.getGameState()))
 action_shape = len(p.getActionSet())
 
-def train(replay_memory, model, model_target):
 
+def train(replay_memory, model, model_target):
     if len(replay_memory) < batch_size:
         return
 
@@ -157,15 +154,13 @@ def train(replay_memory, model, model_target):
     optimizer.apply_gradients(zip(grads, model.trainable_variables))
 
 
-
-
 train_episodes = 5000
 frames_per_episode = 1001
 
-epsilon = 1  # we've designed an epsilon policy such that in the first 500 episodes, epsilon goes from max_epsilon to min_epsilon, then, every 100 episodes, we start a mini-exploration phase of 50 episodes
+epsilon = 1  # we've designed an epsilon policy such that in the first 500 episodes, epsilon goes from max_epsilon to min_epsilon, then, every 100 episodes, we start a mini-exploration phase of 25 episodes
 max_epsilon = 1
 min_epsilon = 0.1
-decay = 0.002      # epsilon goes from max_epsilon to min_epsilon in 500 episodes
+decay = 0.002  # epsilon goes from max_epsilon to min_epsilon in 500 episodes
 
 action_set = p.getActionSet()
 
@@ -238,7 +233,7 @@ for episode in range(train_episodes):
     if episode > 500 and episode % 100 == 0:
         print("Started mini-exploration")
         epsilon = max_epsilon
-        decay = 0.02 # so that epsilon goes from max_epsilon to min_epsilon over the span of 50 episodes
+        decay = 0.02  # so that epsilon goes from max_epsilon to min_epsilon over the span of 25 episodes
 
     model.save("model.h5")
     print("Model saved to disk")
