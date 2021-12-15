@@ -1,0 +1,6263 @@
+C:\Users\eniav\anaconda3\envs\RNENV\python.exe "D:/Facultate/Anul III/Sem I/RN/Lab/RN_Project_WaterWorld/train.py"
+pygame 2.1.0 (SDL 2.0.16, Python 3.7.11)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+couldn't import doomish
+Couldn't import doom
+2021-12-15 14:13:41.556811: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN)to use the following CPU instructions in performance-critical operations:  AVX AVX2
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Copying weights from main model to target model...
+
+Episode 0 
+	- score: -18.50000000000003
+	- duration: 13.29798698425293
+	- epsilon: 1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 1 
+	- score: -21.400000000000045
+	- duration: 14.752688646316528
+	- epsilon: 0.998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 2 
+	- score: -11.89999999999995
+	- duration: 14.71194863319397
+	- epsilon: 0.996
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 3 
+	- score: -12.699999999999964
+	- duration: 14.850669622421265
+	- epsilon: 0.994
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 4 
+	- score: -19.80000000000004
+	- duration: 15.229994535446167
+	- epsilon: 0.992
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 5 
+	- score: -17.899999999999967
+	- duration: 14.980660438537598
+	- epsilon: 0.99
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 6 
+	- score: -17.39999999999998
+	- duration: 15.156907558441162
+	- epsilon: 0.988
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 7 
+	- score: -16.59999999999997
+	- duration: 15.059733390808105
+	- epsilon: 0.986
+Model saved to disk
+Target model saved to disk
+
+Episode 8 DONE
+	- score: -6.399999999999981
+	- duration: 10.38316011428833
+	- epsilon: 0.984
+Model saved to disk
+Target model saved to disk
+
+Episode 9 DONE
+	- score: 0.0
+	- duration: 0.05900239944458008
+	- epsilon: 0.982
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 10 
+	- score: -11.799999999999956
+	- duration: 16.351999044418335
+	- epsilon: 0.98
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 11 
+	- score: -10.099999999999959
+	- duration: 15.888647079467773
+	- epsilon: 0.978
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 12 DONE
+	- score: -12.2
+	- duration: 12.30094289779663
+	- epsilon: 0.976
+Model saved to disk
+Target model saved to disk
+
+Episode 13 DONE
+	- score: -4.299999999999976
+	- duration: 8.345995426177979
+	- epsilon: 0.974
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 14 
+	- score: -11.399999999999954
+	- duration: 15.873884439468384
+	- epsilon: 0.972
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 15 DONE
+	- score: -6.299999999999978
+	- duration: 10.08000373840332
+	- epsilon: 0.97
+Model saved to disk
+Target model saved to disk
+
+Episode 16 DONE
+	- score: 0.0
+	- duration: 0.05699753761291504
+	- epsilon: 0.968
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 17 
+	- score: -23.30000000000003
+	- duration: 15.986998558044434
+	- epsilon: 0.966
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 18 
+	- score: -24.900000000000095
+	- duration: 17.00386643409729
+	- epsilon: 0.964
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 19 DONE
+	- score: -10.500000000000018
+	- duration: 12.035533428192139
+	- epsilon: 0.962
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 20 DONE
+	- score: -13.100000000000033
+	- duration: 14.463994264602661
+	- epsilon: 0.96
+Model saved to disk
+Target model saved to disk
+
+Episode 21 DONE
+	- score: 0.8000000000000025
+	- duration: 4.985968112945557
+	- epsilon: 0.958
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 22 
+	- score: -17.399999999999974
+	- duration: 16.84358501434326
+	- epsilon: 0.956
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 23 
+	- score: -16.799999999999958
+	- duration: 17.148995399475098
+	- epsilon: 0.954
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 24 
+	- score: -19.400000000000055
+	- duration: 16.76868987083435
+	- epsilon: 0.952
+Model saved to disk
+Target model saved to disk
+
+Episode 25 DONE
+	- score: -5.899999999999977
+	- duration: 9.292028188705444
+	- epsilon: 0.95
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 26 
+	- score: -25.700000000000074
+	- duration: 17.17867922782898
+	- epsilon: 0.948
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 27 
+	- score: -14.199999999999957
+	- duration: 17.316076517105103
+	- epsilon: 0.946
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 28 
+	- score: -16.499999999999957
+	- duration: 18.94499444961548
+	- epsilon: 0.944
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 29 
+	- score: -14.799999999999939
+	- duration: 17.854517459869385
+	- epsilon: 0.942
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 30 
+	- score: -18.400000000000006
+	- duration: 17.732483625411987
+	- epsilon: 0.94
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 31 
+	- score: -10.099999999999968
+	- duration: 17.781465768814087
+	- epsilon: 0.938
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 32 DONE
+	- score: -1.2999999999999936
+	- duration: 6.349987268447876
+	- epsilon: 0.9359999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 33 
+	- score: -19.899999999999995
+	- duration: 19.07555055618286
+	- epsilon: 0.9339999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 34 
+	- score: -11.899999999999986
+	- duration: 18.929988145828247
+	- epsilon: 0.9319999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 35 
+	- score: -11.199999999999973
+	- duration: 17.88321280479431
+	- epsilon: 0.9299999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 36 
+	- score: -9.899999999999968
+	- duration: 19.624247789382935
+	- epsilon: 0.9279999999999999
+Model saved to disk
+Target model saved to disk
+
+Episode 37 DONE
+	- score: -1.8999999999999915
+	- duration: 6.204004526138306
+	- epsilon: 0.9259999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 38 
+	- score: -13.699999999999967
+	- duration: 18.07801055908203
+	- epsilon: 0.9239999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 39 
+	- score: -16.499999999999957
+	- duration: 18.044256448745728
+	- epsilon: 0.9219999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 40 
+	- score: -24.500000000000103
+	- duration: 20.995723962783813
+	- epsilon: 0.9199999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 41 DONE
+	- score: -1.3999999999999808
+	- duration: 7.467087030410767
+	- epsilon: 0.9179999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 42 
+	- score: -15.79999999999998
+	- duration: 19.529937505722046
+	- epsilon: 0.9159999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 43 
+	- score: -9.499999999999975
+	- duration: 17.898446798324585
+	- epsilon: 0.9139999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 44 
+	- score: -24.500000000000107
+	- duration: 18.767114400863647
+	- epsilon: 0.9119999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 45 
+	- score: -21.80000000000004
+	- duration: 19.03844380378723
+	- epsilon: 0.9099999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 46 
+	- score: -16.49999999999995
+	- duration: 19.455193281173706
+	- epsilon: 0.9079999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 47 
+	- score: -20.700000000000024
+	- duration: 19.037019968032837
+	- epsilon: 0.9059999999999999
+Model saved to disk
+Target model saved to disk
+
+Episode 48 DONE
+	- score: -3.7999999999999723
+	- duration: 13.150556802749634
+	- epsilon: 0.9039999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 49 
+	- score: -29.200000000000127
+	- duration: 17.822696447372437
+	- epsilon: 0.9019999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 50 
+	- score: -17.599999999999948
+	- duration: 18.289665460586548
+	- epsilon: 0.8999999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 51 DONE
+	- score: 4.599999999999996
+	- duration: 8.53214979171753
+	- epsilon: 0.8979999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 52 
+	- score: -12.999999999999972
+	- duration: 19.871853351593018
+	- epsilon: 0.8959999999999999
+Model saved to disk
+Target model saved to disk
+
+Episode 53 DONE
+	- score: -0.2999999999999883
+	- duration: 7.373443841934204
+	- epsilon: 0.8939999999999999
+Model saved to disk
+Target model saved to disk
+
+Episode 54 DONE
+	- score: 0.9999999999999982
+	- duration: 5.738674640655518
+	- epsilon: 0.8919999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 55 DONE
+	- score: 4.699999999999998
+	- duration: 3.937995195388794
+	- epsilon: 0.8899999999999999
+Model saved to disk
+Target model saved to disk
+
+Episode 56 DONE
+	- score: 0.0
+	- duration: 0.05198550224304199
+	- epsilon: 0.8879999999999999
+Model saved to disk
+Target model saved to disk
+
+Episode 57 DONE
+	- score: -14.200000000000014
+	- duration: 17.051551342010498
+	- epsilon: 0.8859999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 58 
+	- score: -13.299999999999972
+	- duration: 21.638142347335815
+	- epsilon: 0.8839999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 59 
+	- score: -24.100000000000055
+	- duration: 21.270220279693604
+	- epsilon: 0.8819999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 60 
+	- score: -23.800000000000022
+	- duration: 20.872781991958618
+	- epsilon: 0.8799999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 61 
+	- score: -18.399999999999995
+	- duration: 20.79336190223694
+	- epsilon: 0.8779999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 62 
+	- score: -14.399999999999968
+	- duration: 21.062769412994385
+	- epsilon: 0.8759999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 63 
+	- score: -23.600000000000062
+	- duration: 21.49599575996399
+	- epsilon: 0.8739999999999999
+Model saved to disk
+Target model saved to disk
+
+Episode 64 DONE
+	- score: 2.2999999999999976
+	- duration: 2.260815143585205
+	- epsilon: 0.8719999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 65 DONE
+	- score: -16.60000000000007
+	- duration: 19.054754734039307
+	- epsilon: 0.8699999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 66 
+	- score: -14.599999999999945
+	- duration: 21.843003273010254
+	- epsilon: 0.8679999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 67 
+	- score: -22.2
+	- duration: 21.465351819992065
+	- epsilon: 0.8659999999999999
+Model saved to disk
+Target model saved to disk
+
+Episode 68 DONE
+	- score: 0.0
+	- duration: 0.06799912452697754
+	- epsilon: 0.8639999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 69 
+	- score: -22.100000000000062
+	- duration: 22.280585289001465
+	- epsilon: 0.8619999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 70 
+	- score: -11.999999999999961
+	- duration: 22.720717430114746
+	- epsilon: 0.8599999999999999
+Model saved to disk
+Target model saved to disk
+
+Episode 71 DONE
+	- score: 8.299999999999997
+	- duration: 2.937992572784424
+	- epsilon: 0.8579999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 72 
+	- score: -18.700000000000035
+	- duration: 20.943448305130005
+	- epsilon: 0.8559999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 73 
+	- score: -17.399999999999952
+	- duration: 22.808325052261353
+	- epsilon: 0.8539999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 74 DONE
+	- score: -1.399999999999995
+	- duration: 13.827953577041626
+	- epsilon: 0.8519999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 75 
+	- score: -18.400000000000045
+	- duration: 22.16374635696411
+	- epsilon: 0.8499999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 76 DONE
+	- score: -4.999999999999977
+	- duration: 21.137550354003906
+	- epsilon: 0.8479999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 77 
+	- score: -11.799999999999955
+	- duration: 22.05410647392273
+	- epsilon: 0.8459999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 78 
+	- score: -10.899999999999993
+	- duration: 22.371991872787476
+	- epsilon: 0.8439999999999999
+Model saved to disk
+Target model saved to disk
+
+Episode 79 DONE
+	- score: 4.6
+	- duration: 2.6074423789978027
+	- epsilon: 0.8419999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 80 
+	- score: -20.700000000000006
+	- duration: 22.874756813049316
+	- epsilon: 0.8399999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 81 
+	- score: -27.80000000000006
+	- duration: 22.604281425476074
+	- epsilon: 0.8379999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 82 DONE
+	- score: -18.500000000000032
+	- duration: 21.313602209091187
+	- epsilon: 0.8359999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 83 DONE
+	- score: -5.199999999999971
+	- duration: 13.028056621551514
+	- epsilon: 0.8339999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 84 
+	- score: -16.59999999999995
+	- duration: 22.912858724594116
+	- epsilon: 0.8319999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 85 
+	- score: -9.299999999999978
+	- duration: 24.382206678390503
+	- epsilon: 0.8299999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 86 DONE
+	- score: -7.1999999999999655
+	- duration: 16.08401083946228
+	- epsilon: 0.8279999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 87 
+	- score: -21.000000000000036
+	- duration: 26.026652574539185
+	- epsilon: 0.8259999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 88 
+	- score: -7.000000000000005
+	- duration: 22.808850049972534
+	- epsilon: 0.8239999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 89 DONE
+	- score: 0.7000000000000135
+	- duration: 19.864062070846558
+	- epsilon: 0.8219999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 90 
+	- score: -22.000000000000036
+	- duration: 24.084113359451294
+	- epsilon: 0.8199999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 91 DONE
+	- score: 0.6000000000000032
+	- duration: 6.272002220153809
+	- epsilon: 0.8179999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 92 DONE
+	- score: 6.0
+	- duration: 0.3862597942352295
+	- epsilon: 0.8159999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 93 DONE
+	- score: -1.9999999999999822
+	- duration: 11.227580547332764
+	- epsilon: 0.8139999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 94 DONE
+	- score: 6.1000000000000005
+	- duration: 2.757997751235962
+	- epsilon: 0.8119999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 95 DONE
+	- score: -2.6999999999999886
+	- duration: 13.221668243408203
+	- epsilon: 0.8099999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 96 DONE
+	- score: -5.299999999999979
+	- duration: 17.846614837646484
+	- epsilon: 0.8079999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 97 
+	- score: -1.6000000000000023
+	- duration: 26.219288110733032
+	- epsilon: 0.8059999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 98 
+	- score: -10.699999999999969
+	- duration: 27.332749366760254
+	- epsilon: 0.8039999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 99 DONE
+	- score: 3.9000000000000012
+	- duration: 16.112075805664062
+	- epsilon: 0.8019999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 100 
+	- score: -8.099999999999984
+	- duration: 25.66361165046692
+	- epsilon: 0.7999999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 101 DONE
+	- score: -4.399999999999993
+	- duration: 12.540000677108765
+	- epsilon: 0.7979999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 102 DONE
+	- score: 0.0
+	- duration: 0.05099964141845703
+	- epsilon: 0.7959999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 103 DONE
+	- score: 4.799999999999998
+	- duration: 11.139003276824951
+	- epsilon: 0.7939999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 104 
+	- score: -11.899999999999977
+	- duration: 24.301172494888306
+	- epsilon: 0.7919999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 105 
+	- score: -7.499999999999988
+	- duration: 25.052863597869873
+	- epsilon: 0.7899999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 106 DONE
+	- score: 3.5000000000000036
+	- duration: 13.529218912124634
+	- epsilon: 0.7879999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 107 
+	- score: -2.699999999999997
+	- duration: 26.447476387023926
+	- epsilon: 0.7859999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 108 DONE
+	- score: 4.7
+	- duration: 3.6375465393066406
+	- epsilon: 0.7839999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 109 DONE
+	- score: 8.4
+	- duration: 5.662996292114258
+	- epsilon: 0.7819999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 110 
+	- score: 2.1999999999999975
+	- duration: 24.53853702545166
+	- epsilon: 0.7799999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 111 
+	- score: -1.1000000000000019
+	- duration: 24.50470471382141
+	- epsilon: 0.7779999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 112 DONE
+	- score: -1.2999999999999723
+	- duration: 18.29376244544983
+	- epsilon: 0.7759999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 113 DONE
+	- score: 5.1
+	- duration: 6.172071218490601
+	- epsilon: 0.7739999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 114 DONE
+	- score: 6.0
+	- duration: 0.9120149612426758
+	- epsilon: 0.7719999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 115 
+	- score: -7.499999999999984
+	- duration: 24.97589659690857
+	- epsilon: 0.7699999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 116 DONE
+	- score: 4.9
+	- duration: 2.9269967079162598
+	- epsilon: 0.7679999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 117 
+	- score: -10.099999999999971
+	- duration: 26.5607647895813
+	- epsilon: 0.7659999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 118 
+	- score: 0.40000000000000546
+	- duration: 26.453270196914673
+	- epsilon: 0.7639999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 119 DONE
+	- score: 3.8
+	- duration: 1.7435612678527832
+	- epsilon: 0.7619999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 120 DONE
+	- score: 9.399999999999995
+	- duration: 8.971941709518433
+	- epsilon: 0.7599999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 121 DONE
+	- score: -5.299999999999985
+	- duration: 20.811092376708984
+	- epsilon: 0.7579999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 122 DONE
+	- score: -1.9999999999999973
+	- duration: 13.712593078613281
+	- epsilon: 0.7559999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 123 DONE
+	- score: 12.200000000000005
+	- duration: 13.36233377456665
+	- epsilon: 0.7539999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 124 
+	- score: -10.099999999999996
+	- duration: 24.782342433929443
+	- epsilon: 0.7519999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 125 DONE
+	- score: 2.9999999999999996
+	- duration: 4.999002933502197
+	- epsilon: 0.7499999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 126 DONE
+	- score: 10.3
+	- duration: 7.338740110397339
+	- epsilon: 0.7479999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 127 DONE
+	- score: 8.7
+	- duration: 3.2699999809265137
+	- epsilon: 0.7459999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 128 
+	- score: -4.499999999999984
+	- duration: 28.285544872283936
+	- epsilon: 0.7439999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 129 DONE
+	- score: 6.300000000000004
+	- duration: 26.13499641418457
+	- epsilon: 0.7419999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 130 DONE
+	- score: 10.300000000000006
+	- duration: 11.453024864196777
+	- epsilon: 0.7399999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 131 DONE
+	- score: 0.9000000000000092
+	- duration: 16.200348377227783
+	- epsilon: 0.7379999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 132 DONE
+	- score: 7.899999999999999
+	- duration: 14.235623598098755
+	- epsilon: 0.7359999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 133 DONE
+	- score: 6.5
+	- duration: 7.028804540634155
+	- epsilon: 0.7339999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 134 DONE
+	- score: 6.599999999999998
+	- duration: 11.439974546432495
+	- epsilon: 0.7319999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 135 DONE
+	- score: 6.0
+	- duration: 1.438993215560913
+	- epsilon: 0.7299999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 136 
+	- score: -3.9999999999999982
+	- duration: 27.496862411499023
+	- epsilon: 0.7279999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 137 DONE
+	- score: 9.80000000000002
+	- duration: 19.078614234924316
+	- epsilon: 0.7259999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 138 DONE
+	- score: 3.6999999999999997
+	- duration: 2.7979938983917236
+	- epsilon: 0.7239999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 139 DONE
+	- score: 3.699999999999999
+	- duration: 9.938997983932495
+	- epsilon: 0.7219999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 140 DONE
+	- score: 5.8999999999999995
+	- duration: 17.0482075214386
+	- epsilon: 0.7199999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 141 DONE
+	- score: 14.499999999999998
+	- duration: 20.869582176208496
+	- epsilon: 0.7179999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 142 DONE
+	- score: 9.899999999999999
+	- duration: 5.594000816345215
+	- epsilon: 0.7159999999999997
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 143 
+	- score: -1.0999999999999965
+	- duration: 29.952682971954346
+	- epsilon: 0.7139999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 144 DONE
+	- score: 11.900000000000007
+	- duration: 8.463535070419312
+	- epsilon: 0.7119999999999997
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 145 DONE
+	- score: 4.199999999999999
+	- duration: 13.693587064743042
+	- epsilon: 0.7099999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 146 DONE
+	- score: 10.1
+	- duration: 4.666999340057373
+	- epsilon: 0.7079999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 147 DONE
+	- score: 5.799999999999999
+	- duration: 4.29100227355957
+	- epsilon: 0.7059999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 148 DONE
+	- score: 2.3999999999999995
+	- duration: 3.6533796787261963
+	- epsilon: 0.7039999999999997
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 149 DONE
+	- score: 17.10000000000001
+	- duration: 15.56575632095337
+	- epsilon: 0.7019999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 150 DONE
+	- score: 5.899999999999999
+	- duration: 6.724999666213989
+	- epsilon: 0.6999999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 151 DONE
+	- score: 4.899999999999999
+	- duration: 7.108736276626587
+	- epsilon: 0.6979999999999997
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 152 
+	- score: 2.2000000000000015
+	- duration: 31.80788826942444
+	- epsilon: 0.6959999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 153 DONE
+	- score: 9.2
+	- duration: 4.659999847412109
+	- epsilon: 0.6939999999999997
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 154 DONE
+	- score: 1.9999999999999973
+	- duration: 10.002303123474121
+	- epsilon: 0.6919999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 155 DONE
+	- score: 6.0
+	- duration: 0.40296316146850586
+	- epsilon: 0.6899999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 156 DONE
+	- score: 7.999999999999998
+	- duration: 9.87312936782837
+	- epsilon: 0.6879999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 157 DONE
+	- score: 10.200000000000006
+	- duration: 9.20581865310669
+	- epsilon: 0.6859999999999997
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 158 DONE
+	- score: 12.800000000000004
+	- duration: 16.987553596496582
+	- epsilon: 0.6839999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 159 DONE
+	- score: 4.8
+	- duration: 1.8728773593902588
+	- epsilon: 0.6819999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 160 DONE
+	- score: 8.6
+	- duration: 2.5659995079040527
+	- epsilon: 0.6799999999999997
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 161 DONE
+	- score: 0.09999999999999787
+	- duration: 20.65160036087036
+	- epsilon: 0.6779999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 162 DONE
+	- score: 5.799999999999997
+	- duration: 12.536001205444336
+	- epsilon: 0.6759999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 163 DONE
+	- score: 5.3
+	- duration: 2.505628824234009
+	- epsilon: 0.6739999999999997
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 164 DONE
+	- score: 5.8
+	- duration: 22.122466802597046
+	- epsilon: 0.6719999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 165 DONE
+	- score: 3.499999999999997
+	- duration: 17.559619188308716
+	- epsilon: 0.6699999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 166 DONE
+	- score: 0.0
+	- duration: 0.05500221252441406
+	- epsilon: 0.6679999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 167 DONE
+	- score: 6.2
+	- duration: 1.748995065689087
+	- epsilon: 0.6659999999999997
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 168 DONE
+	- score: 8.399999999999999
+	- duration: 10.634193897247314
+	- epsilon: 0.6639999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 169 DONE
+	- score: 12.3
+	- duration: 9.891749858856201
+	- epsilon: 0.6619999999999997
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 170 DONE
+	- score: 6.999999999999999
+	- duration: 19.603326320648193
+	- epsilon: 0.6599999999999997
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 171 
+	- score: 2.5000000000000084
+	- duration: 31.63431406021118
+	- epsilon: 0.6579999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 172 DONE
+	- score: 5.4
+	- duration: 1.8800008296966553
+	- epsilon: 0.6559999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 173 DONE
+	- score: 0.0
+	- duration: 0.06400156021118164
+	- epsilon: 0.6539999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 174 DONE
+	- score: 6.6
+	- duration: 5.46399712562561
+	- epsilon: 0.6519999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 175 DONE
+	- score: 5.9
+	- duration: 0.7590057849884033
+	- epsilon: 0.6499999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 176 DONE
+	- score: 8.499999999999998
+	- duration: 20.754069089889526
+	- epsilon: 0.6479999999999997
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 177 DONE
+	- score: 5.099999999999999
+	- duration: 21.78472113609314
+	- epsilon: 0.6459999999999997
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 178 DONE
+	- score: 13.600000000000012
+	- duration: 22.938395500183105
+	- epsilon: 0.6439999999999997
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 179 
+	- score: 7.600000000000012
+	- duration: 31.08883786201477
+	- epsilon: 0.6419999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 180 DONE
+	- score: 7.0
+	- duration: 1.383603572845459
+	- epsilon: 0.6399999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 181 DONE
+	- score: 2.699999999999999
+	- duration: 3.9481096267700195
+	- epsilon: 0.6379999999999997
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 182 DONE
+	- score: 4.6999999999999975
+	- duration: 20.539467096328735
+	- epsilon: 0.6359999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 183 DONE
+	- score: 7.0
+	- duration: 3.59198260307312
+	- epsilon: 0.6339999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 184 DONE
+	- score: 2.799999999999998
+	- duration: 8.89271092414856
+	- epsilon: 0.6319999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 185 DONE
+	- score: 4.6
+	- duration: 6.6960015296936035
+	- epsilon: 0.6299999999999997
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 186 DONE
+	- score: 20.400000000000006
+	- duration: 16.42518973350525
+	- epsilon: 0.6279999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 187 DONE
+	- score: 2.5999999999999983
+	- duration: 8.523998498916626
+	- epsilon: 0.6259999999999997
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 188 DONE
+	- score: 17.000000000000007
+	- duration: 16.34745693206787
+	- epsilon: 0.6239999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 189 DONE
+	- score: 7.9
+	- duration: 2.461623191833496
+	- epsilon: 0.6219999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 190 DONE
+	- score: 9.8
+	- duration: 2.618001699447632
+	- epsilon: 0.6199999999999997
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 191 DONE
+	- score: 0.3000000000000167
+	- duration: 32.15418004989624
+	- epsilon: 0.6179999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 192 DONE
+	- score: 10.4
+	- duration: 4.664506435394287
+	- epsilon: 0.6159999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 193 DONE
+	- score: 7.6
+	- duration: 3.148991584777832
+	- epsilon: 0.6139999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 194 DONE
+	- score: 5.2
+	- duration: 7.347992658615112
+	- epsilon: 0.6119999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 195 DONE
+	- score: 9.200000000000005
+	- duration: 8.548004865646362
+	- epsilon: 0.6099999999999997
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 196 DONE
+	- score: 5.699999999999999
+	- duration: 23.07863712310791
+	- epsilon: 0.6079999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 197 DONE
+	- score: 0.0
+	- duration: 0.05399894714355469
+	- epsilon: 0.6059999999999997
+Model saved to disk
+Target model saved to disk
+
+Episode 198 DONE
+	- score: 7.0
+	- duration: 1.4829974174499512
+	- epsilon: 0.6039999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 199 DONE
+	- score: 5.1
+	- duration: 4.7481606006622314
+	- epsilon: 0.6019999999999996
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 200 DONE
+	- score: 10.3
+	- duration: 7.054614067077637
+	- epsilon: 0.5999999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 201 DONE
+	- score: 7.0
+	- duration: 8.172995567321777
+	- epsilon: 0.5979999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 202 DONE
+	- score: 8.5
+	- duration: 8.547500133514404
+	- epsilon: 0.5959999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 203 DONE
+	- score: 8.299999999999997
+	- duration: 9.44900131225586
+	- epsilon: 0.5939999999999996
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 204 DONE
+	- score: 4.9
+	- duration: 4.841000318527222
+	- epsilon: 0.5919999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 205 DONE
+	- score: 4.6
+	- duration: 7.055398941040039
+	- epsilon: 0.5899999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 206 DONE
+	- score: 2.1999999999999993
+	- duration: 5.831997871398926
+	- epsilon: 0.5879999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 207 DONE
+	- score: 5.8
+	- duration: 11.855431079864502
+	- epsilon: 0.5859999999999996
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 208 
+	- score: -7.299999999999995
+	- duration: 34.47943186759949
+	- epsilon: 0.5839999999999996
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 209 DONE
+	- score: 4.5
+	- duration: 23.154850721359253
+	- epsilon: 0.5819999999999996
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 210 
+	- score: -5.1
+	- duration: 34.357205867767334
+	- epsilon: 0.5799999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 211 DONE
+	- score: 5.1000000000000005
+	- duration: 6.077371120452881
+	- epsilon: 0.5779999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 212 DONE
+	- score: 11.000000000000002
+	- duration: 6.4419944286346436
+	- epsilon: 0.5759999999999996
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 213 
+	- score: -5.899999999999995
+	- duration: 33.604315996170044
+	- epsilon: 0.5739999999999996
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 214 DONE
+	- score: 13.200000000000005
+	- duration: 13.590285539627075
+	- epsilon: 0.5719999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 215 DONE
+	- score: 7.599999999999999
+	- duration: 3.4247946739196777
+	- epsilon: 0.5699999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 216 DONE
+	- score: 5.4
+	- duration: 1.7029953002929688
+	- epsilon: 0.5679999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 217 DONE
+	- score: 5.099999999999999
+	- duration: 14.189003229141235
+	- epsilon: 0.5659999999999996
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 218 DONE
+	- score: 6.499999999999998
+	- duration: 28.01632022857666
+	- epsilon: 0.5639999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 219 DONE
+	- score: 7.299999999999997
+	- duration: 13.182302713394165
+	- epsilon: 0.5619999999999996
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 220 DONE
+	- score: 20.400000000000006
+	- duration: 13.413660526275635
+	- epsilon: 0.5599999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 221 DONE
+	- score: 5.7
+	- duration: 4.855944871902466
+	- epsilon: 0.5579999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 222 DONE
+	- score: 3.8
+	- duration: 5.393003940582275
+	- epsilon: 0.5559999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 223 DONE
+	- score: 8.399999999999999
+	- duration: 5.590007305145264
+	- epsilon: 0.5539999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 224 DONE
+	- score: 8.9
+	- duration: 1.6794707775115967
+	- epsilon: 0.5519999999999996
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 225 DONE
+	- score: 9.500000000000004
+	- duration: 18.604946851730347
+	- epsilon: 0.5499999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 226 DONE
+	- score: 3.899999999999999
+	- duration: 11.082363605499268
+	- epsilon: 0.5479999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 227 DONE
+	- score: 6.5
+	- duration: 5.6230223178863525
+	- epsilon: 0.5459999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 228 DONE
+	- score: 7.6
+	- duration: 3.710566282272339
+	- epsilon: 0.5439999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 229 DONE
+	- score: 9.899999999999999
+	- duration: 6.5360026359558105
+	- epsilon: 0.5419999999999996
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 230 DONE
+	- score: 6.5
+	- duration: 8.979777097702026
+	- epsilon: 0.5399999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 231 DONE
+	- score: 7.4
+	- duration: 9.58234429359436
+	- epsilon: 0.5379999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 232 DONE
+	- score: 6.0
+	- duration: 0.44699788093566895
+	- epsilon: 0.5359999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 233 DONE
+	- score: 6.0
+	- duration: 2.3529927730560303
+	- epsilon: 0.5339999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 234 DONE
+	- score: 11.1
+	- duration: 9.396528244018555
+	- epsilon: 0.5319999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 235 DONE
+	- score: 7.999999999999998
+	- duration: 16.044373989105225
+	- epsilon: 0.5299999999999996
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 236 DONE
+	- score: 7.099999999999998
+	- duration: 21.55381155014038
+	- epsilon: 0.5279999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 237 DONE
+	- score: 6.0
+	- duration: 0.5459845066070557
+	- epsilon: 0.5259999999999996
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 238 DONE
+	- score: 4.399999999999999
+	- duration: 22.092060565948486
+	- epsilon: 0.5239999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 239 DONE
+	- score: 6.7
+	- duration: 1.394005537033081
+	- epsilon: 0.5219999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 240 DONE
+	- score: 7.899999999999998
+	- duration: 14.40499758720398
+	- epsilon: 0.5199999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 241 DONE
+	- score: 5.999999999999999
+	- duration: 8.486993312835693
+	- epsilon: 0.5179999999999996
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 242 DONE
+	- score: 12.500000000000002
+	- duration: 11.306755304336548
+	- epsilon: 0.5159999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 243 DONE
+	- score: 8.399999999999999
+	- duration: 2.8150062561035156
+	- epsilon: 0.5139999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 244 DONE
+	- score: 6.899999999999998
+	- duration: 11.13644027709961
+	- epsilon: 0.5119999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 245 DONE
+	- score: 12.5
+	- duration: 14.169092655181885
+	- epsilon: 0.5099999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 246 DONE
+	- score: 7.5
+	- duration: 3.450223922729492
+	- epsilon: 0.5079999999999996
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 247 DONE
+	- score: 4.9
+	- duration: 7.778265714645386
+	- epsilon: 0.5059999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 248 DONE
+	- score: 7.0
+	- duration: 0.630997896194458
+	- epsilon: 0.5039999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 249 DONE
+	- score: 6.5
+	- duration: 2.80100154876709
+	- epsilon: 0.5019999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 250 DONE
+	- score: 0.3000000000000149
+	- duration: 28.489041566848755
+	- epsilon: 0.49999999999999956
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 251 DONE
+	- score: 5.5
+	- duration: 8.360183477401733
+	- epsilon: 0.49799999999999955
+Model saved to disk
+Target model saved to disk
+
+Episode 252 DONE
+	- score: 8.0
+	- duration: 0.5679984092712402
+	- epsilon: 0.49599999999999955
+Model saved to disk
+Target model saved to disk
+
+Episode 253 DONE
+	- score: 7.1
+	- duration: 4.252997398376465
+	- epsilon: 0.49399999999999955
+Model saved to disk
+Target model saved to disk
+
+Episode 254 DONE
+	- score: 5.9
+	- duration: 5.053002595901489
+	- epsilon: 0.49199999999999955
+Model saved to disk
+Target model saved to disk
+
+Episode 255 DONE
+	- score: 4.399999999999999
+	- duration: 10.092001676559448
+	- epsilon: 0.48999999999999955
+Model saved to disk
+Target model saved to disk
+
+Episode 256 DONE
+	- score: 7.7
+	- duration: 2.2095978260040283
+	- epsilon: 0.48799999999999955
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 257 DONE
+	- score: 2.699999999999996
+	- duration: 27.558894157409668
+	- epsilon: 0.48599999999999954
+Model saved to disk
+Target model saved to disk
+
+Episode 258 DONE
+	- score: 13.400000000000002
+	- duration: 17.98971939086914
+	- epsilon: 0.48399999999999954
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 259 DONE
+	- score: 11.700000000000008
+	- duration: 9.446322441101074
+	- epsilon: 0.48199999999999954
+Model saved to disk
+Target model saved to disk
+
+Episode 260 DONE
+	- score: 7.899999999999999
+	- duration: 9.960992336273193
+	- epsilon: 0.47999999999999954
+Model saved to disk
+Target model saved to disk
+
+Episode 261 DONE
+	- score: 8.399999999999999
+	- duration: 20.007911682128906
+	- epsilon: 0.47799999999999954
+Model saved to disk
+Target model saved to disk
+
+Episode 262 DONE
+	- score: 5.8
+	- duration: 4.082995176315308
+	- epsilon: 0.47599999999999953
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 263 
+	- score: -2.2000000000000046
+	- duration: 39.09933376312256
+	- epsilon: 0.47399999999999953
+Model saved to disk
+Target model saved to disk
+
+Episode 264 DONE
+	- score: 7.8
+	- duration: 2.012075185775757
+	- epsilon: 0.47199999999999953
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 265 DONE
+	- score: 8.599999999999996
+	- duration: 22.611781120300293
+	- epsilon: 0.46999999999999953
+Model saved to disk
+Target model saved to disk
+
+Episode 266 DONE
+	- score: 10.599999999999998
+	- duration: 8.244173526763916
+	- epsilon: 0.4679999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 267 DONE
+	- score: 7.399999999999997
+	- duration: 6.2250001430511475
+	- epsilon: 0.4659999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 268 DONE
+	- score: 9.7
+	- duration: 4.422054290771484
+	- epsilon: 0.4639999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 269 DONE
+	- score: 6.0
+	- duration: 0.8789961338043213
+	- epsilon: 0.4619999999999995
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 270 DONE
+	- score: 6.6
+	- duration: 5.732996940612793
+	- epsilon: 0.4599999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 271 DONE
+	- score: 3.4999999999999982
+	- duration: 12.065723180770874
+	- epsilon: 0.4579999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 272 DONE
+	- score: 6.0
+	- duration: 0.09699726104736328
+	- epsilon: 0.4559999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 273 DONE
+	- score: 6.4
+	- duration: 6.937470436096191
+	- epsilon: 0.4539999999999995
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 274 DONE
+	- score: 7.000000000000002
+	- duration: 27.374666929244995
+	- epsilon: 0.4519999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 275 DONE
+	- score: 6.6
+	- duration: 12.369655132293701
+	- epsilon: 0.4499999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 276 DONE
+	- score: 6.7
+	- duration: 3.136993169784546
+	- epsilon: 0.4479999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 277 DONE
+	- score: 6.299999999999998
+	- duration: 6.383004903793335
+	- epsilon: 0.4459999999999995
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 278 DONE
+	- score: 5.199999999999996
+	- duration: 29.67788290977478
+	- epsilon: 0.4439999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 279 DONE
+	- score: 6.0
+	- duration: 5.595162868499756
+	- epsilon: 0.4419999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 280 DONE
+	- score: 5.4
+	- duration: 2.5129997730255127
+	- epsilon: 0.4399999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 281 DONE
+	- score: 11.5
+	- duration: 3.4796879291534424
+	- epsilon: 0.4379999999999995
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 282 DONE
+	- score: 2.9999999999999973
+	- duration: 9.355994462966919
+	- epsilon: 0.4359999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 283 DONE
+	- score: 3.5
+	- duration: 3.796994209289551
+	- epsilon: 0.4339999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 284 DONE
+	- score: 7.3
+	- duration: 3.741995096206665
+	- epsilon: 0.4319999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 285 DONE
+	- score: 6.8
+	- duration: 7.797783613204956
+	- epsilon: 0.4299999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 286 DONE
+	- score: 10.2
+	- duration: 5.4316651821136475
+	- epsilon: 0.4279999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 287 DONE
+	- score: 5.6
+	- duration: 1.0719969272613525
+	- epsilon: 0.4259999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 288 DONE
+	- score: 10.0
+	- duration: 5.731001615524292
+	- epsilon: 0.4239999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 289 DONE
+	- score: 9.8
+	- duration: 3.054689884185791
+	- epsilon: 0.4219999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 290 DONE
+	- score: 0.0
+	- duration: 0.10048294067382812
+	- epsilon: 0.4199999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 291 DONE
+	- score: 6.6
+	- duration: 1.779517650604248
+	- epsilon: 0.4179999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 292 DONE
+	- score: 4.7
+	- duration: 2.190997362136841
+	- epsilon: 0.4159999999999995
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 293 DONE
+	- score: 7.299999999999997
+	- duration: 13.368999481201172
+	- epsilon: 0.4139999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 294 DONE
+	- score: 11.0
+	- duration: 3.460998058319092
+	- epsilon: 0.4119999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 295 DONE
+	- score: 5.2
+	- duration: 4.439942836761475
+	- epsilon: 0.4099999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 296 DONE
+	- score: 6.7
+	- duration: 2.5210864543914795
+	- epsilon: 0.4079999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 297 DONE
+	- score: 12.900000000000006
+	- duration: 8.15129804611206
+	- epsilon: 0.4059999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 298 DONE
+	- score: 6.0
+	- duration: 0.10298633575439453
+	- epsilon: 0.40399999999999947
+Model saved to disk
+Target model saved to disk
+
+Episode 299 DONE
+	- score: 9.2
+	- duration: 6.479996681213379
+	- epsilon: 0.40199999999999947
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 300 DONE
+	- score: 3.8999999999999977
+	- duration: 11.057533264160156
+	- epsilon: 0.39999999999999947
+Model saved to disk
+Target model saved to disk
+
+Episode 301 DONE
+	- score: 7.199999999999999
+	- duration: 7.135225534439087
+	- epsilon: 0.39799999999999947
+Model saved to disk
+Target model saved to disk
+
+Episode 302 DONE
+	- score: 10.6
+	- duration: 4.299997091293335
+	- epsilon: 0.39599999999999946
+Model saved to disk
+Target model saved to disk
+
+Episode 303 DONE
+	- score: 8.2
+	- duration: 7.514530181884766
+	- epsilon: 0.39399999999999946
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 304 DONE
+	- score: 4.599999999999998
+	- duration: 20.280412673950195
+	- epsilon: 0.39199999999999946
+Model saved to disk
+Target model saved to disk
+
+Episode 305 DONE
+	- score: 3.099999999999997
+	- duration: 15.968507766723633
+	- epsilon: 0.38999999999999946
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 306 DONE
+	- score: 5.299999999999999
+	- duration: 28.97429656982422
+	- epsilon: 0.38799999999999946
+Model saved to disk
+Target model saved to disk
+
+Episode 307 DONE
+	- score: 6.0
+	- duration: 0.9293067455291748
+	- epsilon: 0.38599999999999945
+Model saved to disk
+Target model saved to disk
+
+Episode 308 DONE
+	- score: 7.0
+	- duration: 1.7132868766784668
+	- epsilon: 0.38399999999999945
+Model saved to disk
+Target model saved to disk
+
+Episode 309 DONE
+	- score: 6.7
+	- duration: 3.2472431659698486
+	- epsilon: 0.38199999999999945
+Model saved to disk
+Target model saved to disk
+
+Episode 310 DONE
+	- score: 12.200000000000003
+	- duration: 5.837033033370972
+	- epsilon: 0.37999999999999945
+Model saved to disk
+Target model saved to disk
+
+Episode 311 DONE
+	- score: 11.600000000000005
+	- duration: 5.01615571975708
+	- epsilon: 0.37799999999999945
+Model saved to disk
+Target model saved to disk
+
+Episode 312 DONE
+	- score: 8.799999999999999
+	- duration: 17.894996881484985
+	- epsilon: 0.37599999999999945
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 313 DONE
+	- score: 8.0
+	- duration: 1.1949973106384277
+	- epsilon: 0.37399999999999944
+Model saved to disk
+Target model saved to disk
+
+Episode 314 DONE
+	- score: 7.0
+	- duration: 1.6829891204833984
+	- epsilon: 0.37199999999999944
+Model saved to disk
+Target model saved to disk
+
+Episode 315 DONE
+	- score: 14.200000000000003
+	- duration: 6.257516145706177
+	- epsilon: 0.36999999999999944
+Model saved to disk
+Target model saved to disk
+
+Episode 316 DONE
+	- score: 13.200000000000001
+	- duration: 24.332916975021362
+	- epsilon: 0.36799999999999944
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 317 DONE
+	- score: 10.300000000000008
+	- duration: 16.50032639503479
+	- epsilon: 0.36599999999999944
+Model saved to disk
+Target model saved to disk
+
+Episode 318 DONE
+	- score: 9.100000000000007
+	- duration: 14.900325775146484
+	- epsilon: 0.36399999999999944
+Model saved to disk
+Target model saved to disk
+
+Episode 319 DONE
+	- score: 8.399999999999999
+	- duration: 8.258163213729858
+	- epsilon: 0.36199999999999943
+Model saved to disk
+Target model saved to disk
+
+Episode 320 DONE
+	- score: 12.100000000000003
+	- duration: 7.151196002960205
+	- epsilon: 0.35999999999999943
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 321 DONE
+	- score: 9.3
+	- duration: 8.513811826705933
+	- epsilon: 0.35799999999999943
+Model saved to disk
+Target model saved to disk
+
+Episode 322 DONE
+	- score: 12.5
+	- duration: 5.709991693496704
+	- epsilon: 0.35599999999999943
+Model saved to disk
+Target model saved to disk
+
+Episode 323 DONE
+	- score: 9.5
+	- duration: 13.005255937576294
+	- epsilon: 0.3539999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 324 DONE
+	- score: 6.6
+	- duration: 4.396000146865845
+	- epsilon: 0.3519999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 325 DONE
+	- score: 12.0
+	- duration: 16.981833696365356
+	- epsilon: 0.3499999999999994
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 326 DONE
+	- score: 5.0
+	- duration: 7.9485557079315186
+	- epsilon: 0.3479999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 327 DONE
+	- score: 20.000000000000014
+	- duration: 19.725382804870605
+	- epsilon: 0.3459999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 328 DONE
+	- score: 6.0
+	- duration: 1.735395908355713
+	- epsilon: 0.3439999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 329 DONE
+	- score: 9.2
+	- duration: 5.961996078491211
+	- epsilon: 0.3419999999999994
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 330 DONE
+	- score: 14.300000000000004
+	- duration: 27.467817068099976
+	- epsilon: 0.3399999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 331 DONE
+	- score: 5.599999999999998
+	- duration: 10.344566583633423
+	- epsilon: 0.3379999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 332 DONE
+	- score: 8.8
+	- duration: 3.127012014389038
+	- epsilon: 0.3359999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 333 DONE
+	- score: 8.1
+	- duration: 8.218002796173096
+	- epsilon: 0.3339999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 334 DONE
+	- score: 11.5
+	- duration: 10.347357749938965
+	- epsilon: 0.3319999999999994
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 335 DONE
+	- score: 5.6
+	- duration: 8.016079902648926
+	- epsilon: 0.3299999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 336 DONE
+	- score: 4.400000000000003
+	- duration: 8.975140571594238
+	- epsilon: 0.3279999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 337 DONE
+	- score: 6.8
+	- duration: 12.24299931526184
+	- epsilon: 0.3259999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 338 DONE
+	- score: 8.0
+	- duration: 1.7109975814819336
+	- epsilon: 0.3239999999999994
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 339 DONE
+	- score: 15.900000000000006
+	- duration: 21.408649444580078
+	- epsilon: 0.3219999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 340 DONE
+	- score: 8.6
+	- duration: 3.1880078315734863
+	- epsilon: 0.3199999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 341 DONE
+	- score: 10.8
+	- duration: 3.5359978675842285
+	- epsilon: 0.3179999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 342 DONE
+	- score: 2.8999999999999972
+	- duration: 12.92600154876709
+	- epsilon: 0.3159999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 343 DONE
+	- score: 8.700000000000003
+	- duration: 21.389219760894775
+	- epsilon: 0.3139999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 344 DONE
+	- score: 0.0
+	- duration: 0.09599828720092773
+	- epsilon: 0.3119999999999994
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 345 DONE
+	- score: 6.1
+	- duration: 4.391951560974121
+	- epsilon: 0.3099999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 346 DONE
+	- score: 10.100000000000001
+	- duration: 8.191514253616333
+	- epsilon: 0.3079999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 347 DONE
+	- score: 6.4
+	- duration: 5.203998327255249
+	- epsilon: 0.3059999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 348 DONE
+	- score: 9.100000000000001
+	- duration: 13.992639780044556
+	- epsilon: 0.3039999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 349 DONE
+	- score: 1.3999999999999977
+	- duration: 9.215144872665405
+	- epsilon: 0.3019999999999994
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 350 DONE
+	- score: 9.2
+	- duration: 8.656618356704712
+	- epsilon: 0.2999999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 351 DONE
+	- score: 5.299999999999996
+	- duration: 32.30694031715393
+	- epsilon: 0.2979999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 352 DONE
+	- score: 6.3
+	- duration: 2.615002155303955
+	- epsilon: 0.2959999999999994
+Model saved to disk
+Target model saved to disk
+
+Episode 353 DONE
+	- score: 6.699999999999999
+	- duration: 10.20536756515503
+	- epsilon: 0.2939999999999994
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 354 DONE
+	- score: 10.8
+	- duration: 20.29441738128662
+	- epsilon: 0.29199999999999937
+Model saved to disk
+Target model saved to disk
+
+Episode 355 DONE
+	- score: 7.9
+	- duration: 15.558577060699463
+	- epsilon: 0.28999999999999937
+Model saved to disk
+Target model saved to disk
+
+Episode 356 DONE
+	- score: 8.9
+	- duration: 3.653995990753174
+	- epsilon: 0.28799999999999937
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 357 DONE
+	- score: 10.200000000000005
+	- duration: 15.6498863697052
+	- epsilon: 0.28599999999999937
+Model saved to disk
+Target model saved to disk
+
+Episode 358 DONE
+	- score: 10.600000000000005
+	- duration: 15.733845472335815
+	- epsilon: 0.28399999999999936
+Model saved to disk
+Target model saved to disk
+
+Episode 359 DONE
+	- score: 7.6
+	- duration: 4.879992246627808
+	- epsilon: 0.28199999999999936
+Model saved to disk
+Target model saved to disk
+
+Episode 360 DONE
+	- score: 5.9
+	- duration: 1.413996934890747
+	- epsilon: 0.27999999999999936
+Model saved to disk
+Target model saved to disk
+
+Episode 361 DONE
+	- score: 6.5
+	- duration: 6.797003269195557
+	- epsilon: 0.27799999999999936
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 362 DONE
+	- score: 6.399999999999997
+	- duration: 40.16370129585266
+	- epsilon: 0.27599999999999936
+Model saved to disk
+Target model saved to disk
+
+Episode 363 DONE
+	- score: 9.199999999999998
+	- duration: 17.565017461776733
+	- epsilon: 0.27399999999999936
+Model saved to disk
+Target model saved to disk
+
+Episode 364 DONE
+	- score: 10.9
+	- duration: 2.886002779006958
+	- epsilon: 0.27199999999999935
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 365 DONE
+	- score: 11.800000000000002
+	- duration: 3.772010087966919
+	- epsilon: 0.26999999999999935
+Model saved to disk
+Target model saved to disk
+
+Episode 366 DONE
+	- score: 6.0
+	- duration: 0.21599864959716797
+	- epsilon: 0.26799999999999935
+Model saved to disk
+Target model saved to disk
+
+Episode 367 DONE
+	- score: 10.40000000000001
+	- duration: 18.08844828605652
+	- epsilon: 0.26599999999999935
+Model saved to disk
+Target model saved to disk
+
+Episode 368 DONE
+	- score: 9.1
+	- duration: 5.488045930862427
+	- epsilon: 0.26399999999999935
+Model saved to disk
+Target model saved to disk
+
+Episode 369 DONE
+	- score: 9.3
+	- duration: 16.488601207733154
+	- epsilon: 0.26199999999999934
+Model saved to disk
+Target model saved to disk
+
+Episode 370 DONE
+	- score: 8.9
+	- duration: 3.358579158782959
+	- epsilon: 0.25999999999999934
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 371 DONE
+	- score: 6.199999999999999
+	- duration: 19.371806621551514
+	- epsilon: 0.25799999999999934
+Model saved to disk
+Target model saved to disk
+
+Episode 372 DONE
+	- score: 3.8999999999999972
+	- duration: 12.62106204032898
+	- epsilon: 0.25599999999999934
+Model saved to disk
+Target model saved to disk
+
+Episode 373 DONE
+	- score: 8.899999999999999
+	- duration: 7.580028295516968
+	- epsilon: 0.25399999999999934
+Model saved to disk
+Target model saved to disk
+
+Episode 374 DONE
+	- score: 6.7
+	- duration: 2.0133631229400635
+	- epsilon: 0.25199999999999934
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 375 DONE
+	- score: 10.100000000000001
+	- duration: 14.273282527923584
+	- epsilon: 0.24999999999999933
+Model saved to disk
+Target model saved to disk
+
+Episode 376 DONE
+	- score: 10.0
+	- duration: 10.107405424118042
+	- epsilon: 0.24799999999999933
+Model saved to disk
+Target model saved to disk
+
+Episode 377 DONE
+	- score: 12.000000000000004
+	- duration: 7.930999517440796
+	- epsilon: 0.24599999999999933
+Model saved to disk
+Target model saved to disk
+
+Episode 378 DONE
+	- score: 9.7
+	- duration: 2.201998710632324
+	- epsilon: 0.24399999999999933
+Model saved to disk
+Target model saved to disk
+
+Episode 379 DONE
+	- score: -3.499999999999984
+	- duration: 12.74743914604187
+	- epsilon: 0.24199999999999933
+Model saved to disk
+Target model saved to disk
+
+Episode 380 DONE
+	- score: 5.7
+	- duration: 4.412701845169067
+	- epsilon: 0.23999999999999932
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 381 DONE
+	- score: 25.4
+	- duration: 13.72740650177002
+	- epsilon: 0.23799999999999932
+Model saved to disk
+Target model saved to disk
+
+Episode 382 DONE
+	- score: 8.40000000000001
+	- duration: 31.594998836517334
+	- epsilon: 0.23599999999999932
+Model saved to disk
+Target model saved to disk
+
+Episode 383 DONE
+	- score: 8.2
+	- duration: 11.14099645614624
+	- epsilon: 0.23399999999999932
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 384 DONE
+	- score: 6.400000000000005
+	- duration: 25.049363613128662
+	- epsilon: 0.23199999999999932
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 385 DONE
+	- score: -0.19999999999999574
+	- duration: 33.93640613555908
+	- epsilon: 0.22999999999999932
+Model saved to disk
+Target model saved to disk
+
+Episode 386 DONE
+	- score: 13.900000000000002
+	- duration: 8.461998701095581
+	- epsilon: 0.22799999999999931
+Model saved to disk
+Target model saved to disk
+
+Episode 387 DONE
+	- score: 11.800000000000002
+	- duration: 17.22733783721924
+	- epsilon: 0.2259999999999993
+Model saved to disk
+Target model saved to disk
+
+Episode 388 DONE
+	- score: 0.0
+	- duration: 0.0974888801574707
+	- epsilon: 0.2239999999999993
+Model saved to disk
+Target model saved to disk
+
+Episode 389 DONE
+	- score: 6.0
+	- duration: 0.6411681175231934
+	- epsilon: 0.2219999999999993
+Model saved to disk
+Target model saved to disk
+
+Episode 390 DONE
+	- score: 2.8999999999999986
+	- duration: 18.248790979385376
+	- epsilon: 0.2199999999999993
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 391 DONE
+	- score: 5.2
+	- duration: 2.7459917068481445
+	- epsilon: 0.2179999999999993
+Model saved to disk
+Target model saved to disk
+
+Episode 392 DONE
+	- score: 9.3
+	- duration: 3.9419875144958496
+	- epsilon: 0.2159999999999993
+Model saved to disk
+Target model saved to disk
+
+Episode 393 DONE
+	- score: 7.7
+	- duration: 3.063002109527588
+	- epsilon: 0.2139999999999993
+Model saved to disk
+Target model saved to disk
+
+Episode 394 DONE
+	- score: 7.799999999999999
+	- duration: 7.332006216049194
+	- epsilon: 0.2119999999999993
+Model saved to disk
+Target model saved to disk
+
+Episode 395 DONE
+	- score: 8.2
+	- duration: 9.962624549865723
+	- epsilon: 0.2099999999999993
+Model saved to disk
+Target model saved to disk
+
+Episode 396 DONE
+	- score: 11.599999999999998
+	- duration: 18.762266874313354
+	- epsilon: 0.2079999999999993
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 397 DONE
+	- score: 9.2
+	- duration: 21.7660014629364
+	- epsilon: 0.2059999999999993
+Model saved to disk
+Target model saved to disk
+
+Episode 398 DONE
+	- score: 7.7
+	- duration: 3.9942071437835693
+	- epsilon: 0.2039999999999993
+Model saved to disk
+Target model saved to disk
+
+Episode 399 DONE
+	- score: 8.8
+	- duration: 9.174997806549072
+	- epsilon: 0.2019999999999993
+Model saved to disk
+Target model saved to disk
+
+Episode 400 DONE
+	- score: 5.1
+	- duration: 2.73899245262146
+	- epsilon: 0.1999999999999993
+Model saved to disk
+Target model saved to disk
+
+Episode 401 DONE
+	- score: 7.5
+	- duration: 8.503463983535767
+	- epsilon: 0.1979999999999993
+Model saved to disk
+Target model saved to disk
+
+Episode 402 DONE
+	- score: 8.6
+	- duration: 5.301994562149048
+	- epsilon: 0.19599999999999929
+Model saved to disk
+Target model saved to disk
+
+Episode 403 DONE
+	- score: 6.0
+	- duration: 0.6040029525756836
+	- epsilon: 0.19399999999999928
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 404 DONE
+	- score: 10.100000000000001
+	- duration: 13.283312797546387
+	- epsilon: 0.19199999999999928
+Model saved to disk
+Target model saved to disk
+
+Episode 405 DONE
+	- score: 9.1
+	- duration: 13.047813653945923
+	- epsilon: 0.18999999999999928
+Model saved to disk
+Target model saved to disk
+
+Episode 406 DONE
+	- score: 10.8
+	- duration: 4.101001024246216
+	- epsilon: 0.18799999999999928
+Model saved to disk
+Target model saved to disk
+
+Episode 407 DONE
+	- score: 8.0
+	- duration: 0.7019906044006348
+	- epsilon: 0.18599999999999928
+Model saved to disk
+Target model saved to disk
+
+Episode 408 DONE
+	- score: 9.299999999999999
+	- duration: 3.184995174407959
+	- epsilon: 0.18399999999999928
+Model saved to disk
+Target model saved to disk
+
+Episode 409 DONE
+	- score: 6.7
+	- duration: 5.585993528366089
+	- epsilon: 0.18199999999999927
+Model saved to disk
+Target model saved to disk
+
+Episode 410 DONE
+	- score: 7.999999999999999
+	- duration: 11.193871021270752
+	- epsilon: 0.17999999999999927
+Model saved to disk
+Target model saved to disk
+
+Episode 411 DONE
+	- score: 7.5
+	- duration: 5.592011213302612
+	- epsilon: 0.17799999999999927
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 412 DONE
+	- score: 10.600000000000001
+	- duration: 4.9187493324279785
+	- epsilon: 0.17599999999999927
+Model saved to disk
+Target model saved to disk
+
+Episode 413 DONE
+	- score: 8.9
+	- duration: 2.7099955081939697
+	- epsilon: 0.17399999999999927
+Model saved to disk
+Target model saved to disk
+
+Episode 414 DONE
+	- score: 8.199999999999998
+	- duration: 9.620728492736816
+	- epsilon: 0.17199999999999926
+Model saved to disk
+Target model saved to disk
+
+Episode 415 DONE
+	- score: 7.7
+	- duration: 3.0729992389678955
+	- epsilon: 0.16999999999999926
+Model saved to disk
+Target model saved to disk
+
+Episode 416 DONE
+	- score: 6.9
+	- duration: 1.7260661125183105
+	- epsilon: 0.16799999999999926
+Model saved to disk
+Target model saved to disk
+
+Episode 417 DONE
+	- score: 6.9
+	- duration: 1.4390020370483398
+	- epsilon: 0.16599999999999926
+Model saved to disk
+Target model saved to disk
+
+Episode 418 DONE
+	- score: 8.699999999999998
+	- duration: 25.36681342124939
+	- epsilon: 0.16399999999999926
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 419 DONE
+	- score: 11.900000000000002
+	- duration: 14.678081274032593
+	- epsilon: 0.16199999999999926
+Model saved to disk
+Target model saved to disk
+
+Episode 420 DONE
+	- score: 8.4
+	- duration: 10.633994817733765
+	- epsilon: 0.15999999999999925
+Model saved to disk
+Target model saved to disk
+
+Episode 421 DONE
+	- score: 11.400000000000004
+	- duration: 12.025042533874512
+	- epsilon: 0.15799999999999925
+Model saved to disk
+Target model saved to disk
+
+Episode 422 DONE
+	- score: 7.5
+	- duration: 1.7459595203399658
+	- epsilon: 0.15599999999999925
+Model saved to disk
+Target model saved to disk
+
+Episode 423 DONE
+	- score: 12.200000000000001
+	- duration: 10.769247055053711
+	- epsilon: 0.15399999999999925
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 424 DONE
+	- score: 10.200000000000003
+	- duration: 9.889276504516602
+	- epsilon: 0.15199999999999925
+Model saved to disk
+Target model saved to disk
+
+Episode 425 DONE
+	- score: 7.600000000000007
+	- duration: 21.382547855377197
+	- epsilon: 0.14999999999999925
+Model saved to disk
+Target model saved to disk
+
+Episode 426 DONE
+	- score: 10.9
+	- duration: 3.166001319885254
+	- epsilon: 0.14799999999999924
+Model saved to disk
+Target model saved to disk
+
+Episode 427 DONE
+	- score: 8.8
+	- duration: 2.627004861831665
+	- epsilon: 0.14599999999999924
+Model saved to disk
+Target model saved to disk
+
+Episode 428 DONE
+	- score: 8.4
+	- duration: 5.668004274368286
+	- epsilon: 0.14399999999999924
+Model saved to disk
+Target model saved to disk
+
+Episode 429 DONE
+	- score: 6.2
+	- duration: 5.60000205039978
+	- epsilon: 0.14199999999999924
+Model saved to disk
+Target model saved to disk
+
+Episode 430 DONE
+	- score: 4.999999999999998
+	- duration: 8.555997610092163
+	- epsilon: 0.13999999999999924
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 431 DONE
+	- score: 7.799999999999999
+	- duration: 7.885002613067627
+	- epsilon: 0.13799999999999923
+Model saved to disk
+Target model saved to disk
+
+Episode 432 DONE
+	- score: 5.499999999999999
+	- duration: 17.769610166549683
+	- epsilon: 0.13599999999999923
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 433 DONE
+	- score: -1.6999999999999913
+	- duration: 48.33122110366821
+	- epsilon: 0.13399999999999923
+Model saved to disk
+Target model saved to disk
+
+Episode 434 DONE
+	- score: 6.0
+	- duration: 0.42299604415893555
+	- epsilon: 0.13199999999999923
+Model saved to disk
+Target model saved to disk
+
+Episode 435 DONE
+	- score: 8.299999999999999
+	- duration: 5.091998338699341
+	- epsilon: 0.12999999999999923
+Model saved to disk
+Target model saved to disk
+
+Episode 436 DONE
+	- score: 7.6
+	- duration: 16.440515518188477
+	- epsilon: 0.12799999999999923
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 437 DONE
+	- score: 2.199999999999999
+	- duration: 25.411137342453003
+	- epsilon: 0.12599999999999922
+Model saved to disk
+Target model saved to disk
+
+Episode 438 DONE
+	- score: 0.0
+	- duration: 0.0930032730102539
+	- epsilon: 0.12399999999999922
+Model saved to disk
+Target model saved to disk
+
+Episode 439 DONE
+	- score: 10.700000000000006
+	- duration: 22.248538494110107
+	- epsilon: 0.12199999999999922
+Model saved to disk
+Target model saved to disk
+
+Episode 440 DONE
+	- score: 6.5
+	- duration: 8.708997249603271
+	- epsilon: 0.11999999999999922
+Model saved to disk
+Target model saved to disk
+
+Episode 441 DONE
+	- score: 8.5
+	- duration: 14.639139413833618
+	- epsilon: 0.11799999999999922
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 442 DONE
+	- score: 9.1
+	- duration: 4.197998285293579
+	- epsilon: 0.11599999999999921
+Model saved to disk
+Target model saved to disk
+
+Episode 443 DONE
+	- score: 6.7
+	- duration: 6.6573450565338135
+	- epsilon: 0.11399999999999921
+Model saved to disk
+Target model saved to disk
+
+Episode 444 DONE
+	- score: 12.000000000000004
+	- duration: 6.140180587768555
+	- epsilon: 0.11199999999999921
+Model saved to disk
+Target model saved to disk
+
+Episode 445 DONE
+	- score: 17.5
+	- duration: 8.562280178070068
+	- epsilon: 0.10999999999999921
+Model saved to disk
+Target model saved to disk
+
+Episode 446 DONE
+	- score: 7.0
+	- duration: 0.5589933395385742
+	- epsilon: 0.10799999999999921
+Model saved to disk
+Target model saved to disk
+
+Episode 447 DONE
+	- score: 12.50000000000001
+	- duration: 25.209875106811523
+	- epsilon: 0.1059999999999992
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 448 DONE
+	- score: 8.5
+	- duration: 11.160099983215332
+	- epsilon: 0.1039999999999992
+Model saved to disk
+Target model saved to disk
+
+Episode 449 DONE
+	- score: 5.4
+	- duration: 5.200619459152222
+	- epsilon: 0.1019999999999992
+Model saved to disk
+Target model saved to disk
+
+Episode 450 DONE
+	- score: 11.000000000000004
+	- duration: 15.889840126037598
+	- epsilon: 0.0999999999999992
+Model saved to disk
+Target model saved to disk
+
+Episode 451 DONE
+	- score: 13.100000000000001
+	- duration: 13.756001472473145
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 452 DONE
+	- score: 8.7
+	- duration: 2.083991289138794
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 453 DONE
+	- score: 5.7
+	- duration: 3.3499979972839355
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 454 DONE
+	- score: 8.5
+	- duration: 5.589991569519043
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 455 DONE
+	- score: 6.199999999999998
+	- duration: 19.469828128814697
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 456 DONE
+	- score: 8.8
+	- duration: 4.10322117805481
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 457 DONE
+	- score: 6.0
+	- duration: 0.5830018520355225
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 458 DONE
+	- score: 3.1999999999999957
+	- duration: 24.15760612487793
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 459 DONE
+	- score: 12.800000000000002
+	- duration: 22.530423402786255
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 460 DONE
+	- score: 3.7999999999999985
+	- duration: 5.0510008335113525
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 461 DONE
+	- score: 12.200000000000008
+	- duration: 19.629685878753662
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 462 DONE
+	- score: 0.0
+	- duration: 0.10999846458435059
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 463 DONE
+	- score: 12.5
+	- duration: 9.59700083732605
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 464 DONE
+	- score: 6.7
+	- duration: 5.692010879516602
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 465 DONE
+	- score: 10.50000000000001
+	- duration: 48.645573139190674
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 466 DONE
+	- score: 9.799999999999997
+	- duration: 18.625839710235596
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 467 DONE
+	- score: 10.5
+	- duration: 9.772122621536255
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 468 DONE
+	- score: 7.0
+	- duration: 0.6890034675598145
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 469 DONE
+	- score: 9.1
+	- duration: 11.18999695777893
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 470 DONE
+	- score: 9.7
+	- duration: 4.378998041152954
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 471 DONE
+	- score: 5.7
+	- duration: 5.607523679733276
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 472 DONE
+	- score: 9.2
+	- duration: 9.542995691299438
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 473 DONE
+	- score: 13.800000000000011
+	- duration: 15.741148948669434
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 474 DONE
+	- score: 4.999999999999997
+	- duration: 22.040953397750854
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 475 DONE
+	- score: 6.6
+	- duration: 2.3050010204315186
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 476 DONE
+	- score: 8.0
+	- duration: 1.8043644428253174
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 477 DONE
+	- score: 0.0
+	- duration: 0.10100102424621582
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 478 DONE
+	- score: 5.4
+	- duration: 6.242626428604126
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 479 DONE
+	- score: 10.399999999999999
+	- duration: 6.389001131057739
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 480 DONE
+	- score: 7.0
+	- duration: 1.2140002250671387
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 481 DONE
+	- score: 10.499999999999998
+	- duration: 32.28060293197632
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 482 DONE
+	- score: 10.4
+	- duration: 10.273546934127808
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 483 DONE
+	- score: 7.9
+	- duration: 4.51399564743042
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 484 DONE
+	- score: 6.3
+	- duration: 14.460993766784668
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 485 DONE
+	- score: 12.8
+	- duration: 6.986529111862183
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 486 DONE
+	- score: 9.399999999999999
+	- duration: 5.885995864868164
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 487 DONE
+	- score: 14.9
+	- duration: 8.295509099960327
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 488 DONE
+	- score: 6.6
+	- duration: 9.187414407730103
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 489 DONE
+	- score: 7.0
+	- duration: 0.2409980297088623
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 490 DONE
+	- score: 6.0
+	- duration: 0.4120020866394043
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 491 DONE
+	- score: 8.5
+	- duration: 17.351415872573853
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 492 DONE
+	- score: 13.3
+	- duration: 10.72600269317627
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 493 DONE
+	- score: 6.8
+	- duration: 3.299996852874756
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 494 DONE
+	- score: 6.0
+	- duration: 0.7969958782196045
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 495 DONE
+	- score: 8.899999999999999
+	- duration: 19.12195611000061
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 496 DONE
+	- score: 14.00000000000001
+	- duration: 15.994454383850098
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 497 DONE
+	- score: 3.8
+	- duration: 11.19744062423706
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 498 DONE
+	- score: 21.1
+	- duration: 19.08235764503479
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 499 DONE
+	- score: 10.899999999999999
+	- duration: 15.174018383026123
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 500 DONE
+	- score: 6.8
+	- duration: 4.412994384765625
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 501 DONE
+	- score: 0.0
+	- duration: 0.09698963165283203
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 502 DONE
+	- score: 8.3
+	- duration: 10.715821981430054
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 503 DONE
+	- score: 14.600000000000001
+	- duration: 10.483996152877808
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 504 DONE
+	- score: 10.9
+	- duration: 3.332000732421875
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 505 DONE
+	- score: 9.800000000000004
+	- duration: 13.476435661315918
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 506 DONE
+	- score: 10.100000000000001
+	- duration: 10.557004451751709
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 507 DONE
+	- score: 11.100000000000001
+	- duration: 8.404565811157227
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 508 DONE
+	- score: 9.8
+	- duration: 3.881995677947998
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 509 DONE
+	- score: 14.7
+	- duration: 15.674224138259888
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 510 DONE
+	- score: 5.6999999999999975
+	- duration: 25.66040825843811
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 511 DONE
+	- score: 6.2
+	- duration: 8.031001329421997
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 512 DONE
+	- score: 6.6000000000000005
+	- duration: 12.600811004638672
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 513 DONE
+	- score: 6.9
+	- duration: 8.717921733856201
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 514 DONE
+	- score: 3.499999999999996
+	- duration: 13.964998483657837
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 515 DONE
+	- score: 1.8999999999999986
+	- duration: 13.397777795791626
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 516 DONE
+	- score: -0.5999999999999979
+	- duration: 36.62799596786499
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 517 DONE
+	- score: 12.200000000000001
+	- duration: 11.176404476165771
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 518 DONE
+	- score: 8.2
+	- duration: 6.833014249801636
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 519 DONE
+	- score: 16.0
+	- duration: 26.261001586914062
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 520 DONE
+	- score: 14.0
+	- duration: 18.302201509475708
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 521 DONE
+	- score: 8.7
+	- duration: 6.361651182174683
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 522 DONE
+	- score: 7.7
+	- duration: 1.1329901218414307
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 523 DONE
+	- score: 21.000000000000007
+	- duration: 45.747775077819824
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 524 DONE
+	- score: 11.200000000000003
+	- duration: 9.422997951507568
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 525 DONE
+	- score: 5.0
+	- duration: 16.80211114883423
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 526 DONE
+	- score: 6.7
+	- duration: 10.739746332168579
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 527 DONE
+	- score: 6.7
+	- duration: 8.474994897842407
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 528 DONE
+	- score: 6.7
+	- duration: 10.98641562461853
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 529 DONE
+	- score: 6.0
+	- duration: 0.7719976902008057
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 530 DONE
+	- score: -2.0999999999999908
+	- duration: 42.981382608413696
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 531 DONE
+	- score: -0.39999999999999325
+	- duration: 7.115993499755859
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 532 DONE
+	- score: 8.399999999999995
+	- duration: 13.893535852432251
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 533 DONE
+	- score: 14.600000000000009
+	- duration: 10.53352403640747
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 534 DONE
+	- score: 7.099999999999998
+	- duration: 13.639991521835327
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 535 DONE
+	- score: 7.7
+	- duration: 6.260994911193848
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 536 DONE
+	- score: 15.000000000000004
+	- duration: 12.439998149871826
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 537 DONE
+	- score: 12.900000000000002
+	- duration: 6.596002578735352
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 538 DONE
+	- score: 11.299999999999999
+	- duration: 5.518999814987183
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 539 DONE
+	- score: 7.0
+	- duration: 0.7029929161071777
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 540 DONE
+	- score: 9.4
+	- duration: 4.446000099182129
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 541 DONE
+	- score: 6.099999999999999
+	- duration: 14.954989910125732
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 542 DONE
+	- score: 5.4
+	- duration: 6.333994626998901
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 543 DONE
+	- score: 6.8
+	- duration: 1.692997932434082
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 544 DONE
+	- score: 7.0
+	- duration: 1.9969961643218994
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 545 DONE
+	- score: 7.3999999999999995
+	- duration: 5.1049981117248535
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 546 DONE
+	- score: 6.8999999999999995
+	- duration: 12.008997917175293
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 547 DONE
+	- score: 7.1
+	- duration: 14.353298425674438
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 548 DONE
+	- score: 7.5
+	- duration: 9.573939800262451
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 549 DONE
+	- score: 9.2
+	- duration: 18.429081439971924
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 550 DONE
+	- score: 11.400000000000007
+	- duration: 19.57048487663269
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 551 DONE
+	- score: 8.299999999999999
+	- duration: 15.692525863647461
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 552 DONE
+	- score: 6.499999999999998
+	- duration: 12.949836254119873
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 553 DONE
+	- score: 3.1999999999999997
+	- duration: 9.200120210647583
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 554 DONE
+	- score: 7.0
+	- duration: 1.0959973335266113
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 555 DONE
+	- score: 8.0
+	- duration: 31.461839199066162
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 556 DONE
+	- score: 8.7
+	- duration: 5.252106666564941
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 557 DONE
+	- score: 9.800000000000004
+	- duration: 32.16021466255188
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 558 DONE
+	- score: 7.8
+	- duration: 3.5429961681365967
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 559 DONE
+	- score: 9.7
+	- duration: 6.63905143737793
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 560 DONE
+	- score: 13.5
+	- duration: 6.953467130661011
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 561 DONE
+	- score: 7.099999999999998
+	- duration: 8.08820652961731
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 562 DONE
+	- score: 3.7999999999999994
+	- duration: 25.610002517700195
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 563 DONE
+	- score: 15.100000000000007
+	- duration: 24.57712483406067
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 564 DONE
+	- score: 12.5
+	- duration: 10.578800201416016
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 565 DONE
+	- score: 5.999999999999999
+	- duration: 17.308700561523438
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 566 DONE
+	- score: 10.799999999999999
+	- duration: 5.2757346630096436
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 567 DONE
+	- score: 5.8
+	- duration: 0.9949910640716553
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 568 DONE
+	- score: 7.3
+	- duration: 5.653999328613281
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 569 DONE
+	- score: 11.900000000000002
+	- duration: 20.320566415786743
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 570 DONE
+	- score: 6.7
+	- duration: 3.588618278503418
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 571 DONE
+	- score: 6.0
+	- duration: 0.7530016899108887
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 572 DONE
+	- score: 8.899999999999999
+	- duration: 6.28635048866272
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 573 DONE
+	- score: 6.0
+	- duration: 0.8949987888336182
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 574 DONE
+	- score: 6.0
+	- duration: 0.5259966850280762
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 575 DONE
+	- score: 11.6
+	- duration: 10.390007019042969
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 576 DONE
+	- score: 7.899999999999999
+	- duration: 16.208001613616943
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 577 DONE
+	- score: 0.0
+	- duration: 0.0989999771118164
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 578 DONE
+	- score: 8.5
+	- duration: 4.854999542236328
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 579 DONE
+	- score: -4.6999999999999815
+	- duration: 32.42899441719055
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 580 DONE
+	- score: 10.0
+	- duration: 3.931994676589966
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 581 
+	- score: -34.6000000000001
+	- duration: 56.99601149559021
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 582 DONE
+	- score: 9.9
+	- duration: 2.072997808456421
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 583 DONE
+	- score: 9.5
+	- duration: 4.291997671127319
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 584 DONE
+	- score: 3.8999999999999986
+	- duration: 17.38099956512451
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 585 DONE
+	- score: 9.8
+	- duration: 4.730990886688232
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 586 DONE
+	- score: 7.8
+	- duration: 10.104661226272583
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 587 DONE
+	- score: 4.299999999999996
+	- duration: 35.97910809516907
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 588 DONE
+	- score: 13.600000000000003
+	- duration: 23.307955741882324
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 589 DONE
+	- score: 7.899999999999999
+	- duration: 4.951002597808838
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 590 DONE
+	- score: 6.7
+	- duration: 4.770347833633423
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 591 DONE
+	- score: 9.799999999999997
+	- duration: 23.14798402786255
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 592 DONE
+	- score: 0.0
+	- duration: 0.0969991683959961
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 593 DONE
+	- score: 9.399999999999999
+	- duration: 11.66506552696228
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 594 DONE
+	- score: 8.899999999999999
+	- duration: 27.101560592651367
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 595 DONE
+	- score: 8.8
+	- duration: 3.77099609375
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 596 DONE
+	- score: 9.700000000000001
+	- duration: 21.583996534347534
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 597 DONE
+	- score: 7.199999999999999
+	- duration: 5.821001291275024
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 598 DONE
+	- score: 6.7
+	- duration: 2.475001335144043
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 599 DONE
+	- score: 9.299999999999999
+	- duration: 29.71899962425232
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 600 DONE
+	- score: 9.899999999999999
+	- duration: 6.5439980030059814
+	- epsilon: 0.1
+Started mini-exploration
+Model saved to disk
+Target model saved to disk
+
+Episode 601 DONE
+	- score: 7.699999999999999
+	- duration: 3.032996654510498
+	- epsilon: 0.5
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 602 DONE
+	- score: 9.0
+	- duration: 8.669994115829468
+	- epsilon: 0.48
+Model saved to disk
+Target model saved to disk
+
+Episode 603 DONE
+	- score: 7.0
+	- duration: 0.5449979305267334
+	- epsilon: 0.45999999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 604 DONE
+	- score: 5.5
+	- duration: 9.411677598953247
+	- epsilon: 0.43999999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 605 DONE
+	- score: 9.0
+	- duration: 8.644998788833618
+	- epsilon: 0.41999999999999993
+Model saved to disk
+Target model saved to disk
+
+Episode 606 DONE
+	- score: 6.5
+	- duration: 1.3989923000335693
+	- epsilon: 0.3999999999999999
+Model saved to disk
+Target model saved to disk
+
+Episode 607 DONE
+	- score: 14.100000000000001
+	- duration: 8.571998119354248
+	- epsilon: 0.3799999999999999
+Model saved to disk
+Target model saved to disk
+
+Episode 608 DONE
+	- score: 8.2
+	- duration: 10.905998706817627
+	- epsilon: 0.3599999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 609 DONE
+	- score: 6.3
+	- duration: 29.13039469718933
+	- epsilon: 0.33999999999999986
+Model saved to disk
+Target model saved to disk
+
+Episode 610 DONE
+	- score: 5.699999999999999
+	- duration: 8.39400053024292
+	- epsilon: 0.31999999999999984
+Model saved to disk
+Target model saved to disk
+
+Episode 611 DONE
+	- score: 0.0
+	- duration: 0.0970005989074707
+	- epsilon: 0.2999999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 612 DONE
+	- score: 7.0
+	- duration: 0.6119976043701172
+	- epsilon: 0.2799999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 613 DONE
+	- score: 4.699999999999999
+	- duration: 5.1349968910217285
+	- epsilon: 0.2599999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 614 DONE
+	- score: 11.900000000000002
+	- duration: 8.531999349594116
+	- epsilon: 0.2399999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 615 DONE
+	- score: 4.6999999999999975
+	- duration: 32.83835768699646
+	- epsilon: 0.2199999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 616 DONE
+	- score: 6.799999999999999
+	- duration: 3.7879953384399414
+	- epsilon: 0.19999999999999982
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 617 DONE
+	- score: 5.699999999999999
+	- duration: 18.824790477752686
+	- epsilon: 0.17999999999999983
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 618 
+	- score: -11.19999999999996
+	- duration: 56.61418128013611
+	- epsilon: 0.15999999999999984
+Model saved to disk
+Target model saved to disk
+
+Episode 619 DONE
+	- score: 8.6
+	- duration: 8.062999963760376
+	- epsilon: 0.13999999999999985
+Model saved to disk
+Target model saved to disk
+
+Episode 620 DONE
+	- score: 6.1
+	- duration: 8.175002336502075
+	- epsilon: 0.11999999999999984
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 621 
+	- score: -4.999999999999982
+	- duration: 59.70931315422058
+	- epsilon: 0.09999999999999984
+Model saved to disk
+Target model saved to disk
+
+Episode 622 DONE
+	- score: 2.0000000000000013
+	- duration: 38.79349398612976
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 623 DONE
+	- score: 17.700000000000003
+	- duration: 34.35747528076172
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 624 DONE
+	- score: -1.1999999999999869
+	- duration: 38.766910791397095
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 625 DONE
+	- score: 5.3
+	- duration: 10.50037932395935
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 626 DONE
+	- score: 10.800000000000004
+	- duration: 33.01677370071411
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 627 DONE
+	- score: 5.299999999999999
+	- duration: 19.577254056930542
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 628 DONE
+	- score: 6.0
+	- duration: 2.544063091278076
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 629 DONE
+	- score: 9.700000000000001
+	- duration: 32.60527420043945
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 630 DONE
+	- score: 8.5
+	- duration: 18.709529399871826
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 631 DONE
+	- score: 16.300000000000004
+	- duration: 21.236676454544067
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 632 DONE
+	- score: 7.6
+	- duration: 19.255607843399048
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 633 DONE
+	- score: 7.699999999999999
+	- duration: 6.240997076034546
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 634 DONE
+	- score: 7.9
+	- duration: 2.5939979553222656
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 635 DONE
+	- score: 10.200000000000006
+	- duration: 14.85676908493042
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 636 DONE
+	- score: 7.999999999999998
+	- duration: 9.754734516143799
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 637 DONE
+	- score: 5.499999999999999
+	- duration: 29.09473752975464
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 638 DONE
+	- score: 1.7999999999999963
+	- duration: 46.715068101882935
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 639 DONE
+	- score: 8.3
+	- duration: 6.975468158721924
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 640 DONE
+	- score: 8.2
+	- duration: 12.225393772125244
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 641 DONE
+	- score: 7.5
+	- duration: 8.956615686416626
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 642 DONE
+	- score: 9.000000000000009
+	- duration: 36.84577751159668
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 643 DONE
+	- score: 2.20000000000001
+	- duration: 48.983482122421265
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 644 DONE
+	- score: 7.600000000000001
+	- duration: 31.7364501953125
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 645 DONE
+	- score: 8.9
+	- duration: 1.5104789733886719
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 646 DONE
+	- score: 14.600000000000001
+	- duration: 8.318234920501709
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 647 DONE
+	- score: 11.400000000000006
+	- duration: 14.92801570892334
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 648 DONE
+	- score: 4.4
+	- duration: 13.351006984710693
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 649 DONE
+	- score: 9.9
+	- duration: 6.901049375534058
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 650 DONE
+	- score: 0.0
+	- duration: 0.11899828910827637
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 651 DONE
+	- score: 7.7
+	- duration: 5.034909963607788
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 652 DONE
+	- score: 3.0
+	- duration: 3.9884321689605713
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 653 DONE
+	- score: 14.600000000000001
+	- duration: 8.271002769470215
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 654 DONE
+	- score: 8.8
+	- duration: 2.9149978160858154
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 655 DONE
+	- score: 11.4
+	- duration: 14.121754169464111
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 656 DONE
+	- score: 13.4
+	- duration: 21.33354878425598
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 657 DONE
+	- score: 8.6
+	- duration: 5.008786201477051
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 658 DONE
+	- score: 3.6999999999999997
+	- duration: 17.866844654083252
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 659 DONE
+	- score: 13.3
+	- duration: 12.372836112976074
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 660 DONE
+	- score: 8.7
+	- duration: 12.525992155075073
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 661 DONE
+	- score: 8.9
+	- duration: 4.225586175918579
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 662 DONE
+	- score: 6.0
+	- duration: 0.8259940147399902
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 663 DONE
+	- score: 4.099999999999998
+	- duration: 15.930511951446533
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 664 DONE
+	- score: 6.8
+	- duration: 11.308519840240479
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 665 DONE
+	- score: 11.900000000000002
+	- duration: 18.868200540542603
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 666 DONE
+	- score: 8.899999999999999
+	- duration: 18.28211283683777
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 667 DONE
+	- score: 6.0
+	- duration: 1.101996898651123
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 668 DONE
+	- score: 0.0
+	- duration: 0.053994178771972656
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 669 DONE
+	- score: 0.0
+	- duration: 0.09655499458312988
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 670 DONE
+	- score: 10.9
+	- duration: 4.31724214553833
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 671 DONE
+	- score: 12.200000000000001
+	- duration: 16.44600009918213
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 672 
+	- score: 19.499999999999993
+	- duration: 59.53550696372986
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 673 
+	- score: 4.800000000000006
+	- duration: 61.78391146659851
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 674 DONE
+	- score: 9.6
+	- duration: 7.050997257232666
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 675 DONE
+	- score: 8.7
+	- duration: 8.935266017913818
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 676 DONE
+	- score: 9.7
+	- duration: 12.422550678253174
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 677 DONE
+	- score: 13.500000000000005
+	- duration: 28.881255626678467
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 678 DONE
+	- score: 6.8
+	- duration: 5.620190620422363
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 679 DONE
+	- score: 7.9
+	- duration: 4.416323661804199
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 680 DONE
+	- score: 9.799999999999999
+	- duration: 9.099559307098389
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 681 DONE
+	- score: 9.299999999999999
+	- duration: 9.50065565109253
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 682 DONE
+	- score: 5.499999999999997
+	- duration: 42.21782040596008
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 683 DONE
+	- score: 6.9
+	- duration: 3.852815866470337
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 684 DONE
+	- score: 6.699999999999999
+	- duration: 9.2399582862854
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 685 DONE
+	- score: 6.399999999999999
+	- duration: 12.831685304641724
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 686 DONE
+	- score: 11.2
+	- duration: 9.19063687324524
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 687 DONE
+	- score: 13.500000000000007
+	- duration: 47.855489015579224
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 688 DONE
+	- score: 7.099999999999998
+	- duration: 13.21510910987854
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 689 DONE
+	- score: 10.000000000000007
+	- duration: 17.1690571308136
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 690 DONE
+	- score: 8.9
+	- duration: 3.45599627494812
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 691 DONE
+	- score: 7.9
+	- duration: 2.944995164871216
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 692 DONE
+	- score: 6.0
+	- duration: 2.9719996452331543
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 693 DONE
+	- score: 7.899999999999999
+	- duration: 6.2265238761901855
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 694 DONE
+	- score: 9.300000000000008
+	- duration: 21.821643829345703
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 695 DONE
+	- score: 6.0
+	- duration: 0.10300421714782715
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 696 DONE
+	- score: 11.6
+	- duration: 7.59557318687439
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 697 DONE
+	- score: 8.9
+	- duration: 1.372985601425171
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 698 DONE
+	- score: 7.0
+	- duration: 15.630950212478638
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 699 DONE
+	- score: 14.70000000000001
+	- duration: 26.73993754386902
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 700 DONE
+	- score: 6.099999999999999
+	- duration: 15.980047941207886
+	- epsilon: 0.1
+Started mini-exploration
+Model saved to disk
+Target model saved to disk
+
+Episode 701 DONE
+	- score: 6.0
+	- duration: 0.961998701095581
+	- epsilon: 0.5
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 702 DONE
+	- score: 13.000000000000005
+	- duration: 12.486000776290894
+	- epsilon: 0.48
+Model saved to disk
+Target model saved to disk
+
+Episode 703 DONE
+	- score: 13.800000000000002
+	- duration: 11.662781715393066
+	- epsilon: 0.45999999999999996
+Model saved to disk
+Target model saved to disk
+
+Episode 704 DONE
+	- score: 0.0
+	- duration: 0.10700583457946777
+	- epsilon: 0.43999999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 705 DONE
+	- score: 13.400000000000004
+	- duration: 14.332659244537354
+	- epsilon: 0.41999999999999993
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 706 DONE
+	- score: 14.700000000000001
+	- duration: 16.49360227584839
+	- epsilon: 0.3999999999999999
+Model saved to disk
+Target model saved to disk
+
+Episode 707 DONE
+	- score: 6.399999999999998
+	- duration: 17.11545991897583
+	- epsilon: 0.3799999999999999
+Model saved to disk
+Target model saved to disk
+
+Episode 708 DONE
+	- score: 8.499999999999998
+	- duration: 5.88408637046814
+	- epsilon: 0.3599999999999999
+Model saved to disk
+Target model saved to disk
+
+Episode 709 DONE
+	- score: 13.4
+	- duration: 5.017008304595947
+	- epsilon: 0.33999999999999986
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 710 DONE
+	- score: 10.3
+	- duration: 15.782599925994873
+	- epsilon: 0.31999999999999984
+Model saved to disk
+Target model saved to disk
+
+Episode 711 DONE
+	- score: 10.200000000000006
+	- duration: 21.711278676986694
+	- epsilon: 0.2999999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 712 DONE
+	- score: 8.9
+	- duration: 5.366003036499023
+	- epsilon: 0.2799999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 713 DONE
+	- score: 6.0
+	- duration: 0.7009944915771484
+	- epsilon: 0.2599999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 714 DONE
+	- score: 25.1
+	- duration: 21.806614875793457
+	- epsilon: 0.2399999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 715 DONE
+	- score: -4.699999999999992
+	- duration: 18.473448753356934
+	- epsilon: 0.2199999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 716 DONE
+	- score: 9.700000000000001
+	- duration: 13.396020412445068
+	- epsilon: 0.19999999999999982
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 717 DONE
+	- score: 20.600000000000005
+	- duration: 20.061264514923096
+	- epsilon: 0.17999999999999983
+Model saved to disk
+Target model saved to disk
+
+Episode 718 DONE
+	- score: 10.100000000000012
+	- duration: 27.20006227493286
+	- epsilon: 0.15999999999999984
+Model saved to disk
+Target model saved to disk
+
+Episode 719 DONE
+	- score: 12.2
+	- duration: 5.294996976852417
+	- epsilon: 0.13999999999999985
+Model saved to disk
+Target model saved to disk
+
+Episode 720 DONE
+	- score: 7.0
+	- duration: 3.471579074859619
+	- epsilon: 0.11999999999999984
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 721 DONE
+	- score: 11.800000000000002
+	- duration: 25.405582666397095
+	- epsilon: 0.09999999999999984
+Model saved to disk
+Target model saved to disk
+
+Episode 722 DONE
+	- score: 9.699999999999998
+	- duration: 9.600001335144043
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 723 DONE
+	- score: 9.40000000000001
+	- duration: 24.562389135360718
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 724 DONE
+	- score: 7.699999999999999
+	- duration: 5.121840715408325
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 725 DONE
+	- score: 8.900000000000002
+	- duration: 17.622453451156616
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 726 DONE
+	- score: 6.9
+	- duration: 2.7477352619171143
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 727 DONE
+	- score: 14.500000000000002
+	- duration: 17.009108066558838
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 728 DONE
+	- score: 8.399999999999999
+	- duration: 7.1226770877838135
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 729 DONE
+	- score: 4.699999999999999
+	- duration: 1.4760026931762695
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 730 DONE
+	- score: 13.400000000000011
+	- duration: 37.56622838973999
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 731 DONE
+	- score: 8.799999999999999
+	- duration: 12.473001480102539
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 732 DONE
+	- score: 6.9
+	- duration: 1.9609992504119873
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 733 DONE
+	- score: 6.799999999999999
+	- duration: 11.488995790481567
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 734 DONE
+	- score: 12.700000000000005
+	- duration: 27.510512828826904
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 735 DONE
+	- score: 7.8
+	- duration: 6.120576620101929
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 736 DONE
+	- score: 3.2000000000000015
+	- duration: 13.213022470474243
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 737 DONE
+	- score: 8.1
+	- duration: 14.775610208511353
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 738 DONE
+	- score: 5.0
+	- duration: 0.41800403594970703
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 739 DONE
+	- score: 10.600000000000001
+	- duration: 8.240411520004272
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 740 DONE
+	- score: 9.6
+	- duration: 5.039553165435791
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 741 DONE
+	- score: 8.0
+	- duration: 1.9570035934448242
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 742 DONE
+	- score: 8.0
+	- duration: 0.7669994831085205
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 743 DONE
+	- score: 7.0
+	- duration: 1.5340015888214111
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 744 DONE
+	- score: 6.0
+	- duration: 0.3429985046386719
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 745 DONE
+	- score: 7.199999999999998
+	- duration: 29.295137643814087
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 746 DONE
+	- score: 7.7
+	- duration: 7.160999298095703
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 747 DONE
+	- score: 9.6
+	- duration: 6.587857246398926
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 748 DONE
+	- score: 3.1999999999999935
+	- duration: 32.25736379623413
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 749 DONE
+	- score: 9.7
+	- duration: 7.558574676513672
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 750 DONE
+	- score: 7.299999999999999
+	- duration: 14.321254253387451
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 751 DONE
+	- score: 6.9
+	- duration: 1.2739994525909424
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 752 DONE
+	- score: 9.299999999999999
+	- duration: 15.411911725997925
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 753 DONE
+	- score: 5.4
+	- duration: 6.788999319076538
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 754 DONE
+	- score: 7.899999999999999
+	- duration: 6.261004447937012
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 755 DONE
+	- score: 5.699999999999998
+	- duration: 13.627585172653198
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 756 DONE
+	- score: 11.500000000000007
+	- duration: 27.89911127090454
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 757 DONE
+	- score: 2.4999999999999987
+	- duration: 23.733713626861572
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 758 DONE
+	- score: 8.0
+	- duration: 1.8979918956756592
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 759 DONE
+	- score: 9.200000000000003
+	- duration: 14.084261417388916
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 760 
+	- score: -6.599999999999987
+	- duration: 58.12975001335144
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 761 DONE
+	- score: 6.7
+	- duration: 2.801999568939209
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 762 DONE
+	- score: 8.899999999999999
+	- duration: 8.702935934066772
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 763 DONE
+	- score: 10.2
+	- duration: 6.675175666809082
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 764 DONE
+	- score: 9.699999999999996
+	- duration: 53.94687581062317
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 765 DONE
+	- score: 7.4
+	- duration: 6.884335517883301
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 766 DONE
+	- score: 1.9000000000000004
+	- duration: 10.216187715530396
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 767 DONE
+	- score: 10.2
+	- duration: 12.245997667312622
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 768 DONE
+	- score: 6.1
+	- duration: 12.180038213729858
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 769 DONE
+	- score: 13.600000000000001
+	- duration: 11.709243535995483
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 770 DONE
+	- score: 15.400000000000002
+	- duration: 6.292041063308716
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 771 DONE
+	- score: 14.10000000000001
+	- duration: 9.599997520446777
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 772 DONE
+	- score: 6.2
+	- duration: 4.016995429992676
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 773 DONE
+	- score: 5.5
+	- duration: 10.42104172706604
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 774 DONE
+	- score: 7.499999999999998
+	- duration: 12.482229232788086
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 775 DONE
+	- score: 7.5
+	- duration: 9.804996728897095
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 776 DONE
+	- score: 14.300000000000002
+	- duration: 12.037013530731201
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 777 DONE
+	- score: 7.0
+	- duration: 0.8089933395385742
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 778 DONE
+	- score: 7.099999999999997
+	- duration: 24.934253454208374
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 779 DONE
+	- score: 6.999999999999999
+	- duration: 7.705347299575806
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 780 DONE
+	- score: -1.2999999999999865
+	- duration: 34.37088322639465
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 781 DONE
+	- score: 15.5
+	- duration: 7.159036874771118
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 782 DONE
+	- score: 4.099999999999998
+	- duration: 9.020000457763672
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 783 DONE
+	- score: 8.0
+	- duration: 1.7040011882781982
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 784 DONE
+	- score: 6.6
+	- duration: 4.024083852767944
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 785 DONE
+	- score: 4.7
+	- duration: 13.584584951400757
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 786 DONE
+	- score: 5.199999999999999
+	- duration: 10.44209599494934
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 787 DONE
+	- score: 11.000000000000002
+	- duration: 11.574663162231445
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 788 DONE
+	- score: 10.9
+	- duration: 3.330932140350342
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 789 DONE
+	- score: 12.999999999999996
+	- duration: 17.691008806228638
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 790 DONE
+	- score: 12.100000000000007
+	- duration: 17.90350890159607
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 791 DONE
+	- score: 5.4
+	- duration: 16.432146549224854
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 792 DONE
+	- score: 6.699999999999999
+	- duration: 3.266117811203003
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 793 DONE
+	- score: 9.0
+	- duration: 12.619675874710083
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 794 DONE
+	- score: 6.900000000000011
+	- duration: 21.810628414154053
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 795 DONE
+	- score: 7.0
+	- duration: 0.6854488849639893
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 796 DONE
+	- score: 8.299999999999999
+	- duration: 4.8933796882629395
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 797 DONE
+	- score: 6.9
+	- duration: 3.465100049972534
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 798 DONE
+	- score: 6.6000000000000005
+	- duration: 8.034003257751465
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 799 DONE
+	- score: 5.1
+	- duration: 5.726201772689819
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 800 DONE
+	- score: 5.4
+	- duration: 6.93099045753479
+	- epsilon: 0.1
+Started mini-exploration
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 801 DONE
+	- score: 4.299999999999997
+	- duration: 12.943013906478882
+	- epsilon: 0.5
+Model saved to disk
+Target model saved to disk
+
+Episode 802 DONE
+	- score: 5.9
+	- duration: 1.67099928855896
+	- epsilon: 0.48
+Model saved to disk
+Target model saved to disk
+
+Episode 803 DONE
+	- score: 6.099999999999999
+	- duration: 21.5748872756958
+	- epsilon: 0.45999999999999996
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 804 DONE
+	- score: 3.5999999999999996
+	- duration: 20.83302927017212
+	- epsilon: 0.43999999999999995
+Model saved to disk
+Target model saved to disk
+
+Episode 805 DONE
+	- score: 9.4
+	- duration: 12.927992582321167
+	- epsilon: 0.41999999999999993
+Model saved to disk
+Target model saved to disk
+
+Episode 806 DONE
+	- score: 11.100000000000001
+	- duration: 13.180061340332031
+	- epsilon: 0.3999999999999999
+Model saved to disk
+Target model saved to disk
+
+Episode 807 DONE
+	- score: 9.5
+	- duration: 6.04451847076416
+	- epsilon: 0.3799999999999999
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 808 DONE
+	- score: 12.100000000000005
+	- duration: 18.50483250617981
+	- epsilon: 0.3599999999999999
+Model saved to disk
+Target model saved to disk
+
+Episode 809 DONE
+	- score: 7.0
+	- duration: 9.476536273956299
+	- epsilon: 0.33999999999999986
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 810 DONE
+	- score: 2.1999999999999953
+	- duration: 40.55331826210022
+	- epsilon: 0.31999999999999984
+Model saved to disk
+Target model saved to disk
+
+Episode 811 DONE
+	- score: 7.999999999999999
+	- duration: 19.874508380889893
+	- epsilon: 0.2999999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 812 
+	- score: -17.499999999999986
+	- duration: 52.18361020088196
+	- epsilon: 0.2799999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 813 DONE
+	- score: 4.8
+	- duration: 3.7819595336914062
+	- epsilon: 0.2599999999999998
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 814 DONE
+	- score: 5.399999999999997
+	- duration: 19.52507185935974
+	- epsilon: 0.2399999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 815 DONE
+	- score: 8.2
+	- duration: 13.859509229660034
+	- epsilon: 0.2199999999999998
+Model saved to disk
+Target model saved to disk
+
+Episode 816 DONE
+	- score: 7.6
+	- duration: 4.761210680007935
+	- epsilon: 0.19999999999999982
+Model saved to disk
+Target model saved to disk
+
+Episode 817 DONE
+	- score: 4.3
+	- duration: 15.298638582229614
+	- epsilon: 0.17999999999999983
+Model saved to disk
+Target model saved to disk
+
+Episode 818 DONE
+	- score: 10.299999999999997
+	- duration: 7.416001558303833
+	- epsilon: 0.15999999999999984
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 819 DONE
+	- score: -7.599999999999961
+	- duration: 30.414726972579956
+	- epsilon: 0.13999999999999985
+Model saved to disk
+Target model saved to disk
+
+Episode 820 DONE
+	- score: 5.6999999999999975
+	- duration: 19.69363236427307
+	- epsilon: 0.11999999999999984
+Model saved to disk
+Target model saved to disk
+
+Episode 821 DONE
+	- score: 7.4
+	- duration: 10.659751415252686
+	- epsilon: 0.09999999999999984
+Model saved to disk
+Target model saved to disk
+
+Episode 822 DONE
+	- score: 0.30000000000000426
+	- duration: 8.133985757827759
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 823 DONE
+	- score: 6.0
+	- duration: 1.862989902496338
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 824 DONE
+	- score: 2.7999999999999967
+	- duration: 14.70941162109375
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 825 DONE
+	- score: 6.0
+	- duration: 8.007730484008789
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 826 DONE
+	- score: 2.10000000000001
+	- duration: 22.892759561538696
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 827 DONE
+	- score: 6.8
+	- duration: 7.336999416351318
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 828 DONE
+	- score: 0.0
+	- duration: 0.13600397109985352
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 829 DONE
+	- score: 6.2
+	- duration: 4.639509439468384
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 830 DONE
+	- score: 8.0
+	- duration: 2.404994010925293
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 831 DONE
+	- score: 5.999999999999999
+	- duration: 13.963467121124268
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 832 DONE
+	- score: 10.6
+	- duration: 7.523990869522095
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 833 DONE
+	- score: 6.8
+	- duration: 1.623002290725708
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 834 DONE
+	- score: 8.899999999999999
+	- duration: 15.972281455993652
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 835 DONE
+	- score: 9.600000000000001
+	- duration: 12.928996086120605
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 836 DONE
+	- score: 8.0
+	- duration: 1.2289948463439941
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 837 DONE
+	- score: 5.1
+	- duration: 9.917997598648071
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 838 DONE
+	- score: 6.6
+	- duration: 1.1589972972869873
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 839 DONE
+	- score: 0.0
+	- duration: 0.05299687385559082
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 840 DONE
+	- score: 16.80000000000001
+	- duration: 31.895997524261475
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 841 DONE
+	- score: 7.6
+	- duration: 4.3899924755096436
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 842 DONE
+	- score: 5.4
+	- duration: 8.490993976593018
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 843 DONE
+	- score: 0.0
+	- duration: 0.052994489669799805
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 844 DONE
+	- score: 7.6
+	- duration: 16.610045194625854
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 845 DONE
+	- score: 8.0
+	- duration: 10.673998594284058
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 846 DONE
+	- score: 5.3
+	- duration: 10.078375816345215
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 847 DONE
+	- score: 7.9
+	- duration: 5.524997711181641
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 848 DONE
+	- score: 6.3
+	- duration: 16.975995302200317
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 849 DONE
+	- score: 6.5
+	- duration: 12.040479898452759
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 850 DONE
+	- score: 9.600000000000001
+	- duration: 9.280994653701782
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 851 DONE
+	- score: 14.4
+	- duration: 6.204992771148682
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 852 DONE
+	- score: 3.0999999999999948
+	- duration: 40.46751117706299
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+Copying weights from main model to target model...
+
+Episode 853 DONE
+	- score: 4.099999999999999
+	- duration: 34.977524757385254
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
+
+Episode 854 DONE
+	- score: 8.9
+	- duration: 3.902597188949585
+	- epsilon: 0.1
+Model saved to disk
+Target model saved to disk
