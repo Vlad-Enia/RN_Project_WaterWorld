@@ -1,0 +1,20 @@
+Episode 0
+Episode 0 score: 14.0
+Episode 1
+Episode 1 score: 6.0
+Episode 2
+Episode 2 score: 9.0
+Episode 3
+Episode 3 score: 9.0
+Episode 4
+Episode 4 score: 27.0
+Episode 5
+Episode 5 score: 8.0
+Episode 6
+Episode 6 score: 8.0
+Episode 7
+Episode 7 score: 7.0
+Episode 8
+Episode 8 score: 14.0
+Episode 9
+Episode 9 score: 7.0
