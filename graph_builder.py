@@ -5,7 +5,7 @@ from matplotlib import pyplot as plt
 from matplotlib.pyplot import figure
 from matplotlib.colors import ListedColormap
 
-f = open('Training Attempt #8\' - 1073 ep - PROMISING RESULTS/log.txt', 'r')
+f = open('Training Attempt #8\'\'\'\' - 2901 ep - FIRST SUCCESSFUL TRAINING/log.txt')
 data = f.read()
 
 episode_regex = re.compile('Episode (\d+)')
@@ -31,16 +31,16 @@ for episode in episodes:
     if episode in episodes_done:
         done[episode] = 1
 
-# figure(figsize=(40, 5), dpi=80)
+# figure(figsize=(60, 5), dpi=80)
 # color_map = ListedColormap(['red', 'darkblue'])
 # plt.scatter(episodes, np.zeros(len(episodes)), c=done, cmap=color_map)
 # plt.ylim(-0.1, 0.1)
 
-
+# figure(figsize=(20, 5), dpi=80)
 # plt.plot(episodes, epsilon)
 
-figure(figsize=(30, 15), dpi=80)
-plt.plot(episodes, scores)
+figure(figsize=(60, 15), dpi=80)
+# plt.plot(episodes, scores)
 plt.plot(episodes, durations)
 
 plt.show()
